@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1048e88d706f472d9c73befccac6c079, type: 3}
+  m_Name: CarrotLevel
+  m_EditorClassIdentifier: 
+  _basket: {fileID: 6432175736245623419, guid: 7c93fc8e6ce00c347942ccf214717715, type: 3}
+  _carrot: {fileID: 5689556671495296027, guid: 0027ec03e266fd24982db9b2efe04ffc, type: 3}
+  _mole: {fileID: 3161448600302949020, guid: 43ba6f350384cef4e941e56e5097b2e8, type: 3}
+  _hole: {fileID: 6954537048441640084, guid: 273cd440d973b9147aaa954ac1a76d11, type: 3}
+  _waterPump: {fileID: 144308381113860087, guid: 1d14ee460c7ddf142b5573732ab74cb5, type: 3}
+  _seedPackage: {fileID: 3389012100759902824, guid: a508c29ae4c51de49abe5088c1c3caaa, type: 3}
+  _seed: {fileID: 6423124451213456683, guid: edf848df38471a64b824c448084f705b, type: 3}
+  _maxMoleToSpawn: 3
+  _catchMoleToWin: 6

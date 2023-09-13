@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad43b9978eaac84ea7764e260d48558, type: 3}
+  m_Name: ChickenLevel
+  m_EditorClassIdentifier: 
+  _chicken: {fileID: 0}
+  _worm: {fileID: 779085405560051524, guid: d659fb5012c31ef4fbbeacadcba5eec7, type: 3}
+  _egg: {fileID: -5208575017751802770, guid: 4d2f9d0c20087704c9ee5547dccd2b22, type: 3}
+  _chickenBasket: {fileID: -1873499516134238859, guid: cddb4d27b15ba7a4c8af820911b07367, type: 3}
+  _wormsToSpawn: 8
+  _eggToWin: 5

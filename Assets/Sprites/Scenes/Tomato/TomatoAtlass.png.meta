@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: d30de95b479eebc40828c416093e6e61
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TomatoBackground
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 1918
+        height: 1086
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -959, y: -543}
+        - {x: -959, y: 271.8806}
+        - {x: -901, y: 318}
+        - {x: -833.6809, y: 422.66327}
+        - {x: -777.1628, y: 449.66602}
+        - {x: -725.5513, y: 446.0736}
+        - {x: -712, y: 428}
+        - {x: -634.66736, y: 406.55786}
+        - {x: -589.8281, y: 429.2218}
+        - {x: -534, y: 423}
+        - {x: -526, y: 460}
+        - {x: -523, y: 485}
+        - {x: -518.1661, y: 541.7329}
+        - {x: 509.86133, y: 537.9778}
+        - {x: 588.13196, y: 471.70898}
+        - {x: 835.57166, y: 489.2622}
+        - {x: 875.631, y: 391.05566}
+        - {x: 959, y: 299.3869}
+        - {x: 959, y: -543}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd41f9ed9cfda2429f577b3888e2061
+      internalID: 1334396126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoHole0
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1255
+        width: 207
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.00879, y: -72.5}
+        - {x: -103.5, y: -11.920898}
+        - {x: -103.5, y: 72.5}
+        - {x: 103.5, y: 72.5}
+        - {x: 103.5, y: -72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca847171bf32b54ca941e7fe057cb9d
+      internalID: 118096731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoShovel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 778
+        height: 815
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -389, y: -396}
+        - {x: -389, y: -206}
+        - {x: -325, y: -104.5}
+        - {x: -258, y: -11.5}
+        - {x: -214, y: 28.5}
+        - {x: -117, y: 54.5}
+        - {x: -67, y: 50}
+        - {x: -26, y: 48.5}
+        - {x: 30, y: 145.5}
+        - {x: 105, y: 222.5}
+        - {x: 119, y: 279.5}
+        - {x: 242, y: 407.5}
+        - {x: 272, y: 407.5}
+        - {x: 338, y: 364.5}
+        - {x: 389, y: 321.5}
+        - {x: 376, y: 230}
+        - {x: 232, y: 130}
+        - {x: 182, y: 122}
+        - {x: 97, y: 10.5}
+        - {x: 65, y: -141}
+        - {x: 10, y: -269}
+        - {x: -81.75717, y: -316.2224}
+        - {x: -130, y: -346}
+        - {x: -229, y: -392}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc1aba91467fe74dacbac20196543ff
+      internalID: 1835238216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoGreemTomato
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1084
+        width: 302
+        height: 325
+      alignment: 9
+      pivot: {x: 0.41286322, y: 0.9626758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -149, y: -162.5}
+        - {x: -149, y: 162.5}
+        - {x: 30, y: 163.5}
+        - {x: 61.5, y: 144.5}
+        - {x: 76.5, y: 117.5}
+        - {x: 127, y: 76.5}
+        - {x: 151, y: 24.5}
+        - {x: 151, y: -55.5}
+        - {x: 140, y: -88.5}
+        - {x: 131, y: -163.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6feab79e2587a94ba1a14bc46d24aeb
+      internalID: -373933878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoRedTomato
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1086
+        width: 301
+        height: 326
+      alignment: 9
+      pivot: {x: 0.40604615, y: 0.9546793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa71381db35b25428e31bd03a4bda1c
+      internalID: 1576356897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoLeaveR0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1369
+        width: 138
+        height: 181
+      alignment: 9
+      pivot: {x: 0.093426, y: 0.31814155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -25.5}
+        - {x: -43, y: -44.5}
+        - {x: -69, y: -68.5}
+        - {x: -69, y: -44.5}
+        - {x: -69, y: -13.5}
+        - {x: -41, y: 20.5}
+        - {x: -51, y: 64.5}
+        - {x: -27, y: 86.5}
+        - {x: 20, y: 86.5}
+        - {x: 41, y: 85.5}
+        - {x: 69, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de381cf8161383e4cbae6b35f300a7a6
+      internalID: -1235969061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoLeaveR1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1421
+        width: 161
+        height: 152
+      alignment: 9
+      pivot: {x: 0.02345437, y: 0.1818944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -45}
+        - {x: -80.5, y: -48}
+        - {x: -80.5, y: -21}
+        - {x: -69.5, y: -1}
+        - {x: -80.5, y: 76}
+        - {x: 21.5, y: 74}
+        - {x: 80.5, y: 52}
+        - {x: 80.5, y: -26}
+        - {x: 62.5, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ac9b8984a15f45be0145090c34795
+      internalID: -1432090278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoBasket
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 537
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 268.5, y: 79}
+        - {x: 268.5, y: -117}
+        - {x: 172.5, y: -224}
+        - {x: 136.5, y: -254}
+        - {x: -6.5, y: -254}
+        - {x: -24.5, y: -248}
+        - {x: -75.5, y: -248}
+        - {x: -139.66257, y: -232.07312}
+        - {x: -143.5, y: -228}
+        - {x: -216.5, y: -213}
+        - {x: -268.5, y: -68}
+        - {x: -268.5, y: 254}
+        - {x: 268.5, y: 254}
+        - {x: 237.5, y: 147}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec1d41203dc3c49b6a86d73785f3b5
+      internalID: 213888326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoCanCap
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1841
+        width: 394
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: -103.5}
+        - {x: -197, y: -51.5}
+        - {x: -197, y: 103.5}
+        - {x: 197, y: 103.5}
+        - {x: 184.5647, y: 42.123413}
+        - {x: 197, y: 26.208008}
+        - {x: 197, y: -18.5}
+        - {x: 183, y: -61.5}
+        - {x: 197, y: -103.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ef79b1af9eb8444a818f589511a02a
+      internalID: -1257826978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWormStay
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1771
+        width: 361
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.99365, y: -61.5}
+        - {x: -153.5, y: -43.5}
+        - {x: -180.5, y: -30.5}
+        - {x: -180.5, y: 9.5}
+        - {x: 61.5, y: 11.5}
+        - {x: 88.5, y: 61.5}
+        - {x: 180.5, y: 61.5}
+        - {x: 180.5, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad3c28070d8bc544ace1f87ee80a07e
+      internalID: -82844431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoLeaveL0
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1530
+        width: 166
+        height: 242
+      alignment: 9
+      pivot: {x: 0.9776784, y: 0.17916189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: -90}
+        - {x: -83, y: -96}
+        - {x: -83, y: 12.499878}
+        - {x: -73, y: 38}
+        - {x: -83, y: 121}
+        - {x: 83, y: 121}
+        - {x: 83, y: -89}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69162df6cf9e96c4ea4a47859725217d
+      internalID: -161771715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoHole1
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1952
+        width: 202
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -47}
+        - {x: -101, y: -48}
+        - {x: -100, y: 47}
+        - {x: 100, y: 47}
+        - {x: 100, y: -22}
+        - {x: 45, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75edc841b36f1694282c5752f47ea31d
+      internalID: 1442348709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWormMove0
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1433
+        width: 362
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -181, y: -69.5}
+        - {x: -181, y: -2.5}
+        - {x: -111, y: 5.5}
+        - {x: -64, y: 69.5}
+        - {x: 162, y: 69.5}
+        - {x: 181, y: 16.5}
+        - {x: 181, y: -69.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb499c7866b70746b82e2fac7244bf7
+      internalID: -1968237973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWormInAir0
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1378
+        width: 106
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -199.5}
+        - {x: -28, y: -168.5}
+        - {x: -53, y: -134.5}
+        - {x: -53, y: 199.5}
+        - {x: 44, y: 198.5}
+        - {x: 49, y: -1.5}
+        - {x: 50, y: -25.5}
+        - {x: 53, y: -38.5}
+        - {x: 53, y: -199.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0711a7df35044588c88a36370f4b1
+      internalID: 672229251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoHole2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 969
+        width: 205
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: -50}
+        - {x: -102.5, y: -25}
+        - {x: -101.5, y: -8}
+        - {x: -9.5, y: 50}
+        - {x: 106, y: 53}
+        - {x: 102.5, y: -24}
+        - {x: 97.5, y: -50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650cbf54e88f0974eb6724886a4d0000
+      internalID: -583285520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWormMove1
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1104
+        width: 359
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: -63}
+        - {x: -179.5, y: -63}
+        - {x: -175.5, y: 6}
+        - {x: -150.5, y: 63}
+        - {x: 172.5, y: 63}
+        - {x: 179.5, y: -15}
+        - {x: 179.5, y: -63}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35aef2650eccdd4aadef6ae269daaf3
+      internalID: -2098623764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWormCan
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1425
+        width: 407
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -203.5, y: -266.5}
+        - {x: -203.5, y: 222.5}
+        - {x: -143, y: 266.5}
+        - {x: -61.5, y: 266.5}
+        - {x: 42.5, y: 248.5}
+        - {x: 116.5, y: 266.5}
+        - {x: 203.5, y: 266.5}
+        - {x: 203.5, y: -266.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f286f8c72666754785b1a4e22857cd8
+      internalID: 1877146857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWaterStream0
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1628
+        width: 223
+        height: 420
+      alignment: 9
+      pivot: {x: 0.9696313, y: 0.90844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: -210}
+        - {x: -98.5, y: -203}
+        - {x: -111.5, y: -203}
+        - {x: -111.5, y: 210}
+        - {x: 111.5, y: 210}
+        - {x: 111.5, y: 133}
+        - {x: 64.5, y: 5}
+        - {x: 58.5, y: -210}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af32563c740c1241bbfc995ff66262f
+      internalID: -998915831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWaterStream1
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1624
+        width: 219
+        height: 424
+      alignment: 9
+      pivot: {x: 0.9644647, y: 0.891453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: -212}
+        - {x: -109.5, y: -212}
+        - {x: -108.5, y: -64}
+        - {x: -92.5, y: 83}
+        - {x: -12.5, y: 190}
+        - {x: 109.5, y: 212}
+        - {x: 109.5, y: 120}
+        - {x: 67.5, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75719590e54f7a40b2f85636114aeb8
+      internalID: 471416714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWaterStream2
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1614
+        width: 229
+        height: 434
+      alignment: 9
+      pivot: {x: 0.96093273, y: 0.89318484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114.5, y: -217}
+        - {x: 27.5, y: -191}
+        - {x: -31.25293, y: -216.99988}
+        - {x: -114.5, y: -217}
+        - {x: -102.5, y: 22}
+        - {x: -37.5, y: 217}
+        - {x: 114.5, y: 217}
+        - {x: 114.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f72ad6c91b3474bbbe82ee0ae2dd4c
+      internalID: -1524487612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoBasketFront
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1435
+        width: 494
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -247, y: -100}
+        - {x: -247, y: 100}
+        - {x: 18, y: 81}
+        - {x: 179, y: 76}
+        - {x: 227, y: 100}
+        - {x: 247, y: 100}
+        - {x: 247, y: 67}
+        - {x: 233, y: 57}
+        - {x: 200, y: -100}
+        - {x: -11, y: -100}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9531a0fe213f438370f76f58c0b0b
+      internalID: 727469598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWormInAir1
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1205
+        width: 106
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: -197.5}
+        - {x: -21, y: -197.5}
+        - {x: -35.5, y: -127.5}
+        - {x: -42, y: -87.5}
+        - {x: -51.5, y: -58.5}
+        - {x: -51.5, y: 137.5}
+        - {x: -40, y: 184.5}
+        - {x: -36, y: 194.5}
+        - {x: 53, y: 197.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c1afc408af033449e313510596c2c8
+      internalID: 1438235377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWateringCan
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1024
+        width: 703
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121.5, y: -204.5}
+        - {x: -131.5, y: -147.5}
+        - {x: -214.5, y: 7.5}
+        - {x: -351.5, y: 102.5}
+        - {x: -347.5, y: 155.5}
+        - {x: -263.5, y: 194.5}
+        - {x: -255.5, y: 194.5}
+        - {x: -246.5, y: 194.5}
+        - {x: -210.5, y: 204.5}
+        - {x: 329.5, y: 204.5}
+        - {x: 330.5, y: 117.5}
+        - {x: 341.5, y: 86.5}
+        - {x: 351.5, y: 1.5}
+        - {x: 162.5, y: -204.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96240eaaaeee5df42a01396df59d2f90
+      internalID: -1266687998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoLeaveL1
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 929
+        width: 148
+        height: 166
+      alignment: 9
+      pivot: {x: 0.96464497, y: 0.13813469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -65}
+        - {x: -74, y: -42}
+        - {x: -74, y: 61}
+        - {x: -51, y: 83}
+        - {x: 74, y: 83}
+        - {x: 60, y: 41}
+        - {x: 74, y: 7}
+        - {x: 74, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5f10917f7fac140bfd5b95457ff25e
+      internalID: 936914297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWormInAir2
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 728
+        width: 96
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -203.5}
+        - {x: -48, y: -35.5}
+        - {x: -33, y: 31.5}
+        - {x: -48, y: 66.5}
+        - {x: -48, y: 203.5}
+        - {x: 48, y: 203.5}
+        - {x: 48, y: -203.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb0f46f2580ae40bde8ae3921f4747
+      internalID: -877582591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoTomatoSeed
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 0
+        width: 114
+        height: 726
+      alignment: 9
+      pivot: {x: 0.43041778, y: 0.030171739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf509f46d4dd34395d5379b2e6be7e
+      internalID: -1533431952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomatoWormCanUpPart
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1952
+        width: 287
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.446594, y: -53}
+        - {x: -143.5, y: -11.5}
+        - {x: -143.5, y: 48}
+        - {x: 143.5, y: 48}
+        - {x: 145, y: -16.674927}
+        - {x: 49.5, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d11188a183d664faf9ddc29e61d83a
+      internalID: 1892273948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TomatoBackground: 1334396126
+      TomatoBasket: 213888326
+      TomatoBasketFront: 727469598
+      TomatoCanCap: -1257826978
+      TomatoGreemTomato: -373933878
+      TomatoHole0: 118096731
+      TomatoHole1: 1442348709
+      TomatoHole2: -583285520
+      TomatoLeaveL0: -161771715
+      TomatoLeaveL1: 936914297
+      TomatoLeaveR0: -1235969061
+      TomatoLeaveR1: -1432090278
+      TomatoRedTomato: 1576356897
+      TomatoShovel: 1835238216
+      TomatoTomatoSeed: -1533431952
+      TomatoWaterStream0: -998915831
+      TomatoWaterStream1: 471416714
+      TomatoWaterStream2: -1524487612
+      TomatoWateringCan: -1266687998
+      TomatoWormCan: 1877146857
+      TomatoWormCanUpPart: 1892273948
+      TomatoWormInAir0: 672229251
+      TomatoWormInAir1: 1438235377
+      TomatoWormInAir2: -877582591
+      TomatoWormMove0: -1968237973
+      TomatoWormMove1: -2098623764
+      TomatoWormStay: -82844431
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

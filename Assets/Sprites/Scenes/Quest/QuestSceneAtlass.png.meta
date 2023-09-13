@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: 4f604b4386b1a5950990e7dc8038d45d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueCar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1635
+        width: 900
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 423, y: -106.5}
+        - {x: 51.75702, y: -123.93506}
+        - {x: 23, y: -145.5}
+        - {x: -13, y: -148}
+        - {x: -218, y: -148}
+        - {x: -233, y: -136}
+        - {x: -245, y: -134}
+        - {x: -450, y: -120.5}
+        - {x: -449, y: 77.5}
+        - {x: -396, y: 147.5}
+        - {x: -222.63419, y: 141.0227}
+        - {x: -213, y: 90.5}
+        - {x: -208, y: 80.5}
+        - {x: -141, y: 66.5}
+        - {x: -80, y: 63}
+        - {x: -52, y: 64}
+        - {x: -4, y: 81.5}
+        - {x: 58, y: 132.5}
+        - {x: 381, y: 100.5}
+        - {x: 403, y: 87.5}
+        - {x: 450, y: 53.5}
+        - {x: 450, y: -100.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6bda9dad67e30e97bc0bb16802a02
+      internalID: 145965314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatEar1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1919
+        width: 77
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -64}
+        - {x: -38.5, y: 64}
+        - {x: 38.5, y: 64}
+        - {x: 38.5, y: -22}
+        - {x: 1.5, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2f6162a9add9508751b78796a067b
+      internalID: 884344150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkSteeringWheel
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1972
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -38}
+        - {x: -41, y: -38}
+        - {x: -41, y: 38}
+        - {x: 41, y: 38}
+        - {x: 41, y: -6}
+        - {x: -4, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9efbf33f1c6d132808d7013e102f1b
+      internalID: 133598983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brow1
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2010
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4682c17fd80c96fe9ff91a07aa15cb2
+      internalID: 543252103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brow2
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2008
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71005e49922c985b97c8bd99a6ebae9
+      internalID: -1953743381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogLeg1
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1897
+        width: 113
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -75.5}
+        - {x: -10.5, y: -75.5}
+        - {x: -55.5, y: -45.5}
+        - {x: -56.5, y: 75.5}
+        - {x: 56.5, y: 74.5}
+        - {x: 56.5, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4e3055972f09e0b1a0d2bd678f837
+      internalID: -212116251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogArm1
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1821
+        width: 166
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -53}
+        - {x: -79, y: -14}
+        - {x: -83, y: 23}
+        - {x: -59, y: 26}
+        - {x: -45, y: 56}
+        - {x: -39, y: 56}
+        - {x: -1, y: 28}
+        - {x: 42, y: 13}
+        - {x: 83, y: -11.5}
+        - {x: 83, y: -40}
+        - {x: 63, y: -55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf8c61dd892fc145a9d12673ec8a997
+      internalID: -15154371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1844
+        width: 86
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -100}
+        - {x: -39, y: 24}
+        - {x: -43, y: 102}
+        - {x: 43, y: 102}
+        - {x: 43, y: 61}
+        - {x: 34, y: -15}
+        - {x: 12, y: -100}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dce3cce761584fab5111c8f4d61412
+      internalID: -1702962390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatFace
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 921
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -38}
+        - {x: -37, y: -38}
+        - {x: -48, y: -8}
+        - {x: -22, y: 38}
+        - {x: 20, y: 38}
+        - {x: 48, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b5c2b1ac886c7cd89ee73c87fcf79e
+      internalID: -744926984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogFace
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1880
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -80}
+        - {x: -6.5, y: -39}
+        - {x: -45.5, y: -28}
+        - {x: -86.5, y: 2}
+        - {x: -86.5, y: 84}
+        - {x: 86.5, y: 84}
+        - {x: 86.5, y: -84}
+        - {x: 41.5, y: -84}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c3f09f8e808363b7308754b633904
+      internalID: -70307893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkCar
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1563
+        width: 1016
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 170.5}
+        - {x: -68, y: 196.5}
+        - {x: -43, y: 216.5}
+        - {x: -16.567627, y: 218.5}
+        - {x: 222, y: 218.5}
+        - {x: 344, y: 87.5}
+        - {x: 406, y: 66.5}
+        - {x: 473, y: 54.5}
+        - {x: 508, y: 41.5}
+        - {x: 508, y: -130.5}
+        - {x: 448, y: -154.5}
+        - {x: 396, y: -219.5}
+        - {x: 364, y: -219.5}
+        - {x: 334, y: -181.5}
+        - {x: 247, y: -132.5}
+        - {x: 152, y: -219.5}
+        - {x: 117, y: -219.5}
+        - {x: 101, y: -160.5}
+        - {x: 63, y: -178.5}
+        - {x: -76, y: -179.5}
+        - {x: -76, y: 60.5}
+        - {x: -76, y: 85.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53a4e494e39d92eada6bf7a321946a
+      internalID: 1172278416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1662
+        width: 122
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe13b9bef4587952ab5b6397735d5d7
+      internalID: -508545856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1354
+        width: 908
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -148}
+        - {x: -138, y: -148}
+        - {x: -245, y: -139}
+        - {x: -285, y: -117}
+        - {x: -454, y: -107}
+        - {x: -454, y: 148}
+        - {x: -256, y: 147}
+        - {x: -225, y: 141}
+        - {x: -130, y: 68}
+        - {x: -90, y: 65}
+        - {x: -57, y: 68}
+        - {x: 58, y: 139}
+        - {x: 417, y: 97}
+        - {x: 454, y: 42}
+        - {x: 454, y: -107}
+        - {x: 71, y: -125}
+        - {x: 19, y: -140}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb83c505ecc77c699210e0a4500599
+      internalID: -321996835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkBackWheel
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1433
+        width: 229
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: -97}
+        - {x: 40.5, y: -104}
+        - {x: -42.5, y: -111}
+        - {x: -114.5, y: -38}
+        - {x: -114.5, y: 35}
+        - {x: -68.5, y: 83}
+        - {x: -20.5, y: 111}
+        - {x: 114.5, y: 111}
+        - {x: 114.5, y: -56}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3540b471bf923746a9561d66fc7ae446
+      internalID: 1393122369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogBody
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1255
+        width: 301
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.5, y: -173}
+        - {x: -150.5, y: -109}
+        - {x: -150.5, y: 85}
+        - {x: -37.5, y: 173}
+        - {x: 65.5, y: 173}
+        - {x: 150.5, y: 26}
+        - {x: 150.5, y: -91}
+        - {x: 93.5, y: -173}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e586b2ee699a6d490cdbb33f86cda2
+      internalID: 1715371580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatArm1
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1503
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -48.5}
+        - {x: -59, y: -31.5}
+        - {x: -59, y: 7.5}
+        - {x: 21, y: 48.5}
+        - {x: 46, y: 48.5}
+        - {x: 59, y: 12.5}
+        - {x: 25, y: -39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e9234a571da9db95d1cc000fb395c
+      internalID: -1751323634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatBody
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1255
+        width: 302
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -172.5}
+        - {x: -102, y: -153.5}
+        - {x: -133, y: -128.5}
+        - {x: -151, y: -85.5}
+        - {x: -151, y: 32.5}
+        - {x: -102, y: 106.5}
+        - {x: -56, y: 172.5}
+        - {x: 53, y: 172.5}
+        - {x: 102, y: 104.5}
+        - {x: 151, y: -29.5}
+        - {x: 150, y: -133.5}
+        - {x: 55, y: -172.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8ef89c671292875ae464a721595722
+      internalID: -774388881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBalls
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1142
+        width: 181
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: -57}
+        - {x: -90.5, y: 56}
+        - {x: -31.5, y: 57}
+        - {x: 21.5, y: 49}
+        - {x: 90.5, y: 50}
+        - {x: 90.5, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb06a0498d1c915a8b2806de34743336
+      internalID: -2052865275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxEar1
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1850
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: -47.5}
+        - {x: -32.5, y: -21.5}
+        - {x: -32.5, y: 6.5}
+        - {x: 10.5, y: 47.5}
+        - {x: 22.5, y: 47.5}
+        - {x: 32.5, y: 30.5}
+        - {x: 32.5, y: -40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04dbf4ad46d78fc78af91628d8a9efd
+      internalID: 671467873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxBody
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1288
+        width: 286
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -164}
+        - {x: -97, y: -151}
+        - {x: -143, y: -104}
+        - {x: -143, y: 20}
+        - {x: -71, y: 164}
+        - {x: 46, y: 164}
+        - {x: 110.39905, y: 77.64673}
+        - {x: 118, y: 38}
+        - {x: 143, y: -20}
+        - {x: 143, y: -114}
+        - {x: 73, y: -164}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a468c5a8ebfc045caafc2db9ba211f2
+      internalID: -1974277385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogArm2
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1167
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -44.5}
+        - {x: -55.5, y: -26.5}
+        - {x: -55.5, y: 2.5}
+        - {x: 23.5, y: 44.5}
+        - {x: 56, y: 44.5}
+        - {x: 56, y: -12.5}
+        - {x: 15.5, y: -44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ba19cdf7cafaf49bb9d024d91b368
+      internalID: -1524285116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElefantHead
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 987
+        width: 384
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -191}
+        - {x: -192, y: -191}
+        - {x: -192, y: -22}
+        - {x: -121, y: 22}
+        - {x: -106, y: 79}
+        - {x: 11, y: 191}
+        - {x: 88, y: 191}
+        - {x: 192, y: 68}
+        - {x: 192, y: -92}
+        - {x: 151, y: -126}
+        - {x: 81, y: -141}
+        - {x: -32, y: -167}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049798a93c08066b088888b5c9fc3250
+      internalID: 97996391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElefantEar
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1197
+        width: 133
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -96.5}
+        - {x: -66.5, y: -7.5}
+        - {x: -66.5, y: 96.5}
+        - {x: 24.5, y: 96.5}
+        - {x: 66.5, y: 6.5}
+        - {x: 66.5, y: -74.5}
+        - {x: 38.5, y: -96.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f1b4dcc11566688956b97d8622f26
+      internalID: 1988285324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCar
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 921
+        width: 875
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -413.5, y: -161}
+        - {x: -437.5, y: 6}
+        - {x: -437.5, y: 38}
+        - {x: -426.5, y: 51}
+        - {x: -416.5, y: 57}
+        - {x: -364.5, y: 57}
+        - {x: -303.5, y: 56}
+        - {x: -266.5, y: 56}
+        - {x: -127.5, y: 54}
+        - {x: -140.5, y: 161}
+        - {x: -48.5, y: 161}
+        - {x: 96.5, y: 75}
+        - {x: 410.5, y: 67}
+        - {x: 437.5, y: 51}
+        - {x: 437.5, y: -23}
+        - {x: 384.5, y: -139}
+        - {x: 275.5, y: -161}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec0b934a35517779a30acb005a59f4
+      internalID: 673081116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxEar2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1590
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -43.5}
+        - {x: -32.5, y: 43.5}
+        - {x: -21.5, y: 43.5}
+        - {x: 32.5, y: 9.5}
+        - {x: 32.5, y: -8.5}
+        - {x: 4.5, y: -43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bdbe0f1ae3ebd238bc1709861ce227
+      internalID: 1392304921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarDetail
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 860
+        width: 53
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -193}
+        - {x: -11.5, y: -176}
+        - {x: -26.5, y: 193}
+        - {x: -1.5, y: 188}
+        - {x: 26.5, y: 138}
+        - {x: 26.5, y: -193}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc70bcd4ca17200096e61e1bf1473a1
+      internalID: 822468902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClosedEye1
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 764
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204e35457387fd7dbace74d09176e47
+      internalID: 603312504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 972
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -960.5, y: -486}
+        - {x: -960.5, y: 311}
+        - {x: -881.5, y: 294}
+        - {x: -843.5, y: 260}
+        - {x: -804.5, y: 265}
+        - {x: -785.5, y: 325}
+        - {x: -753.5, y: 349}
+        - {x: -709.5, y: 349}
+        - {x: -580.5, y: 342}
+        - {x: -542.5, y: 364}
+        - {x: -469.5, y: 333}
+        - {x: -447.5, y: 313}
+        - {x: -364.5, y: 313}
+        - {x: -333, y: 340}
+        - {x: -307, y: 389}
+        - {x: -303, y: 431}
+        - {x: -266.5, y: 436}
+        - {x: -259.5, y: 486}
+        - {x: -177.5, y: 486}
+        - {x: -168.5, y: 434}
+        - {x: 298.5, y: 433}
+        - {x: 330.31555, y: 356.68396}
+        - {x: 367.5, y: 358}
+        - {x: 416.5, y: 388}
+        - {x: 455.5, y: 319}
+        - {x: 481.5, y: 286}
+        - {x: 772, y: 271}
+        - {x: 789, y: 264}
+        - {x: 827, y: 261}
+        - {x: 858, y: 301}
+        - {x: 872.5, y: 351}
+        - {x: 925.67957, y: 357.64746}
+        - {x: 960, y: 297}
+        - {x: 960.5, y: -486}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006e63c33fb34204a0bc402c4f21676
+      internalID: -1986932517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingWheel
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 802
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: -76}
+        - {x: 43, y: -106}
+        - {x: -29, y: -106}
+        - {x: -106, y: -62}
+        - {x: -106, y: 61}
+        - {x: -27.5, y: 108.5}
+        - {x: 24.5, y: 108.5}
+        - {x: 106, y: 63}
+        - {x: 106, y: 5}
+        - {x: 102, y: -25}
+        - {x: 99, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2fb7d32aaa18c49ee29d852ba7e3e
+      internalID: -1912010030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxLeg1
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 763
+        width: 97
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -62.5}
+        - {x: -48.5, y: 65.5}
+        - {x: 26.5, y: 65.5}
+        - {x: 48.5, y: 33.5}
+        - {x: 48.5, y: -65.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061989b1e0b1f2ebfa5cd04ee13f7b16
+      internalID: -175190021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkCarDetail1
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 654
+        width: 46
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7b7eb376fa4878a064e2f9a2551c2
+      internalID: 1444145527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkCarDetail2
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1206
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74775e94669e33668a62107bb3aa7013
+      internalID: -1899376634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueCarDetail
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 327
+        width: 118
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -164}
+        - {x: -58.5, y: -129.5}
+        - {x: -33.5, y: -59.5}
+        - {x: -33.5, y: 39.5}
+        - {x: -36.5, y: 57.5}
+        - {x: -58.5, y: 90.5}
+        - {x: -59, y: 163}
+        - {x: 59, y: 163}
+        - {x: 59, y: -164}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cba335bc71bbaa29657341d507d681
+      internalID: 475378139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarDetail
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 0
+        width: 116
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: -159}
+        - {x: -39, y: -79}
+        - {x: -37, y: 58}
+        - {x: -58, y: 162}
+        - {x: 58, y: 162}
+        - {x: 58, y: -162}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d813e9524d64ce9bc8b624173f7f13
+      internalID: 1482080834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milk
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1846
+        width: 80
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc157a725de49de9a58ce8b408493ad
+      internalID: 1690023378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenChest
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1929
+        width: 137
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2477b780265ffc24f93f0de99a1f9be8
+      internalID: -229907790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteeringWheel1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1900
+        width: 130
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -51.5}
+        - {x: -4, y: -71.5}
+        - {x: -65, y: -71.5}
+        - {x: -65, y: 47.5}
+        - {x: -41, y: 71.5}
+        - {x: 29, y: 71.5}
+        - {x: 65, y: 71.5}
+        - {x: 65, y: 2.5}
+        - {x: 65, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1421d67d6bc6e1efdba726fd7d6d5411
+      internalID: -727397427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatEar2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1851
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -49.5}
+        - {x: -24.5, y: -36.5}
+        - {x: -33.5, y: 4.5}
+        - {x: 13.5, y: 49.5}
+        - {x: 23.5, y: 49.5}
+        - {x: 33.5, y: 36.5}
+        - {x: 33.5, y: -49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d37a1c69cfb85b3b34b6af6b49e1db
+      internalID: 1255781303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1845
+        width: 183
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: -99.5}
+        - {x: -91.5, y: -75.5}
+        - {x: -91.5, y: 14.5}
+        - {x: -32.5, y: 99.5}
+        - {x: 59.5, y: 99.5}
+        - {x: 91.5, y: -0.5}
+        - {x: 91.5, y: -61.5}
+        - {x: 38.5, y: -99.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d038a54fbb1d2fa2b3abff0f5d39064
+      internalID: 708599490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honey
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1839
+        width: 142
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -104.5}
+        - {x: -71, y: -104.5}
+        - {x: -71, y: 104.5}
+        - {x: 71, y: 104.5}
+        - {x: 71, y: -95.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fba67b2863122968cc355b94bfd95b
+      internalID: -1233579443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomato
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1907
+        width: 132
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -68.5}
+        - {x: -66, y: -48.5}
+        - {x: -66, y: 68.5}
+        - {x: 66, y: 68.5}
+        - {x: 66, y: -32.5}
+        - {x: 39, y: -68.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3146c2592f77c6eb035a77bfe9843b
+      internalID: 1018207663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackWheelBlak
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1156
+        width: 211
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -100.5}
+        - {x: -105.5, y: -57.5}
+        - {x: -105.5, y: 41.5}
+        - {x: -56.5, y: 100.5}
+        - {x: 0.5, y: 100.5}
+        - {x: 53.5, y: 93.5}
+        - {x: 105.5, y: 59.5}
+        - {x: 105.5, y: -55.5}
+        - {x: 32.5, y: -100.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174d83b7a7734c647b95fedfa11bbe9c
+      internalID: 1060092070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatTail
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1301
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ef3af7b0237441a3be81e56f72381
+      internalID: 1004113893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxTail
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1195
+        width: 160
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -94.5}
+        - {x: -80, y: 94.5}
+        - {x: 0, y: 94.5}
+        - {x: -3, y: 72.5}
+        - {x: -4, y: 49.5}
+        - {x: -2, y: 24.5}
+        - {x: 31, y: 1.5}
+        - {x: 80, y: -36.5}
+        - {x: 80, y: -94.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ffe05089d9f8a24b3411db71e5b316
+      internalID: 752905150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 977
+        width: 284
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: -104}
+        - {x: -58, y: -104}
+        - {x: -102, y: -109}
+        - {x: -142, y: -109}
+        - {x: -142, y: 109}
+        - {x: 36, y: 109}
+        - {x: 142, y: 56}
+        - {x: 142, y: -49}
+        - {x: 110, y: -95}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e139fb31cafaa854a8e47b27d2d67c9c
+      internalID: -227917659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBack
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 402
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -174, y: -89}
+        - {x: -201, y: -71}
+        - {x: -201, y: 64}
+        - {x: -157, y: 84}
+        - {x: 134, y: 89}
+        - {x: 200, y: 89}
+        - {x: 201, y: -60}
+        - {x: -21, y: -60}
+        - {x: -35, y: -89}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603f062acc08e63387d3eef7736fbc0
+      internalID: 1623708850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElefantCloseEye
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 748
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -26}
+        - {x: -29.5, y: -11}
+        - {x: -29.5, y: 26}
+        - {x: 29.5, y: 26}
+        - {x: 29.5, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9c63530644952db2db25c4f5b8723
+      internalID: -1861685874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatArm2
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1326
+        width: 148
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -54}
+        - {x: -34, y: -33}
+        - {x: -67, y: 16}
+        - {x: -65, y: 46}
+        - {x: -39, y: 54}
+        - {x: 19, y: 17}
+        - {x: 74, y: -4}
+        - {x: 74, y: -54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec32384549fc9677b6f60fe4bdd3478
+      internalID: 1733501555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteeringWheel2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1121
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: -62}
+        - {x: -83, y: 28}
+        - {x: -30, y: 92}
+        - {x: 24, y: 92}
+        - {x: 58, y: 13}
+        - {x: 83, y: -14}
+        - {x: 83, y: -61}
+        - {x: 39, y: -74}
+        - {x: -6, y: -92}
+        - {x: -50, y: -92}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac0f4e50f0888fc8b661e71d87b6de8
+      internalID: 1759602612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElefantTrunk
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 973
+        width: 268
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: -41}
+        - {x: -134, y: -21}
+        - {x: -34, y: 16}
+        - {x: 41, y: 8.5}
+        - {x: 87, y: 84}
+        - {x: 134, y: 84}
+        - {x: 130, y: 42}
+        - {x: 104, y: -51}
+        - {x: 37, y: -86}
+        - {x: -45, y: -88}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ead8a5727ed32094061f30a6b7440
+      internalID: 1350371131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElefantEye
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1142
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -30.5}
+        - {x: -34.5, y: 14.5}
+        - {x: -13.5, y: 30.5}
+        - {x: 34.5, y: 30.5}
+        - {x: 34.5, y: -30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea036ab7578ab3ba68f0284200f494d1
+      internalID: 73986509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatLeg2
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1894
+        width: 111
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -73}
+        - {x: -55.5, y: -25}
+        - {x: -55.5, y: 44}
+        - {x: -24.5, y: 77}
+        - {x: 34.5, y: 77}
+        - {x: 55.5, y: 44}
+        - {x: 55.5, y: -22}
+        - {x: 41.5, y: -61}
+        - {x: 10.5, y: -73}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ae84131e8d1742b86a06762de8f32
+      internalID: 405714810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxArm2
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1223
+        width: 130
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -49.5}
+        - {x: -41, y: -24.5}
+        - {x: -65, y: 13.5}
+        - {x: -58, y: 49.5}
+        - {x: -41, y: 49.5}
+        - {x: -4, y: 22.5}
+        - {x: 65, y: -4.5}
+        - {x: 65, y: -34.5}
+        - {x: 47, y: -49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830a124fc07cd9eebcd0bcc31985c82
+      internalID: -1257072049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogTail
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1213
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -49}
+        - {x: -51, y: -1}
+        - {x: -50, y: 59}
+        - {x: -44, y: 59}
+        - {x: -5, y: 8}
+        - {x: 46, y: -13}
+        - {x: 58, y: -44}
+        - {x: 47, y: -59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1c15ab4448100b69de81af75e619ef
+      internalID: -1770416904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxArm1
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1155
+        width: 107
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -42}
+        - {x: -40.5, y: -42}
+        - {x: -53.5, y: -21}
+        - {x: -53.5, y: 1}
+        - {x: -30.5, y: 21}
+        - {x: -3.5, y: 26}
+        - {x: 30.5, y: 42}
+        - {x: 53.5, y: 42}
+        - {x: 53.5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7aafaca7935667dba182b49162ebe3
+      internalID: -974240893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogLeg2
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1140
+        width: 110
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -74.5}
+        - {x: -55, y: 29.5}
+        - {x: -41, y: 74.5}
+        - {x: 55, y: 74.5}
+        - {x: 55, y: -74.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a65612b39249e76ab20657db5412ab
+      internalID: 219469340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogEar1
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1148
+        width: 114
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -81.5}
+        - {x: -57, y: -41.5}
+        - {x: -2, y: 62.5}
+        - {x: 26, y: 81.5}
+        - {x: 57, y: 81.5}
+        - {x: 57, y: 53.5}
+        - {x: 46, y: -31.5}
+        - {x: 31, y: -81.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7392a10bef3181f60aa335b1a989feba
+      internalID: 1674997191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cotton
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1933
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -57.5}
+        - {x: -75, y: -13.5}
+        - {x: -75, y: 56.5}
+        - {x: 72.5, y: 57.5}
+        - {x: 75, y: -31.5}
+        - {x: 35.5, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4ddac70235f563a083f7ef4fff003
+      internalID: 1924997538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogEar2
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 707
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 18.5}
+        - {x: -63.5, y: 69.5}
+        - {x: -51.5, y: 77.5}
+        - {x: 62, y: 43.5}
+        - {x: 61, y: -77.5}
+        - {x: -4, y: -77.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84918801454712cdba70aa7a6116018e
+      internalID: 2062257581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElefantBody
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 849
+        width: 337
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.5, y: -133.5}
+        - {x: -71.5, y: -125.5}
+        - {x: -103.5, y: -133.5}
+        - {x: -143.5, y: -138.5}
+        - {x: -168.5, y: -101.5}
+        - {x: -168.5, y: -63.5}
+        - {x: -136.5, y: -52.5}
+        - {x: -97.5, y: -49.5}
+        - {x: -34.5, y: 115.5}
+        - {x: 21.5, y: 138.5}
+        - {x: 82.5, y: 137.5}
+        - {x: 96.5, y: 109.5}
+        - {x: 102.5, y: 55.5}
+        - {x: 166.5, y: -41.5}
+        - {x: 168.5, y: -118.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5076208b587265f6b96e2389adc3143f
+      internalID: 571331193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxFace
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1268
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49328458, y: 0.89485437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -59.5}
+        - {x: -79.5, y: -9.5}
+        - {x: -79.5, y: 34.5}
+        - {x: 24.5, y: 59.5}
+        - {x: 79.5, y: 59.5}
+        - {x: 79.5, y: 13.5}
+        - {x: 17.5, y: -34.5}
+        - {x: -6.5, y: -59.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f750d858693466818519698a9f44337
+      internalID: -477237529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggs
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1912
+        width: 102
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -68}
+        - {x: -51, y: 68}
+        - {x: 51, y: 68}
+        - {x: 51, y: -36}
+        - {x: 13, y: -68}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399b189a2ba798e0fb3ad8fcb0d641e1
+      internalID: 275868077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxLeg2
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1153
+        width: 96
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -63.5}
+        - {x: -48, y: -23.5}
+        - {x: -48, y: 40.5}
+        - {x: -21, y: 64.5}
+        - {x: 24, y: 64.5}
+        - {x: 48, y: 20.5}
+        - {x: 48, y: -43.5}
+        - {x: 29, y: -64.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720dfabc73a4eff4a574dd50a73510e
+      internalID: 692507079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pupil1
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 505
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd41fbf02cdce57b904235bbb03d7a
+      internalID: -2030858691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pupil2
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 444
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc762eb5bc0bce8aa3c7ddf8718662c
+      internalID: -750429501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClosedEye2
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 750
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -54.5}
+        - {x: -45.5, y: -31.5}
+        - {x: -45.5, y: 33.5}
+        - {x: -14.5, y: 54.5}
+        - {x: 24.5, y: 54.5}
+        - {x: 45.5, y: 15.5}
+        - {x: 45.5, y: -27.5}
+        - {x: 14.5, y: -54.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef07eacf5a3ce4aaa87b8c5644d374
+      internalID: 1642120246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatChick2
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1399
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 31.5}
+        - {x: -37, y: 46.5}
+        - {x: 11, y: 19.5}
+        - {x: 37, y: -46.5}
+        - {x: 27, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ed39b054b4f3206b66fd9b166d33ec
+      internalID: 273989072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatChick1
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1398
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -32.5}
+        - {x: -26, y: 10.5}
+        - {x: -3, y: 32.5}
+        - {x: 26, y: 32.5}
+        - {x: 26, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26afcea20251eeac8639d3d4014c947
+      internalID: -1118182039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElefantEyeBall
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1568
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc3d31cd86e7eda891f00f741ed1a3
+      internalID: 1853440312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestSceneAtlass_0
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1563
+        width: 1016
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -164, y: -184.5}
+        - {x: -203, y: -219.5}
+        - {x: -236, y: -219.5}
+        - {x: -272, y: -181.5}
+        - {x: -378, y: -172.5}
+        - {x: -428, y: -219.5}
+        - {x: -485, y: -219.5}
+        - {x: -482, y: -132.5}
+        - {x: -508, y: -119.5}
+        - {x: -508, y: 14.5}
+        - {x: -494, y: 53.5}
+        - {x: -473, y: 56.5}
+        - {x: -115, y: 56.5}
+        - {x: -76, y: 91.5}
+        - {x: -76, y: 72.5}
+        - {x: -76, y: -170.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9718de4d8befc7146bc672deb03dcc43
+      internalID: -628909176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Apple: 708599490
+      BackWheelBlak: 1060092070
+      BlueCar: 145965314
+      BlueCarDetail: 475378139
+      Brow1: 543252103
+      Brow2: -1953743381
+      Carrot: -1702962390
+      CatArm1: -1751323634
+      CatArm2: 1733501555
+      CatBody: -774388881
+      CatBrow1: -473904258
+      CatBrow2: 509912485
+      CatChick1: -1118182039
+      CatChick2: 273989072
+      CatEar1: 884344150
+      CatEar2: 1255781303
+      CatFace: -744926984
+      CatLeg2: 405714810
+      CatTail: 1004113893
+      Chest: -508545856
+      ClosedEye1: 603312504
+      ClosedEye2: 1642120246
+      Dialogue: -227917659
+      DogArm1: -15154371
+      DogArm2: -1524285116
+      DogBody: 1715371580
+      DogEar1: 1674997191
+      DogEar2: 2062257581
+      DogFace: -70307893
+      DogLeg1: -212116251
+      DogLeg2: 219469340
+      DogTail: -1770416904
+      Eggs: 275868077
+      ElefantBody: 571331193
+      ElefantCloseEye: -1861685874
+      ElefantEar: 1988285324
+      ElefantEye: 73986509
+      ElefantEyeBall: 1853440312
+      ElefantHead: 97996391
+      ElefantTrunk: 1350371131
+      EyeBalls: -2052865275
+      Eyeball1: 334042011
+      FoxArm1: -974240893
+      FoxArm2: -1257072049
+      FoxBody: -1974277385
+      FoxEar1: 671467873
+      FoxEar2: 1392304921
+      FoxFace: -477237529
+      FoxLeg1: -175190021
+      FoxLeg2: 692507079
+      FoxTail: 752905150
+      GreenBack: 1623708850
+      GreenCar: 673081116
+      GreenCarDetail: 822468902
+      GreenChest: -229907790
+      GreenChest2: 698712638
+      GreenWheel: 863671692
+      Honey: -1233579443
+      Milk: 1690023378
+      OrangeCar: -321996835
+      OrangeCarDetail: 1482080834
+      PinkBackWheel: 1393122369
+      PinkCar: 1172278416
+      PinkCarDetail1: 1444145527
+      PinkCarDetail2: -1899376634
+      PinkSteeringWheel: 133598983
+      PinkWheel: -1312490122
+      QuestSceneAtlass_0: -628909176
+      QuestSceneAtlass_31: -1656334906
+      QuestSceneAtlass_58: -369165012
+      QuestSceneAtlass_59: -264675641
+      QuestSceneAtlass_60: 618831878
+      QuestSceneAtlass_61: 631461729
+      RacingWheel: -1912010030
+      SteeringWheel1: -727397427
+      SteeringWheel2: 1759602612
+      Tomato: 1018207663
+      background: -1986932517
+      cotton: 1924997538
+      pupil1: -2030858691
+      pupil2: -750429501
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

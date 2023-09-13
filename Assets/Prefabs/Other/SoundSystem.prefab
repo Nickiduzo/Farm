@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5451814874868108494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5451814874868108492}
+  - component: {fileID: 5451814874868108499}
+  - component: {fileID: 5302969644302695302}
+  m_Layer: 0
+  m_Name: SoundSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5451814874868108492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5451814874868108494}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2599.0283, y: 1104.9158, z: 0.093252905}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5451814874868108499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5451814874868108494}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9595044edcf76ed489e3c7c16e09e66f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sounds:
+  - _audioClip: {fileID: 8300000, guid: 32f2f5db4f0838b4087146821f112f06, type: 3}
+    _name: Success
+    _volume: 0.8
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+  - _audioClip: {fileID: 8300000, guid: e60fcc915a800f243a60fe692f6c1b42, type: 3}
+    _name: Catch
+    _volume: 0.8
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+  - _audioClip: {fileID: 8300000, guid: 7609af5b97f0ff84f822437b398c4bbf, type: 3}
+    _name: Spray
+    _volume: 0.136
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+  - _audioClip: {fileID: 8300000, guid: 82948b37f9cf3b1418b3dff0a1a9ae20, type: 3}
+    _name: Grind
+    _volume: 0.18
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+  - _audioClip: {fileID: 8300000, guid: 54fe3d33794e9c64ab6b923610b7fcf6, type: 3}
+    _name: HoneyStream
+    _volume: 0.285
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+  - _audioClip: {fileID: 8300000, guid: 54fe3d33794e9c64ab6b923610b7fcf6, type: 3}
+    _name: Water
+    _volume: 0.35
+    _pitch: 0.8
+    _loop: 0
+    Source: {fileID: 0}
+  - _audioClip: {fileID: 8300000, guid: ca58097f940b2b74ab53a7f5f2ced012, type: 3}
+    _name: Win
+    _volume: 0.6
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+  - _audioClip: {fileID: 8300000, guid: 21e80d69992d6af42a4098f11a7c0bca, type: 3}
+    _name: Star
+    _volume: 0.6
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+  - _audioClip: {fileID: 8300000, guid: 8228cc1a32a057b448fa8079d1361773, type: 3}
+    _name: Applause
+    _volume: 0.6
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+  _music:
+    _audioClip: {fileID: 8300000, guid: 23a8b9b4cf7d56b4a8a5be923ce72492, type: 3}
+    _name: Ambient
+    _volume: 0.083
+    _pitch: 1
+    _loop: 0
+    Source: {fileID: 0}
+--- !u!114 &5302969644302695302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5451814874868108494}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11266939fade41499c7446b80e1a4ea6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _soundSystem: {fileID: 5451814874868108499}

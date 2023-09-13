@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fe6bdc0e3bd4dc4abd6a3da390c2f60, type: 3}
+  m_Name: FishLevel
+  m_EditorClassIdentifier: 
+  _fishSpawnCount: 10
+  _fish: {fileID: 4025360595734658733, guid: e27734c50c1508c4b866c0ea173e10ed, type: 3}
+  _fishingNet: {fileID: 2759831854182883127, guid: fddb87fae8748f441b6199493d53d00d, type: 3}
+  _basket: {fileID: 1757021143426022209, guid: 570c0121bd8a7ff44bd60d98d23f83ce, type: 3}
+  _boat: {fileID: 1402167406214571043, guid: 6125453836e2e5044ae351ea7d7a8fcb, type: 3}

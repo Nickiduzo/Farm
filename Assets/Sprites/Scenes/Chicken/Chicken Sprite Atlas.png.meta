@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: fc40379200146724887c0765daff57c6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: body gray
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1689
+        width: 391
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -195.5, y: -179.5}
+        - {x: -195.5, y: -179.5}
+        - {x: -195.5, y: 179.5}
+        - {x: 44.5, y: 179.5}
+        - {x: 81.5, y: 81.5}
+        - {x: 195.5, y: 40.5}
+        - {x: 195.5, y: -179.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79aec2d9d33ce4785a6152d37e35e8
+      internalID: -374269910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body brown
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1680
+        width: 393
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143.5, y: -184}
+        - {x: -144.5, y: -158}
+        - {x: -196.5, y: -150}
+        - {x: -196.5, y: 57}
+        - {x: -154.5, y: 98}
+        - {x: -160.5, y: 150}
+        - {x: -196.5, y: 167}
+        - {x: -196.5, y: 184}
+        - {x: 40.5, y: 184}
+        - {x: 80.5, y: 99}
+        - {x: 196.5, y: 9}
+        - {x: 196.5, y: -184}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4449e55140720f04a9ddc6ea53cf0e47
+      internalID: 990983959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body white
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1685
+        width: 395
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197.5, y: -181.5}
+        - {x: -197.5, y: 36.5}
+        - {x: -93.5, y: 181.5}
+        - {x: 17.5, y: 181.5}
+        - {x: 79.5, y: 89.5}
+        - {x: 197.5, y: 14.5}
+        - {x: 197.5, y: -66.5}
+        - {x: 180.5, y: -117.5}
+        - {x: 166.5, y: -154.5}
+        - {x: 165.5, y: -181.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2db6be591a0274d9b1f8d28b7d8b57
+      internalID: -892304652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open brown eyes
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1958
+        width: 149
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: -38.5}
+        - {x: -74.5, y: -19.5}
+        - {x: -74.5, y: 38.5}
+        - {x: 74.5, y: 38.5}
+        - {x: 74.5, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ae76748b18f7c48ab9b706d17e2561
+      internalID: 324794520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shefl
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1978
+        width: 525
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -32}
+        - {x: -87.5, y: -21}
+        - {x: -128.5, y: -12}
+        - {x: -150.5, y: -19}
+        - {x: -174.5, y: -32}
+        - {x: -262.5, y: -32}
+        - {x: -262.5, y: 32}
+        - {x: 262.5, y: 32}
+        - {x: 262.5, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dab0ddcde3c714bb0a83e14fc419bc
+      internalID: 453026634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close orange eyes
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1945
+        width: 147
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e814995331224a94b770e9db7dafe
+      internalID: -1907130310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open orange eyes
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1944
+        width: 151
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6c7ba653b9b7942b43cfe8b519be63
+      internalID: 56160677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close brown eyes
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1947
+        width: 149
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d991d9b1c64042b5b3d70eeae6f0f
+      internalID: -806100845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing white
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1750
+        width: 293
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -92}
+        - {x: -88.5, y: -82}
+        - {x: -146.5, y: -92}
+        - {x: -146.5, y: 92}
+        - {x: 146.5, y: 92}
+        - {x: 146.5, y: -92}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e6cfd53f50a76449f740e1f4ed8850
+      internalID: -1263908600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close white eyes
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1610
+        width: 152
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc21920e815e6ca4c94bcc41c468368a
+      internalID: -192573269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lamp
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1142
+        width: 226
+        height: 557
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.93679434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -261.5}
+        - {x: 22, y: -259.5}
+        - {x: 2, y: -278.5}
+        - {x: -11.084503, y: -278.5}
+        - {x: -20, y: -259.5}
+        - {x: -39, y: -255.5}
+        - {x: -65, y: -262.5}
+        - {x: -77, y: -278.5}
+        - {x: -113, y: -278.5}
+        - {x: -113, y: -143.5}
+        - {x: -74, y: -112.5}
+        - {x: -60, y: -95.5}
+        - {x: -95, y: -50.5}
+        - {x: -101, y: 28.5}
+        - {x: -113, y: 38.5}
+        - {x: -113, y: 56.5}
+        - {x: -66, y: 97.5}
+        - {x: -71, y: 147.5}
+        - {x: -113, y: 175.5}
+        - {x: -113, y: 278.5}
+        - {x: 57, y: 278.5}
+        - {x: 113, y: 258.5}
+        - {x: 113, y: 239.5}
+        - {x: 21, y: 209.5}
+        - {x: 16, y: 119.5}
+        - {x: 43, y: 66.5}
+        - {x: 113, y: 33.5}
+        - {x: 113, y: -43.5}
+        - {x: 113, y: -193.5}
+        - {x: 84, y: -278.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2014e58318bb407459c78a21ee3ca737
+      internalID: -298269780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: broken white egg
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1557
+        width: 253
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.5, y: -69}
+        - {x: -126.5, y: 69}
+        - {x: -32.5, y: 69}
+        - {x: -5.5, y: 63}
+        - {x: 30.5, y: 69}
+        - {x: 72.5, y: 52}
+        - {x: 126.5, y: 69}
+        - {x: 126.5, y: -69}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fba285aea6da674aad407fb9da920a6
+      internalID: -1050503425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open gray eyes
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1680
+        width: 148
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323db5653ed3337429fe09ed964ee7e1
+      internalID: 2094711911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing brown
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1572
+        width: 290
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -93.5}
+        - {x: -79, y: -80.5}
+        - {x: -107, y: -80.5}
+        - {x: -126, y: -93.5}
+        - {x: -144, y: -93.5}
+        - {x: -144, y: -77.5}
+        - {x: -132, y: -61.5}
+        - {x: -144, y: -23.5}
+        - {x: -144, y: 93.5}
+        - {x: -75, y: 93.5}
+        - {x: -11, y: 75.5}
+        - {x: 49, y: 93.5}
+        - {x: 144, y: 93.5}
+        - {x: 144, y: -93.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4a3abab297c354f9544094858bc779
+      internalID: 1417239573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing orange
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1486
+        width: 305
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152.5, y: -97}
+        - {x: -152.5, y: 97}
+        - {x: 152.5, y: 97}
+        - {x: 152.5, y: 0}
+        - {x: 47.5, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21105e16c9b6aed428507a1ec0bde44c
+      internalID: -719641792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: broken blue egg
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1360
+        width: 246
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: -65.5}
+        - {x: -123, y: -21.5}
+        - {x: -123, y: 38.5}
+        - {x: -87, y: 65.5}
+        - {x: 24, y: 65.5}
+        - {x: 69, y: 56.5}
+        - {x: 123, y: 51.5}
+        - {x: 123, y: -34.5}
+        - {x: 114, y: -65.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5370a282970ff504592e78e84a33cdf9
+      internalID: 142316349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body orange
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1205
+        width: 373
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 186.5, y: 33}
+        - {x: 186.5, y: -71}
+        - {x: 154.5, y: -172}
+        - {x: -114.5, y: -172}
+        - {x: -186.5, y: -106}
+        - {x: -186.5, y: -5}
+        - {x: -175.5, y: 32}
+        - {x: -141.5, y: 102}
+        - {x: -64.5, y: 172}
+        - {x: 2.5, y: 172}
+        - {x: 69.5, y: 90}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473e9ea1a8c6e34d9119037c121f980
+      internalID: -1482337432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg white
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1182
+        width: 149
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7433614053794ca60cc21aee78556
+      internalID: 107823801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tail white
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1081
+        width: 219
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.5, y: -134.5}
+        - {x: -109.5, y: -119.5}
+        - {x: -76.5, y: -62.5}
+        - {x: -66.5, y: -38.5}
+        - {x: -109.5, y: 12.5}
+        - {x: -109.5, y: 130.5}
+        - {x: -99.5, y: 134.5}
+        - {x: -50.5, y: 112.5}
+        - {x: -11.5, y: 126.5}
+        - {x: 6.5, y: 134.5}
+        - {x: 109.5, y: 134.5}
+        - {x: 109.5, y: 1.5}
+        - {x: 96.5, y: -15.5}
+        - {x: 52.5, y: -56.5}
+        - {x: -89.5, y: -134.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae524918c52eb94784614210efc7c6e
+      internalID: 1445162722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00bf51d7af39ae45bf81ab423378c30
+      internalID: 229769759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close gray eyes
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1083
+        width: 154
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: -40}
+        - {x: -77, y: 40}
+        - {x: -19, y: 40}
+        - {x: -10.096008, y: 19.512085}
+        - {x: 2, y: 18}
+        - {x: 15, y: 40}
+        - {x: 77, y: 40}
+        - {x: 77, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7cfff377cdcf43a81e2e933f47142
+      internalID: -1930819941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm lie 2
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1083
+        width: 329
+        height: 84
+      alignment: 9
+      pivot: {x: 0.8670413, y: 0.5669146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.5, y: -40}
+        - {x: 85.5, y: -42}
+        - {x: 50.5, y: -42}
+        - {x: 34.5, y: -38}
+        - {x: 9.5, y: -33}
+        - {x: -29.5, y: -25}
+        - {x: -58.5, y: -33}
+        - {x: -93.5, y: -35}
+        - {x: -107.5, y: -42}
+        - {x: -147.5, y: -42}
+        - {x: -157.5, y: -38}
+        - {x: -164.5, y: -17}
+        - {x: -156.5, y: 12.5}
+        - {x: -91.5, y: 24.5}
+        - {x: -59.5, y: 42.5}
+        - {x: 89.5, y: 42.5}
+        - {x: 95.5, y: 33.5}
+        - {x: 120.5, y: 31.5}
+        - {x: 132.5, y: 42.5}
+        - {x: 164.5, y: 42.5}
+        - {x: 164.5, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b13dfd153a634d8c39554168faaa3
+      internalID: 1498067153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right eye
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1145
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -22.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -22.5, y: 22.5}
+        - {x: 22.5, y: 22.5}
+        - {x: 22.5, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58008fd28e649354f99aecc5779fa507
+      internalID: -885127051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm lie 3
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1082
+        width: 280
+        height: 98
+      alignment: 9
+      pivot: {x: 0.8437688, y: 0.482322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -48}
+        - {x: 8, y: -33}
+        - {x: -26, y: -23}
+        - {x: -69, y: -35}
+        - {x: -76, y: -47}
+        - {x: -140, y: -48}
+        - {x: -140, y: -2.5}
+        - {x: -110, y: 8.5}
+        - {x: -94, y: 22.5}
+        - {x: -86, y: 49.5}
+        - {x: 140, y: 49.5}
+        - {x: 140, y: -49}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2a5fba2ef2b624799c4b6fcfecac0c
+      internalID: -606290539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaw close
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 947
+        width: 102
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff589e899373d4b844186db6f69a02
+      internalID: -507770153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaw open
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 865
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e5dc66df87ee46906465900960092
+      internalID: 1426423701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm fly 1
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 571
+        width: 72
+        height: 279
+      alignment: 9
+      pivot: {x: 0.56684536, y: 0.8951823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -139.5}
+        - {x: -36, y: 139.5}
+        - {x: 36, y: 139.5}
+        - {x: 36, y: 70.5}
+        - {x: 21, y: 58.5}
+        - {x: 18, y: -10.5}
+        - {x: 25, y: -58.5}
+        - {x: 36, y: -84.5}
+        - {x: 36, y: -139.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c1763fa3bedf4c8235cac9b60ddce
+      internalID: 2020557229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm fly 2
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 291
+        width: 70
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5562552, y: 0.8983187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -139.5}
+        - {x: -35, y: 139.5}
+        - {x: 35, y: 139.5}
+        - {x: 35, y: -13.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: -139.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa32bd2506318564980674ddfe510df3
+      internalID: -1420274600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm fly 3
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 7
+        width: 73
+        height: 282
+      alignment: 9
+      pivot: {x: 0.58390915, y: 0.88166916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -141}
+        - {x: -36.5, y: 140}
+        - {x: 25.5, y: 141}
+        - {x: 25.5, y: 121}
+        - {x: 36.5, y: 113}
+        - {x: 36.5, y: 82}
+        - {x: 20.5, y: 67}
+        - {x: 19.5, y: 47}
+        - {x: 16.5, y: 30}
+        - {x: 20.367188, y: 12.222717}
+        - {x: 19.5, y: -5}
+        - {x: 25.594727, y: -27.164307}
+        - {x: 25.5, y: -44}
+        - {x: 36.5, y: -56}
+        - {x: 36.5, y: -141}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c236cccf5d50f4eb1d7ed91d89be31
+      internalID: 582736803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather orange
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 234
+        width: 65
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -90}
+        - {x: -8.5, y: -68}
+        - {x: -20.5, y: -55}
+        - {x: -21.5, y: -43}
+        - {x: -32.5, y: -32}
+        - {x: -32.5, y: 90}
+        - {x: 32.5, y: 90}
+        - {x: 32.5, y: -90}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8883cd36761ed4a9f7c97a1538ce7b
+      internalID: -2008390702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head brown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 308
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154, y: -179}
+        - {x: -154, y: 179}
+        - {x: 17, y: 176}
+        - {x: 46, y: 134}
+        - {x: 63, y: 86}
+        - {x: 101, y: 29}
+        - {x: 154, y: -100}
+        - {x: 154, y: -179}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070b9b72a6bd65468c55cc057af990a
+      internalID: -454986169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather brown
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 60
+        width: 62
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -83.5}
+        - {x: -21, y: -28.5}
+        - {x: -28, y: -3.5}
+        - {x: -27.745117, y: 16.37642}
+        - {x: -31, y: 32.5}
+        - {x: -28, y: 63.5}
+        - {x: -27, y: 74.5}
+        - {x: -14, y: 83.5}
+        - {x: 31, y: 83.5}
+        - {x: 31, y: -83.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73f6042e672bba44bd4d3f0e9fc8680
+      internalID: -1827449438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather gray
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 595
+        width: 66
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -92}
+        - {x: -33, y: -56}
+        - {x: -33, y: -3}
+        - {x: -33, y: 92}
+        - {x: 33, y: 92}
+        - {x: 33, y: -92}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41395f06447ec85448b287700c4568eb
+      internalID: 1410996026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm lie 1
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1082
+        width: 331
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8648235, y: 0.63227457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -165.5, y: -40.5}
+        - {x: -165.5, y: 7}
+        - {x: -123.5, y: 42.5}
+        - {x: 146.5, y: 42.5}
+        - {x: 152.5, y: 29}
+        - {x: 165.5, y: 15}
+        - {x: 165.5, y: -4.5}
+        - {x: 163.5, y: -11.5}
+        - {x: 163.5, y: -20}
+        - {x: 165.5, y: -40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89223ea78bfe49143b8d139a5d9b46d1
+      internalID: 2020524550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg blue
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1202
+        width: 148
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -102.5}
+        - {x: -50, y: -82.5}
+        - {x: -74, y: -42.5}
+        - {x: -74, y: 11.5}
+        - {x: -64, y: 37.5}
+        - {x: -51, y: 63.5}
+        - {x: -43, y: 74.5}
+        - {x: -33, y: 102.5}
+        - {x: 8, y: 102.5}
+        - {x: 74, y: 74.5}
+        - {x: 74, y: -102.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13e331dd9cafe47980a7098f5eb353
+      internalID: 1910665609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather white
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1321
+        width: 73
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -97}
+        - {x: -36.5, y: -34}
+        - {x: -36.5, y: 97}
+        - {x: 9.5, y: 97}
+        - {x: 20.5, y: 65}
+        - {x: 36.5, y: 27}
+        - {x: 36.5, y: -41}
+        - {x: 25.5, y: -62}
+        - {x: 14.5, y: -82}
+        - {x: 11.5, y: -97}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ab2ef2b697ea24c9f19328558b8a23
+      internalID: 693231491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing gray
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1398
+        width: 296
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -94}
+        - {x: -94, y: -77}
+        - {x: -119, y: -94}
+        - {x: -128, y: -37}
+        - {x: -148, y: 7}
+        - {x: -148, y: 77}
+        - {x: -141, y: 94}
+        - {x: -80, y: 94}
+        - {x: 2, y: 71}
+        - {x: 48, y: 94}
+        - {x: 148, y: 94}
+        - {x: 148, y: -94}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ee96249e4c0534d9c723fc0f4a8f70
+      internalID: -577795084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head orange
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1684
+        width: 314
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -182}
+        - {x: -49, y: -154}
+        - {x: -61, y: -155}
+        - {x: -75, y: -182}
+        - {x: -157, y: -182}
+        - {x: -157, y: -139}
+        - {x: -137, y: -98}
+        - {x: -123, y: -44}
+        - {x: -157, y: 21}
+        - {x: -157, y: 70}
+        - {x: -98, y: 89}
+        - {x: -100, y: 138}
+        - {x: -157, y: 182}
+        - {x: 39, y: 182}
+        - {x: 44, y: 123}
+        - {x: 87, y: 80}
+        - {x: 157, y: 71}
+        - {x: 157, y: -124}
+        - {x: 139, y: -141}
+        - {x: 141, y: -162}
+        - {x: 154, y: -169}
+        - {x: 145, y: -182}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33c51a8d9a91ea4180a6afd027cc241
+      internalID: -171762804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tail orange
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1466
+        width: 245
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -123.5}
+        - {x: -122.5, y: -15.5}
+        - {x: -122.5, y: 123.5}
+        - {x: -100.5, y: 119.5}
+        - {x: -66.5, y: 123.5}
+        - {x: 39.5, y: 123.5}
+        - {x: 57.5, y: 42.5}
+        - {x: 72.5, y: 16.5}
+        - {x: 122.5, y: 21.5}
+        - {x: 122.5, y: -71.5}
+        - {x: 108.5, y: -87.5}
+        - {x: 122.5, y: -123.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f350de9d8561b17478d6973045346ea8
+      internalID: 1449788316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head gray
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1142
+        width: 334
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: -146}
+        - {x: 106, y: -138}
+        - {x: 94, y: -146}
+        - {x: 74, y: -194}
+        - {x: 53, y: -194}
+        - {x: -18, y: -170}
+        - {x: -122, y: -194}
+        - {x: -164, y: -194}
+        - {x: -167, y: -186}
+        - {x: -167, y: -132}
+        - {x: -131, y: -52}
+        - {x: -121, y: -16}
+        - {x: -124.23462, y: 33.812134}
+        - {x: -167, y: 83}
+        - {x: -167, y: 121}
+        - {x: -97, y: 132}
+        - {x: -101, y: 169}
+        - {x: -86, y: 187}
+        - {x: -50, y: 194}
+        - {x: 67, y: 194}
+        - {x: 144, y: -68}
+        - {x: 167, y: -101}
+        - {x: 167, y: -194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be86c8a1331c1a448cc2ee5f53774fc
+      internalID: 472162498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left eye
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1157
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -18}
+        - {x: -18.5, y: -18}
+        - {x: -18.5, y: 18}
+        - {x: 18.5, y: 18}
+        - {x: 18.5, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b78f37621b5fe40926da3e0b2f50ba
+      internalID: 2079304975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open white eyes
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1334
+        width: 143
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: -37.5}
+        - {x: -71.5, y: -8.5}
+        - {x: -71.5, y: 37.5}
+        - {x: 49.5, y: 37.5}
+        - {x: 71.5, y: 20.5}
+        - {x: 71.5, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4910b1bc692c4a906f07a31c66edd
+      internalID: -1648547076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tail gray
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1083
+        width: 287
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112.5, y: -74.5}
+        - {x: 143.5, y: -86.5}
+        - {x: -143.5, y: -86.5}
+        - {x: -143.5, y: -64.5}
+        - {x: -29.5, y: 8.5}
+        - {x: -1.5, y: 38.5}
+        - {x: 31.5, y: 86.5}
+        - {x: 143.5, y: 86.5}
+        - {x: 143.5, y: -2.5}
+        - {x: 112.5, y: -42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566ad0f0a90bfff4db211f188db9c458
+      internalID: 396846082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head white
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1092
+        width: 317
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158.5, y: -118.5}
+        - {x: 151.5, y: -133.5}
+        - {x: 122.5, y: -183.5}
+        - {x: -158.5, y: -183.5}
+        - {x: -158.5, y: -150.5}
+        - {x: -121.5, y: -39.5}
+        - {x: -158.5, y: 38.5}
+        - {x: -158.5, y: 183.5}
+        - {x: -26.5, y: 183.5}
+        - {x: -15.5, y: 180.5}
+        - {x: 35.5, y: 176.5}
+        - {x: 59.5, y: 104.5}
+        - {x: 90.5, y: 66.5}
+        - {x: 158.5, y: 40.5}
+        - {x: 158.5, y: -52.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380fef0bb069ee4a9925fd0e88f341c
+      internalID: -2110183484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1297
+        width: 128
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -80.5}
+        - {x: -50, y: -54.5}
+        - {x: -64, y: -41.5}
+        - {x: -64, y: 37.5}
+        - {x: -8, y: 80.5}
+        - {x: 64, y: 80.5}
+        - {x: 64, y: -62.5}
+        - {x: 46, y: -80.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591ce9dc6221cd64d8c637c553a33b5c
+      internalID: -759747525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1416
+        width: 292
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: -63.5}
+        - {x: 24, y: -115.5}
+        - {x: -13, y: -115.5}
+        - {x: -39, y: -94.5}
+        - {x: -146, y: -96.5}
+        - {x: -146, y: 72.5}
+        - {x: -46, y: 75.5}
+        - {x: -18, y: 115.5}
+        - {x: 146, y: 115.5}
+        - {x: 146, y: -115.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74df7165edcaf7a4f88764ba3b3be87a
+      internalID: 361184773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nest
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1450
+        width: 506
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -108}
+        - {x: -15.5, y: -105}
+        - {x: -52.5, y: -103}
+        - {x: -63.5, y: -99}
+        - {x: -81.5, y: -101}
+        - {x: -132.5, y: -108}
+        - {x: -185.7555, y: -108}
+        - {x: -253.5, y: -108}
+        - {x: -253.5, y: 108}
+        - {x: 253.5, y: 108}
+        - {x: 253.5, y: -29}
+        - {x: 149.5, y: -108}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508757cee19fef045825f43d58bd7730
+      internalID: 208375259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1609
+        width: 145
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -182}
+        - {x: -72.5, y: -182}
+        - {x: -72.5, y: -71}
+        - {x: -39.5, y: -50}
+        - {x: -40.5, y: -16}
+        - {x: -72.5, y: 32}
+        - {x: -72.5, y: 160}
+        - {x: -38.5, y: 160}
+        - {x: 9.5, y: 182}
+        - {x: 72.5, y: 182}
+        - {x: 72.5, y: 163}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d88ec84d7f4047b56b3f1608c7380
+      internalID: -1455493406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tail brown
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1714
+        width: 216
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -92}
+        - {x: -41, y: -140}
+        - {x: -108, y: -140}
+        - {x: -108, y: -130}
+        - {x: -30, y: 118}
+        - {x: -11, y: 126}
+        - {x: 15, y: 140}
+        - {x: 108, y: 140}
+        - {x: 108, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072f23b94a9176f4a8c09b60b2631a84
+      internalID: 1978038045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nest front
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1450
+        width: 507
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -108}
+        - {x: -23.5, y: -103}
+        - {x: -54.5, y: -102}
+        - {x: -63.5, y: -99}
+        - {x: -71.5, y: -100}
+        - {x: -89.5, y: -107}
+        - {x: -253.5, y: -108}
+        - {x: -253.5, y: -92}
+        - {x: -253.5, y: 11}
+        - {x: -245.5, y: 16}
+        - {x: -232.5, y: 25}
+        - {x: -208.5, y: 41}
+        - {x: -197.5, y: 41}
+        - {x: -185.5, y: 39}
+        - {x: -169.5, y: 41}
+        - {x: -161.5, y: 41}
+        - {x: -155.5, y: 39}
+        - {x: -150.5, y: 37}
+        - {x: -141.5, y: 35}
+        - {x: -133.5, y: 40}
+        - {x: -121.5, y: 39}
+        - {x: -114.5, y: 36}
+        - {x: -99.5, y: 27}
+        - {x: -91.5, y: 22}
+        - {x: -70.5, y: 22}
+        - {x: -46.5, y: 20}
+        - {x: -27.5, y: 16}
+        - {x: -15.5, y: 12}
+        - {x: 4.5, y: 18}
+        - {x: 16.5, y: 20}
+        - {x: 27.5, y: 21}
+        - {x: 52.5, y: 19}
+        - {x: 64.5, y: 28}
+        - {x: 76.5, y: 34}
+        - {x: 90.5, y: 40}
+        - {x: 99.5, y: 42}
+        - {x: 126.5, y: 52}
+        - {x: 141.5, y: 57}
+        - {x: 162.5, y: 42}
+        - {x: 192.5, y: 43}
+        - {x: 226.5, y: 43}
+        - {x: 253.5, y: 29}
+        - {x: 253.5, y: -25}
+        - {x: 188.5, y: -77}
+        - {x: 159.5, y: -108}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e1c15e7cac4544a951d831a716dc4
+      internalID: -1474838808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      arrow: 361184773
+      Chicken Sprite Atlas not compressed 3_13: 1144457620
+      Chicken Sprite Atlas not compressed 3_17: -1095882411
+      body orange: -1482337432
+      head white: -2110183484
+      egg blue: 1910665609
+      Chicken Sprite Atlas not compressed 3_14: 1153504215
+      close brown eyes: -806100845
+      Chicken Sprite Atlas not compressed 3_26: 1293230832
+      Chicken Sprite Atlas not compressed 3_55: -910317908
+      wing orange: -719641792
+      feather brown: -1827449438
+      lamp: -298269780
+      nest: 208375259
+      egg white: 107823801
+      Chicken Sprite Atlas not compressed 3_40: -955586464
+      head gray: 472162498
+      body white: -892304652
+      Chicken Sprite Atlas not compressed 3_49: -452417600
+      background: 229769759
+      wing white: -1263908600
+      feather orange: -2008390702
+      open orange eyes: 56160677
+      jaw close: -507770153
+      body gray: -374269910
+      open brown eyes: 324794520
+      body brown: 990983959
+      worm lie 3: -606290539
+      Chicken Sprite Atlas not compressed 3_16: 1888348127
+      Chicken Sprite Atlas not compressed 3_19: -107052760
+      Chicken Sprite Atlas not compressed 3_58: -1802570853
+      head brown: -454986169
+      tail brown: 1978038045
+      Chicken Sprite Atlas not compressed 3_41: -312579511
+      Chicken Sprite Atlas not compressed 3_51: 1565765196
+      Chicken Sprite Atlas not compressed 3_18: 1627297083
+      broken blue egg: 142316349
+      open white eyes: -1648547076
+      Chicken Sprite Atlas not compressed 3_34: 131954301
+      tail white: 1445162722
+      right eye: -885127051
+      shefl: 453026634
+      Chicken Sprite Atlas not compressed 3_30: -1720688447
+      ladder: -1455493406
+      close white eyes: -192573269
+      worm fly 3: 582736803
+      wing brown: 1417239573
+      broken white egg: -1050503425
+      feather gray: 1410996026
+      Chicken Sprite Atlas not compressed 3_11: -1188938496
+      Chicken Sprite Atlas not compressed 3_32: -618224220
+      Chicken Sprite Atlas not compressed 3_36: 1193954729
+      worm fly 2: -1420274600
+      head orange: -171762804
+      jaw open: 1426423701
+      Chicken Sprite Atlas not compressed 3_42: 1249021043
+      Chicken Sprite Atlas not compressed 3_39: 1565743320
+      Chicken Sprite Atlas not compressed 3_45: -588838825
+      tail gray: 396846082
+      Chicken Sprite Atlas not compressed 3_31: -1949941023
+      nest front: -1474838808
+      wing gray: -577795084
+      close gray eyes: -1930819941
+      open gray eyes: 2094711911
+      Chicken Sprite Atlas not compressed 3_27: -642224584
+      Chicken Sprite Atlas not compressed 3_22: -803031994
+      tail orange: 1449788316
+      worm lie 2: 1498067153
+      paw: -759747525
+      worm fly 1: 2020557229
+      Chicken Sprite Atlas not compressed 3_29: 194799175
+      close orange eyes: -1907130310
+      left eye: 2079304975
+      Chicken Sprite Atlas not compressed 3_20: -1936432062
+      worm lie 1: 2020524550
+      feather white: 693231491
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

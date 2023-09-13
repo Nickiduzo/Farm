@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: ca4e1335da89c844497982cadf795d45
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: left hand
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1802
+        width: 319
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa288f48ccc26946bfac8ce2ffd9b69
+      internalID: 748736003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whole carrot
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 901
+        width: 357
+        height: 1043
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -521.5}
+        - {x: -178.5, y: -521.5}
+        - {x: -178.5, y: 521.5}
+        - {x: 139.5, y: 521.5}
+        - {x: 178.5, y: 473.5}
+        - {x: 178.5, y: 334.5}
+        - {x: 178.5, y: 247.5}
+        - {x: 155.5, y: 67.5}
+        - {x: 143.5, y: -275.5}
+        - {x: 74.5, y: -421.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d65782c04b6af4c816256cd2ce1531
+      internalID: 1246299849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot pack cover
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1806
+        width: 596
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -269, y: -110}
+        - {x: -275, y: -29}
+        - {x: -298, y: 4}
+        - {x: -298, y: 110}
+        - {x: 298, y: 110}
+        - {x: 298, y: -110}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0d36caffe2764ab52fee6e4c581a6
+      internalID: 2077021501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right hand
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1805
+        width: 313
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251ff81c8871a794d9317d4c1e9c58ef
+      internalID: -1929564646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mole dead
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1326
+        width: 547
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 273.5, y: -357.5}
+        - {x: -255.5, y: -357.5}
+        - {x: -273.5, y: -334.5}
+        - {x: -273.5, y: -115.5}
+        - {x: -219.5, y: -13.5}
+        - {x: -191.5, y: 58.5}
+        - {x: -191.5, y: 132.5}
+        - {x: -162.5, y: 296.5}
+        - {x: -76.5, y: 357.5}
+        - {x: 181.5, y: 357.5}
+        - {x: 271.5, y: 186.5}
+        - {x: 271.5, y: -136.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8525c77f1025f894baeff6545d467ed4
+      internalID: -1150201245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot pack
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1032
+        width: 687
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 179.5, y: -355.5}
+        - {x: 89.5, y: -373.5}
+        - {x: -343.5, y: -373.5}
+        - {x: -343.5, y: 373.5}
+        - {x: 343.5, y: 373.5}
+        - {x: 343.5, y: 227.5}
+        - {x: 343.5, y: -111.5}
+        - {x: 327.5, y: -278.5}
+        - {x: 327.5, y: -373.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f44d60802f48584dba2cb1820a209db
+      internalID: -1523308079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open eye
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1647
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -58.5}
+        - {x: -59, y: -58.5}
+        - {x: -59, y: 58.5}
+        - {x: 59, y: 58.5}
+        - {x: 59, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e8271d24e5f65449ab6c7b63d092da
+      internalID: -131652606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close eye
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1677
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab29c2be900387d4e92846be41b46fca
+      internalID: -660965831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mole alive
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1026
+        width: 547
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.5, y: -353}
+        - {x: -273.5, y: -190}
+        - {x: -224.5, y: 17}
+        - {x: -189.5, y: 221}
+        - {x: -88.5, y: 353}
+        - {x: 136.5, y: 353}
+        - {x: 209.5, y: 188}
+        - {x: 195.5, y: 20}
+        - {x: 205.5, y: -25}
+        - {x: 244.5, y: -76}
+        - {x: 273.5, y: -175}
+        - {x: 273.5, y: -353}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f11d86b6e255545bd58c5301bdc38d
+      internalID: -1131775621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star 3
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1166
+        width: 451
+        height: 148
+      alignment: 9
+      pivot: {x: 0.51786584, y: 0.46189013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -74}
+        - {x: -79.5, y: -59}
+        - {x: -109.5, y: -74}
+        - {x: -225.5, y: -74}
+        - {x: -225.5, y: 74}
+        - {x: 225.5, y: 74}
+        - {x: 225.5, y: -74}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045179620ba31674ca35b1cbab3786fb
+      internalID: 783066454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star 2
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 972
+        width: 427
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -213.5, y: -100}
+        - {x: -213.5, y: 100}
+        - {x: 108.5, y: 100}
+        - {x: 135.5, y: 78}
+        - {x: 213.5, y: 76}
+        - {x: 213.5, y: -100}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972397a22ced99c40ad56584600c1f5d
+      internalID: -1665060647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -960, y: -511.5}
+        - {x: -960, y: 248.5}
+        - {x: -872, y: 264.5}
+        - {x: -724, y: 303}
+        - {x: -644, y: 242}
+        - {x: -501, y: 276}
+        - {x: -328, y: 356.5}
+        - {x: -275, y: 247}
+        - {x: -169, y: 203}
+        - {x: -97, y: 215}
+        - {x: -28, y: 376}
+        - {x: 35, y: 438}
+        - {x: 231, y: 451}
+        - {x: 315, y: 477}
+        - {x: 452, y: 484}
+        - {x: 605, y: 422.5}
+        - {x: 584, y: 331.5}
+        - {x: 610, y: 294}
+        - {x: 637, y: 286}
+        - {x: 641, y: 225}
+        - {x: 745, y: 220.5}
+        - {x: 819, y: 246}
+        - {x: 960, y: 268}
+        - {x: 960, y: -511.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e395fbe92ece84eb6cc6dc96332750
+      internalID: -1794305569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite mask
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 804
+        width: 204
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -111}
+        - {x: -71, y: -111}
+        - {x: -102, y: -99}
+        - {x: -102, y: 111}
+        - {x: 102, y: 111}
+        - {x: 102, y: -76}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a40a207cd6e16b449c0bf7a46be4754
+      internalID: 1460337506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 762
+        width: 213
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.5, y: -139.5}
+        - {x: -106.5, y: 30.5}
+        - {x: -24.5, y: 139.5}
+        - {x: 106.5, y: 139.5}
+        - {x: 106.5, y: -25.5}
+        - {x: 45.5, y: -139.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba877a1af6b0d45a8625b52513941d
+      internalID: 927634164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star 1
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 780
+        width: 435
+        height: 189
+      alignment: 9
+      pivot: {x: 0.50376624, y: 0.44365713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: -94.5}
+        - {x: -197.5, y: -94.5}
+        - {x: -197.5, y: -57.5}
+        - {x: -217.5, y: -32.5}
+        - {x: -217.5, y: 94.5}
+        - {x: 217.5, y: 94.5}
+        - {x: 217.5, y: -94.5}
+        - {x: 85.5, y: -74.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30721d3b5bd893f40b3c7d79b307bc13
+      internalID: 1095403945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange part of carrot
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 901
+        width: 358
+        height: 754
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.79624313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -377}
+        - {x: -142, y: -204}
+        - {x: -179, y: -1}
+        - {x: -179, y: 92}
+        - {x: -179, y: 365}
+        - {x: -65, y: 364}
+        - {x: -36, y: 367}
+        - {x: -18, y: 370}
+        - {x: 6, y: 370}
+        - {x: 26, y: 368}
+        - {x: 48, y: 364}
+        - {x: 179, y: 368}
+        - {x: 159, y: 249}
+        - {x: 142, y: -118}
+        - {x: 24, y: -377}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0928813bb14d4d40bfca4b79f1c72b8
+      internalID: -184989272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green part of carrot
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1639
+        width: 360
+        height: 308
+      alignment: 9
+      pivot: {x: 0.49999997, y: -0.12323553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -150}
+        - {x: 35, y: -146}
+        - {x: 18, y: -144}
+        - {x: -2, y: -142}
+        - {x: -19, y: -143}
+        - {x: -34, y: -145}
+        - {x: -42, y: -147}
+        - {x: -180, y: -154}
+        - {x: -180, y: 154}
+        - {x: 158, y: 154}
+        - {x: 180, y: 99}
+        - {x: 180, y: -154}
+        - {x: 54, y: -151}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d61414110c0d441a60594963208c49
+      internalID: -369885546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Carrot Sprite Atlas 1_15: 1374766233
+      Carrot Sprite Atlas 1_20: -1887973686
+      Carrot Sprite Atlas 1_22: 1350380650
+      Carrot Sprite Atlas 1_31: 36530141
+      mole dead: -1150201245
+      Carrot Sprite Atlas 1_35: 771962065
+      Carrot Sprite Atlas 1_1: -1422287303
+      star 2: -1665060647
+      Carrot Sprite Atlas 1_33: 1212325368
+      Carrot Sprite Atlas 1_2: -1041845791
+      background: -1794305569
+      Carrot Sprite Atlas 1_24: -739111987
+      Carrot Sprite Atlas 1_28: -2091543174
+      green part of carrot: -369885546
+      Carrot Sprite Atlas 1_11: -2142088041
+      Carrot Sprite Atlas 1_18: 936565544
+      carrot pack cover: 2077021501
+      Carrot Sprite Atlas 1_3: 305123557
+      Carrot Sprite Atlas 1_26: -431075259
+      star 1: 1095403945
+      Carrot Sprite Atlas 1_36: -2019898403
+      carrot pack: -1523308079
+      mole alive: -1131775621
+      star 3: 783066454
+      Carrot Sprite Atlas 1_19: -1980088275
+      seed: 927634164
+      Carrot Sprite Atlas 1_17: 684049115
+      Carrot Sprite Atlas 1_14: 905736092
+      right hand: -1929564646
+      orange part of carrot: -184989272
+      Carrot Sprite Atlas 1_34: 292819330
+      left hand: 748736003
+      Carrot Sprite Atlas 1_16: -1335409145
+      open eye: -131652606
+      close eye: -660965831
+      Carrot Sprite Atlas 1_4: 53912683
+      sprite mask: 1460337506
+      Carrot Sprite Atlas 1_25: 37096218
+      whole carrot: 1246299849
+      Carrot Sprite Atlas 1_12: 442242311
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

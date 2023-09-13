@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Animation/BirdFly.anim.meta
+guid: 7b9e55b075ad86f4aa336cf321e8dd1c
+========
+guid: 4db39ed83f0a53a4f8b7165e12e429e9
+>>>>>>>> master:Assets/Animation/FertilizedPlace.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

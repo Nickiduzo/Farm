@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e9a99edf1764090a59ac8fa1625e86d, type: 3}
+  m_Name: BeeLevel
+  m_EditorClassIdentifier: 
+  _basket: {fileID: 6432175736245623419, guid: 7c93fc8e6ce00c347942ccf214717715, type: 3}
+  _honeyGlass: {fileID: 2921843538378497741, guid: 5cefeef787e73664a8d916fc2633db67, type: 3}
+  _honeyRecycler: {fileID: -3356573267871789604, guid: 72c535df9551d3e48b32f252a280659d, type: 3}
+  _hives:
+  - {fileID: 3571346652873652147, guid: cd5b1e5ca79170347b868665a1bd9b5b, type: 3}
+  - {fileID: 3571346652873652147, guid: 9d939c4bf1f72a941a68b1ac9c962771, type: 3}
+  - {fileID: 3571346652873652147, guid: 2c544263522ddec4494f1503044c4fb7, type: 3}
+  _sprayer: {fileID: 5764526198482085990, guid: 15dc19f2d0988c546bc2752690f97929, type: 3}
+  _bee: {fileID: 4230703753170500890, guid: 7108ad75a02715f41a8c3e6ac84c1ae4, type: 3}
+  _beeToSpawn: 10
+  _glassToSpawn: 3

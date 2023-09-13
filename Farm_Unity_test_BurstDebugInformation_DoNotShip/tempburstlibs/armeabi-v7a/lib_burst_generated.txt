@@ -1,0 +1,15 @@
+Library: C:\Users\xXx\Desktop\Farm_Unity_test\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
+--platform=Android
+--backend=burst-llvm-14
+--target=ARMV7A_NEON32
+--global-safety-checks-setting=Off
+--meta-data-generation=False
+--dump=Function
+--float-precision=Standard
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Users\xXx\Desktop\Farm_Unity_test\Temp\Burst
+--output=C:\Users\xXx\Desktop\Farm_Unity_test\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
+--pdb-search-paths=Temp/ManagedSymbols/
+--pdb-search-paths=Temp/ManagedSymbols/
+
+

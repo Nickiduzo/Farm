@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d273b454b842fc984c162ca8351da1, type: 3}
+  m_Name: SheepLevel
+  m_EditorClassIdentifier: 
+  _testBasket: {fileID: 6432175736245623419, guid: 7c93fc8e6ce00c347942ccf214717715, type: 3}
+  _composedFur: {fileID: -5541510649129617551, guid: 941e1243aa6eae041b2baf54b8fee788, type: 3}
+  _sheepPrefab: {fileID: 4652580082837579921, guid: 1a23a4e92b6b65b4f89284fd59bb3542, type: 3}
+  _blackSheepPrefab: {fileID: 4652580082837579921, guid: 5d80dced88243be4f8d30161820010ac, type: 3}
+  _trimmerPrefab: {fileID: 5877526050414975371, guid: ec62639502a6efd42b3cd9ad0db954ba, type: 3}
+  _shopPrefab: {fileID: 1564954766155650915, guid: ecb5b66136c8ad74ba4dc177e3b747dd, type: 3}
+  _sheepCount: 3
+  _composedFurToSpawn: 3

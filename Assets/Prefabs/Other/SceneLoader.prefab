@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8848955253081153136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8848955253081153142}
+  - component: {fileID: 8848955253081153143}
+  m_Layer: 0
+  m_Name: SceneLoader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8848955253081153142
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8848955253081153136}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 650.60095, y: 709.589, z: 12.222789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8848955253081153143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8848955253081153136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59160cc487e14d46953d7a7fc9749e57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _scenesInfo:
+  - {fileID: 11400000, guid: 69ad006ba8420c74da2495a0f85e658a, type: 2}
+  - {fileID: 11400000, guid: 617bbdfe5d6df5d40a0eb9910ed16475, type: 2}
+  - {fileID: 11400000, guid: 9229d197ec5a8b0449f32a91863050d3, type: 2}
+  - {fileID: 11400000, guid: 7d854c1f59b670147b77d305d87520e6, type: 2}
+  - {fileID: 11400000, guid: 23f3e697e2a8ca64a8d90e93a314203a, type: 2}
+  - {fileID: 11400000, guid: 332e8228a088e2c47b7d5d8cee4d7371, type: 2}
+  - {fileID: 11400000, guid: 40a47ee741fe1b8409799ca3694202d6, type: 2}
+  - {fileID: 11400000, guid: fef27f5040f35514c8c19af105a56601, type: 2}
+  - {fileID: 11400000, guid: 03e9767c3486d8a4b95d558cfa4ce83c, type: 2}
+  - {fileID: 11400000, guid: 0b3021a530727ed4cb0b9a5240ba9283, type: 2}
+  - {fileID: 11400000, guid: 31ef6d9171ddf994fb1b424b479cc64c, type: 2}
+  _fadeSccreenPanel: {fileID: 6815031957127296646, guid: 6d2cdf98d2eb95144b138008dc5310b1, type: 3}
+  _isFadeScreenPanelEnable: 1

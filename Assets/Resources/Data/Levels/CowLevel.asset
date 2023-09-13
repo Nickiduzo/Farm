@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 539b982a25b71b547bad23ec7bd14629, type: 3}
+  m_Name: CowLevel
+  m_EditorClassIdentifier: 
+  _cowPrefab: {fileID: 6418508161548112409, guid: 7b9f7a2b505a16d46888cf08c80d5faf, type: 3}
+  _hayPrefab: {fileID: 4287342566588746537, guid: 4150cc7418c76c448853576cd2293979, type: 3}
+  _jarPrefab: {fileID: -8603794494103159356, guid: e81e4b84e8c88614099572ef5dbca6e6, type: 3}
+  _bottlePrefab: {fileID: -9116843775016832442, guid: c01d3755b74523941837106cc72f2941, type: 3}
+  _shopPrafeb: {fileID: -316668285665136603, guid: 1f33bec0d4c1b424981a4096b51dbe57, type: 3}
+  _bottleBasket: {fileID: 6432175736245623419, guid: 7c93fc8e6ce00c347942ccf214717715, type: 3}
+  _hayCount: 3
+  _jarCount: 3
+  _bottleCount: 3

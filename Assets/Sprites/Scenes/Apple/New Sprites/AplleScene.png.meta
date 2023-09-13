@@ -1,0 +1,1325 @@
+fileFormatVersion: 2
+guid: e1d70d3e9ffefa048b279e0a06bccf8f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AplleScene_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 925, y: 247}
+        - {x: 917, y: 272}
+        - {x: 894, y: 284}
+        - {x: 867, y: 285}
+        - {x: 814, y: 287}
+        - {x: 795, y: 384}
+        - {x: 700, y: 540}
+        - {x: 332, y: 540}
+        - {x: 231, y: 374}
+        - {x: 51, y: 276}
+        - {x: 4, y: 263}
+        - {x: -65, y: 221}
+        - {x: -137, y: 225}
+        - {x: -215, y: 277}
+        - {x: -338, y: 282}
+        - {x: -380, y: 370}
+        - {x: -398, y: 465}
+        - {x: -428, y: 540}
+        - {x: -490, y: 540}
+        - {x: -519, y: 454}
+        - {x: -530, y: 445}
+        - {x: -541, y: 427}
+        - {x: -526, y: 415}
+        - {x: -425.5384, y: 384.76477}
+        - {x: -455.5, y: 276}
+        - {x: -654, y: 376}
+        - {x: -702, y: 390}
+        - {x: -735, y: 443}
+        - {x: -869, y: 488}
+        - {x: -960, y: 477}
+        - {x: -960, y: 413}
+        - {x: -960, y: 359}
+        - {x: -960, y: -540}
+        - {x: 960, y: -540}
+        - {x: 960, y: 214}
+        - {x: 937, y: 236}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300a5c4d06b3cef4395a7ec0c523a6ef
+      internalID: 1846330053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 739
+        height: 923
+      alignment: 9
+      pivot: {x: 0.5234823, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 461.5}
+        - {x: -158, y: 461.5}
+        - {x: -193, y: 419}
+        - {x: -283, y: 411}
+        - {x: -366, y: 260}
+        - {x: -366, y: -87}
+        - {x: -234.5, y: -205.5}
+        - {x: -200, y: -213.5}
+        - {x: -165, y: -202.5}
+        - {x: -65, y: -241}
+        - {x: -99, y: -378.5}
+        - {x: -155, y: -423.5}
+        - {x: -125, y: -461.5}
+        - {x: 72, y: -461.5}
+        - {x: 100, y: -439}
+        - {x: 81, y: -401.5}
+        - {x: 36, y: -379.5}
+        - {x: 34, y: -199.5}
+        - {x: 106, y: -199.5}
+        - {x: 222, y: -165.5}
+        - {x: 246, y: -132.5}
+        - {x: 284, y: -48}
+        - {x: 329, y: -39.5}
+        - {x: 369.5, y: -2.5}
+        - {x: 369.5, y: 103.5}
+        - {x: 336, y: 133}
+        - {x: 342.5, y: 166.5}
+        - {x: 317, y: 212}
+        - {x: 287, y: 306}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56574e7502917f54f95fe290783b899d
+      internalID: 572498590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 136
+        width: 404
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47614256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: -324.5}
+        - {x: 27, y: -169.5}
+        - {x: 26, y: -106.5}
+        - {x: 54, y: -46.5}
+        - {x: 112, y: -21.5}
+        - {x: 148, y: 11.5}
+        - {x: 196, y: 41.5}
+        - {x: 198, y: 61.5}
+        - {x: 192, y: 146.5}
+        - {x: 160, y: 207.5}
+        - {x: 108, y: 306.5}
+        - {x: 39, y: 377.5}
+        - {x: -75, y: 377.5}
+        - {x: -148, y: 365.5}
+        - {x: -202, y: 264.5}
+        - {x: -202, y: 115.5}
+        - {x: -179, y: 81.5}
+        - {x: -170, y: 35.5}
+        - {x: -140, y: 21.5}
+        - {x: -125, y: -7.5}
+        - {x: -22, y: -36.5}
+        - {x: -21, y: -254.5}
+        - {x: -104, y: -309.5}
+        - {x: -103, y: -377.5}
+        - {x: 110, y: -377.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6426db92ffef82544853fc3f33f8914b
+      internalID: -1571807575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 463
+        width: 241
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5469748, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.5, y: 170}
+        - {x: 117.5, y: 215}
+        - {x: 80.5, y: 205}
+        - {x: 58.5, y: 183}
+        - {x: 45.5, y: 164}
+        - {x: 14.5, y: 218}
+        - {x: -37.5, y: 216}
+        - {x: -70.5, y: 234}
+        - {x: -120.5, y: 234}
+        - {x: -120.5, y: 100}
+        - {x: -40.5, y: 4}
+        - {x: -34.5, y: -96}
+        - {x: -35.5, y: -143}
+        - {x: -71.5, y: -155}
+        - {x: -88.5, y: -177}
+        - {x: -120.5, y: -203}
+        - {x: -120.5, y: -234}
+        - {x: 57.5, y: -234}
+        - {x: 55.5, y: -216}
+        - {x: 42.5, y: -191}
+        - {x: -2.5, y: -135}
+        - {x: 0.5, y: -21}
+        - {x: 36.5, y: 14}
+        - {x: 87.5, y: 41}
+        - {x: 116.5, y: 72}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b5a546b82b6ef4b93aa53d496ea590
+      internalID: -1135668215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_7
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 708
+        width: 787
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.5, y: -33}
+        - {x: 123.5, y: -49}
+        - {x: 116.5, y: -90}
+        - {x: 124.5, y: -112}
+        - {x: 204.5, y: -108}
+        - {x: 304.5, y: -112}
+        - {x: 393.5, y: -112}
+        - {x: 393.5, y: 63}
+        - {x: 298.5, y: 91}
+        - {x: 152.5, y: 102}
+        - {x: 113.5, y: 44}
+        - {x: -30.5, y: 49}
+        - {x: -132.5, y: 112}
+        - {x: -391.5, y: 112}
+        - {x: -393.5, y: -74}
+        - {x: -351.5, y: -78}
+        - {x: -230.5, y: -37}
+        - {x: -113.5, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed418fb057bdd848ae35b1e24467e47
+      internalID: 1214400593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_9
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 176
+        width: 282
+        height: 565
+      alignment: 9
+      pivot: {x: 0.5320725, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: -282.5}
+        - {x: -92, y: -259.5}
+        - {x: -89, y: -231.5}
+        - {x: -55, y: -206.5}
+        - {x: -39, y: -89.5}
+        - {x: -93, y: -14.5}
+        - {x: -107, y: 19.5}
+        - {x: -127, y: 49.5}
+        - {x: -141, y: 97.5}
+        - {x: -141, y: 229.5}
+        - {x: -79, y: 282.5}
+        - {x: 89, y: 282.5}
+        - {x: 132, y: 171.5}
+        - {x: 141, y: 115.5}
+        - {x: 141, y: 59.5}
+        - {x: 30, y: -17.5}
+        - {x: 30, y: -166.5}
+        - {x: 113, y: -241.5}
+        - {x: 119, y: -282.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542af140a951f041977a13f9aae7951
+      internalID: 657438187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_10
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 458
+        width: 341
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170.5, y: 158.5}
+        - {x: -170.5, y: -22.5}
+        - {x: -160.5, y: -40.5}
+        - {x: -170.5, y: -57.5}
+        - {x: -170.5, y: -143.5}
+        - {x: -55.5, y: -158.5}
+        - {x: 43.5, y: -158.5}
+        - {x: 106.5, y: -145.5}
+        - {x: 170.5, y: -145.5}
+        - {x: 170.5, y: -68.5}
+        - {x: 170.5, y: 74.5}
+        - {x: 154.5, y: 110.5}
+        - {x: 157.5, y: 158.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad3a873ccb1434e968fb3a6e08c4c3
+      internalID: -462230352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_12
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 1018
+        height: 200
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -241.5, y: 74}
+        - {x: -283.5, y: 78}
+        - {x: -358.5, y: 61}
+        - {x: -432.5, y: 71}
+        - {x: -458.5, y: 100}
+        - {x: -507.5, y: 100}
+        - {x: -507.5, y: -100}
+        - {x: 509, y: -100}
+        - {x: 509, y: 39}
+        - {x: -224.5, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76216e9bf76c72448e12b4769b57a5a
+      internalID: -1075571496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_13
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 260
+        width: 144
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -102.5}
+        - {x: -32, y: -102.5}
+        - {x: -72, y: -66.5}
+        - {x: -72, y: 102.5}
+        - {x: 72, y: 102.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6034d8d1d9b2f45af5429bec472c3e
+      internalID: -508623353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_15
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 179
+        width: 250
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -110}
+        - {x: -26, y: -141}
+        - {x: 50, y: -141}
+        - {x: 95, y: -99}
+        - {x: 125, y: -71}
+        - {x: 125, y: 141}
+        - {x: -125, y: 141}
+        - {x: -125, y: -102}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2961131f72b92164bb61cf298f9c8bb8
+      internalID: 152153650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_16
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 145
+        width: 252
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 161}
+        - {x: -62, y: 160}
+        - {x: -126, y: 114}
+        - {x: -126, y: 1}
+        - {x: -39, y: -80}
+        - {x: -42, y: -161}
+        - {x: 47, y: -161}
+        - {x: 52, y: -88}
+        - {x: 120, y: 28}
+        - {x: 118, y: 55}
+        - {x: 126, y: 84}
+        - {x: 126, y: 131}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3ce39765b1974c84dbee2ec95b322
+      internalID: -1590931904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 225
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.5, y: 125.5}
+        - {x: -112.5, y: -125.5}
+        - {x: 112.5, y: -125.5}
+        - {x: 112.5, y: 125.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85e6c4ebca561448941e8655957133
+      internalID: -363203128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1868
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.5, y: 84}
+        - {x: 8.5, y: 89}
+        - {x: -11.5, y: 89}
+        - {x: -45.5, y: 84}
+        - {x: -68.5, y: 68}
+        - {x: -98.5, y: 34}
+        - {x: -108.5, y: 9}
+        - {x: -108.5, y: -28}
+        - {x: -108.5, y: -55}
+        - {x: -98.5, y: -66}
+        - {x: -93.5, y: -80}
+        - {x: -51.5, y: -88}
+        - {x: 9.5, y: -88}
+        - {x: 61.5, y: -72}
+        - {x: 89.5, y: -35}
+        - {x: 108.5, y: -4}
+        - {x: 108.5, y: 57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd2168995d5cb1438d26e3bfbd8c495
+      internalID: -1253302653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1813
+        width: 164
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: -56.5}
+        - {x: -48, y: -112.5}
+        - {x: 1, y: -112.5}
+        - {x: 65, y: -26.5}
+        - {x: 82, y: 1.5}
+        - {x: 80, y: 112.5}
+        - {x: -82, y: 112.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99715dc2015f58748ba47424420933b7
+      internalID: 1711939825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_24
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1708
+        width: 297
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 170}
+        - {x: -45.5, y: 126}
+        - {x: -88.5, y: 95}
+        - {x: -116.5, y: 68}
+        - {x: -148.5, y: 3}
+        - {x: -148.5, y: -116}
+        - {x: -91.5, y: -140}
+        - {x: -60.5, y: -164}
+        - {x: -40.5, y: -170}
+        - {x: 56.5, y: -170}
+        - {x: 91.5, y: -146}
+        - {x: 123.5, y: -115}
+        - {x: 135.5, y: -81}
+        - {x: 148.5, y: -43}
+        - {x: 148.5, y: -2}
+        - {x: 139.5, y: 19}
+        - {x: 124.5, y: 81}
+        - {x: 112.5, y: 170}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec96f0e3e3d4f44a9b67211031e1057
+      internalID: 2124843629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_25
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1872
+        width: 249
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 85}
+        - {x: -98, y: 56}
+        - {x: -124.5, y: 33}
+        - {x: -124.5, y: -52}
+        - {x: -115.5, y: -79}
+        - {x: -103.5, y: -83}
+        - {x: -27.5, y: -88}
+        - {x: 44.5, y: -88}
+        - {x: 96.5, y: -66}
+        - {x: 124.5, y: -22}
+        - {x: 124.5, y: 21}
+        - {x: 124.5, y: 64}
+        - {x: 93.5, y: 85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af25294cc15d164f81546d6ae6077b5
+      internalID: 1585066270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_27
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1863
+        width: 234
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 85.5}
+        - {x: -117, y: 85.5}
+        - {x: -117, y: -85.5}
+        - {x: -38, y: -75.5}
+        - {x: 14, y: -85.5}
+        - {x: 74, y: -85.5}
+        - {x: 117, y: -52.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930847caf8fc88b4c9f6601dd72c6b2d
+      internalID: -1712048357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_28
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 568
+        width: 247
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.5, y: -71.5}
+        - {x: -123.5, y: 71.5}
+        - {x: 123.5, y: 71.5}
+        - {x: 123.5, y: -71.5}
+        - {x: 59.5, y: -71.5}
+        - {x: 30.5, y: -62.5}
+        - {x: 20.5, y: -62.5}
+        - {x: 4.5, y: -71.5}
+        - {x: -37.5, y: -71.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e508a63ebc2eedd42b56b6761eaa49c9
+      internalID: 1982958782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_3
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 147
+        width: 252
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: -42}
+        - {x: 39, y: -123}
+        - {x: 38, y: -161}
+        - {x: -39, y: -161}
+        - {x: -57, y: -67}
+        - {x: -126, y: 47}
+        - {x: -122, y: 96}
+        - {x: -69, y: 143}
+        - {x: -1, y: 161}
+        - {x: 65, y: 161}
+        - {x: 126, y: 110}
+        - {x: 126, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7baa05d4d02f1144a2afdba9270703a
+      internalID: -880130725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_4
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 255
+        width: 252
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -161}
+        - {x: -33, y: -152}
+        - {x: -50, y: -143}
+        - {x: -73, y: -40}
+        - {x: -89, y: 8}
+        - {x: -126, y: 40}
+        - {x: -126, y: 137}
+        - {x: -24, y: 148}
+        - {x: 1, y: 157}
+        - {x: 12, y: 161}
+        - {x: 19, y: 161}
+        - {x: 63, y: 143}
+        - {x: 126, y: 126}
+        - {x: 116, y: -145}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753cecaa39c93943ad5294571f2e83f
+      internalID: -458169186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_8
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 139
+        width: 254
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: -61.5}
+        - {x: -127, y: -17.5}
+        - {x: -49, y: 62.5}
+        - {x: 9, y: 62.5}
+        - {x: 57, y: 48.5}
+        - {x: 127, y: 5.5}
+        - {x: 127, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4c4a68c2883e41992832f03de1440
+      internalID: 150940852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_11
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 152
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5adc2c33f5391149b7cd25a6532da1a
+      internalID: 397512020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_1
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1725
+        width: 269
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5, y: -77.5}
+        - {x: -22.5, y: -77.5}
+        - {x: -34.5, y: -54.5}
+        - {x: -53.5, y: -42.5}
+        - {x: -77.5, y: -44.5}
+        - {x: -134.5, y: -35.5}
+        - {x: -134.5, y: 70.5}
+        - {x: -68.5, y: 66.5}
+        - {x: -32.5, y: 60.5}
+        - {x: 5.5, y: 60.5}
+        - {x: 41.5, y: 77.5}
+        - {x: 134.5, y: 77.5}
+        - {x: 134.5, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97286e127e5139b4fbe9c8b1b2d68c1a
+      internalID: -1640658176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_14
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 914
+        width: 104
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dbf18050cc14a4f8ec7c187d949874
+      internalID: 1548721720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_17
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 29
+        width: 222
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6434ca978ca340b84e61778ec448c
+      internalID: -1084260123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 327
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114.5, y: -189}
+        - {x: -163.5, y: -189}
+        - {x: -163.5, y: 68}
+        - {x: -44.5, y: 123}
+        - {x: -28.5, y: 147}
+        - {x: -18.5, y: 164}
+        - {x: -3.5, y: 189}
+        - {x: 99.5, y: 189}
+        - {x: 106.5, y: 100}
+        - {x: 163.5, y: 55}
+        - {x: 163.5, y: -73}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df1a639b47bc544db10c398a21a6d12
+      internalID: -424139513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AplleScene_22
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1803
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae273a001c5b543976304e0b312a43
+      internalID: 1514668798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -857, y: 869}
+      - {x: -981, y: 907}
+      - {x: -980, y: 1024}
+      - {x: -773, y: 1024}
+      - {x: -778, y: 927}
+      - {x: -802, y: 888}
+    - - {x: -790, y: 825}
+      - {x: -785, y: 910}
+      - {x: -736, y: 989}
+      - {x: -575, y: 978}
+      - {x: -593, y: 861}
+      - {x: -671, y: 819}
+    - - {x: -584, y: 899}
+      - {x: -571, y: 966}
+      - {x: -520, y: 995}
+      - {x: -442, y: 994}
+      - {x: -454, y: 896}
+      - {x: -534, y: 809}
+      - {x: -578, y: 849}
+    - - {x: -313, y: 883}
+      - {x: -406, y: 923}
+      - {x: -406, y: 1003}
+      - {x: -211, y: 1006}
+      - {x: -192, y: 920}
+      - {x: -259, y: 920}
+    - - {x: -228, y: 619}
+      - {x: -295, y: 683}
+      - {x: -329, y: 744}
+      - {x: -325, y: 867}
+      - {x: -256, y: 918}
+      - {x: -178, y: 917}
+      - {x: -197, y: 1024}
+      - {x: -34, y: 1024}
+      - {x: -75, y: 935}
+      - {x: -5, y: 885}
+      - {x: 48, y: 779}
+      - {x: -64, y: 622}
+    - - {x: 104, y: 872}
+      - {x: 4, y: 880}
+      - {x: -16, y: 899}
+      - {x: -17, y: 1024}
+      - {x: 211, y: 1024}
+      - {x: 198, y: 893}
+    - - {x: 947, y: 953}
+      - {x: 948, y: 1024}
+      - {x: 1024, y: 1024}
+      - {x: 1024, y: 954}
+    - - {x: 574, y: -155}
+      - {x: 558, y: -59}
+      - {x: 783, y: -59}
+      - {x: 783, y: -157}
+    - - {x: 211, y: -527}
+      - {x: 180, y: -542}
+      - {x: 155, y: -511}
+      - {x: 152, y: -424}
+      - {x: 141, y: -362}
+      - {x: 154, y: -264}
+      - {x: 251, y: -261}
+      - {x: 250, y: -472}
+    - - {x: 259, y: -528}
+      - {x: 259, y: -275}
+      - {x: 534, y: -274}
+      - {x: 540, y: -528}
+    - - {x: 542, y: -448}
+      - {x: 541, y: -236}
+      - {x: 822, y: -234}
+      - {x: 821, y: -456}
+      - {x: 678, y: -584}
+    - - {x: -468, y: -187}
+      - {x: -517, y: -156}
+      - {x: -520, y: -59}
+      - {x: -293, y: -59}
+      - {x: -293, y: -164.70862}
+      - {x: -315, y: -189}
+    - - {x: -1021, y: -143}
+      - {x: -1022, y: -59}
+      - {x: -793, y: -59}
+      - {x: -799, y: -109}
+      - {x: -849, y: -145}
+    - - {x: -862, y: -863}
+      - {x: -879, y: -844}
+      - {x: -884, y: -770}
+      - {x: -755, y: -770}
+      - {x: -755, y: -863}
+    - - {x: -1024, y: -1024}
+      - {x: -1024, y: -794}
+      - {x: -892, y: -800}
+      - {x: -880, y: -850}
+      - {x: -820, y: -910}
+      - {x: -831, y: -1024}
+    - - {x: -355, y: -766}
+      - {x: -362, y: -602}
+      - {x: -307, y: -595}
+      - {x: -284.17224, y: -557}
+      - {x: -176, y: -557}
+      - {x: -175, y: -721}
+      - {x: -265, y: -767}
+    - - {x: -48, y: -817}
+      - {x: -79, y: -701}
+      - {x: -133, y: -633}
+      - {x: -133, y: -576}
+      - {x: -71, y: -528}
+      - {x: 90, y: -531}
+      - {x: 90, y: -817}
+    - - {x: 242, y: -813}
+      - {x: 169, y: -811}
+      - {x: 91, y: -630}
+      - {x: 95, y: -544}
+      - {x: 180, y: -547}
+      - {x: 208, y: -534}
+      - {x: 246, y: -544}
+      - {x: 314, y: -568}
+      - {x: 304, y: -628}
+      - {x: 262, y: -704}
+    - - {x: 452, y: -823}
+      - {x: 394, y: -819}
+      - {x: 306, y: -629}
+      - {x: 318, y: -568}
+      - {x: 382, y: -536}
+      - {x: 433, y: -530}
+      - {x: 530, y: -546}
+      - {x: 540, y: -621}
+    - - {x: 8, y: -491}
+      - {x: -6, y: -467}
+      - {x: 48, y: -403}
+      - {x: 6, y: -190}
+      - {x: 10, y: -59}
+      - {x: 240, y: -62}
+      - {x: 186, y: -160}
+      - {x: 211, y: -208}
+      - {x: 163, y: -248}
+      - {x: 108, y: -306}
+      - {x: 151, y: -470}
+      - {x: 143, y: -491}
+    - - {x: 472, y: -1024}
+      - {x: 442, y: -849}
+      - {x: 494, y: -732}
+      - {x: 577, y: -649}
+      - {x: 722, y: -612}
+      - {x: 814, y: -822}
+      - {x: 764, y: -1024}
+    - - {x: 994, y: -1024}
+      - {x: 795, y: -1024}
+      - {x: 796.7467, y: -950.63617}
+      - {x: 843, y: -829}
+      - {x: 772, y: -719}
+      - {x: 732, y: -608}
+      - {x: 808, y: -478}
+      - {x: 943, y: -484}
+      - {x: 1024, y: -626}
+      - {x: 1024, y: -692}
+    - - {x: -626, y: -948}
+      - {x: -638, y: -766}
+      - {x: -595, y: -757}
+      - {x: -291, y: -794}
+      - {x: -228, y: -820}
+      - {x: 389, y: -820}
+      - {x: 390, y: -891}
+      - {x: -586, y: -972}
+    - - {x: -787, y: -1024}
+      - {x: -796, y: -958}
+      - {x: -736, y: -899}
+      - {x: -741, y: -768}
+      - {x: -878, y: -769}
+      - {x: -949, y: -720}
+      - {x: -1024, y: -604}
+      - {x: -1024, y: -351}
+      - {x: -939, y: -168}
+      - {x: -886, y: -149}
+      - {x: -845, y: -154}
+      - {x: -814, y: -121}
+      - {x: -785, y: -103}
+      - {x: -627, y: -104}
+      - {x: -508, y: -178}
+      - {x: -438, y: -201}
+      - {x: -337, y: -342}
+      - {x: -312, y: -439}
+      - {x: -271, y: -467}
+      - {x: -312, y: -593}
+      - {x: -373, y: -602}
+      - {x: -419, y: -729}
+      - {x: -570, y: -757}
+      - {x: -645, y: -754}
+      - {x: -627, y: -950}
+      - {x: -588, y: -975}
+      - {x: -549, y: -1024}
+    - - {x: -258, y: -794}
+      - {x: -228, y: -755}
+      - {x: -172, y: -724}
+      - {x: -172, y: -508}
+      - {x: -279, y: -460}
+      - {x: -315, y: -425}
+      - {x: -330, y: -347}
+      - {x: -342, y: -325}
+      - {x: -335, y: -210}
+      - {x: -284, y: -163}
+      - {x: -284, y: -140}
+      - {x: -193, y: -73}
+      - {x: -11, y: -212}
+      - {x: 37, y: -399}
+      - {x: 32, y: -418}
+      - {x: -37, y: -481}
+      - {x: -135, y: -562}
+      - {x: -133, y: -727}
+      - {x: -83, y: -740}
+      - {x: -55, y: -798}
+      - {x: -64, y: -819}
+      - {x: -228, y: -818}
+    - - {x: 862, y: -258}
+      - {x: 820, y: -225}
+      - {x: 529, y: -219}
+      - {x: 451, y: -274}
+      - {x: 340, y: -273}
+      - {x: 264, y: -259}
+      - {x: 236, y: -253}
+      - {x: 190, y: -158}
+      - {x: 247, y: -63}
+      - {x: 300, y: -59}
+      - {x: 494.1709, y: -67.313965}
+      - {x: 539, y: -155}
+      - {x: 816, y: -164}
+      - {x: 917, y: -105}
+      - {x: 1024, y: -90}
+      - {x: 1024, y: -310}
+    - - {x: -1024, y: -58}
+      - {x: -1024, y: 883}
+      - {x: -958, y: 886}
+      - {x: -905, y: 880}
+      - {x: -862, y: 860}
+      - {x: -817, y: 850}
+      - {x: -790, y: 792}
+      - {x: -498, y: 774}
+      - {x: -461, y: 879}
+      - {x: -452, y: 896}
+      - {x: -438, y: 997}
+      - {x: -524, y: 996}
+      - {x: -538, y: 985}
+      - {x: -575, y: 985}
+      - {x: -575, y: 1018}
+      - {x: -523, y: 1018}
+      - {x: -418.59723, y: 1018.80615}
+      - {x: -406, y: 880}
+      - {x: -243, y: 585}
+      - {x: -61, y: 613}
+      - {x: 83, y: 805}
+      - {x: 163, y: 839}
+      - {x: 200, y: 890}
+      - {x: 254, y: 1024}
+      - {x: 933, y: 1024}
+      - {x: 933, y: -58}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AplleScene_0: 1846330053
+      AplleScene_1: -1640658176
+      AplleScene_10: -462230352
+      AplleScene_11: 397512020
+      AplleScene_12: -1075571496
+      AplleScene_13: -508623353
+      AplleScene_14: 1548721720
+      AplleScene_15: 152153650
+      AplleScene_16: -1590931904
+      AplleScene_17: -1084260123
+      AplleScene_18: -363203128
+      AplleScene_19: -424139513
+      AplleScene_2: 572498590
+      AplleScene_20: -1253302653
+      AplleScene_21: 1148956506
+      AplleScene_22: 1514668798
+      AplleScene_23: 1711939825
+      AplleScene_24: 2124843629
+      AplleScene_25: 1585066270
+      AplleScene_26: -1460896538
+      AplleScene_27: -1712048357
+      AplleScene_28: 1982958782
+      AplleScene_3: -880130725
+      AplleScene_4: -458169186
+      AplleScene_5: -1571807575
+      AplleScene_6: -1135668215
+      AplleScene_7: 1214400593
+      AplleScene_8: 150940852
+      AplleScene_9: 657438187
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Basket
+  - Bug
+  - Worm
+  - DropValid
+  - DropInvalid
+  - Ground
+  - Seedlings
+  - Tools
+  - Vegetables
+  - Holes
+  - Worms
+  - Jarglass
+  - Fish
+  - Hook
+  - FishingNet
+  - Grass
+  - Cow
+  - Bugs
+  - MoleManager
+  - Seed
+  - Packeg
+  - Rock
+  - CowManager
+  - MilkGlass
+  - Udder
+  - Milk
+  - SpawnerGround
+  - Bottle
+  - Hut
+  - BeeManager
+  - Frame
+  - fireworksSpawner
+  - WoodBoxSp
+  - FxTemporaire
+  - UnderCol
+  - Chicken
+  - ChikenManager
+  - Egg
+  - Jar
+  - Hay
+  - Tomato
+  - Hints
+  - HoneyComb
+  - Recycler
+  - HoleSpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Broken Eggs
+  - Water
+  - UI
+  - Ground
+  - Hole
+  - Dragging
+  - InteractTrigger
+  - PostProcessing
+  - CarAnimal
+  - Car
+  - FadeScreen
+  - Boat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Basket
+    uniqueID: 3476824309
+    locked: 0
+  - name: Product
+    uniqueID: 2060387755
+    locked: 0
+  - name: Animal
+    uniqueID: 1466636793
+    locked: 0
+  - name: Car
+    uniqueID: 439307061
+    locked: 0
+  - name: Props
+    uniqueID: 1146472331
+    locked: 0
+  - name: Flowers
+    uniqueID: 1406792529
+    locked: 0
+  - name: FadeScreen
+    uniqueID: 2015334033
+    locked: 0
+  - name: UI
+    uniqueID: 2997474101
+    locked: 0
+  - name: Vermin
+    uniqueID: 3576018247
+    locked: 0
+  - name: Boat
+    uniqueID: 2724799431
+    locked: 0

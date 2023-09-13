@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 5d228adbb6185f843bce13c1f6d4617a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: close eyes
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 461
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -25.5}
+        - {x: -46, y: -6.5}
+        - {x: -46, y: 25.5}
+        - {x: 46, y: 25.5}
+        - {x: 46, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a81ff0af7cb54247831e3c5a92314c0
+      internalID: 1810032222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaw
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 457
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -27.5}
+        - {x: -46.5, y: -4.5}
+        - {x: -46.5, y: 27.5}
+        - {x: -5.5, y: 27.5}
+        - {x: 46.5, y: -18.5}
+        - {x: 46.5, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de644c4a76cbfeb48827eedbf86952a9
+      internalID: 828721033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird tail
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 383
+        width: 278
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -59.5}
+        - {x: -70, y: -33.5}
+        - {x: -139, y: -23.5}
+        - {x: -139, y: 59.5}
+        - {x: 64, y: 59.5}
+        - {x: 139, y: 13.5}
+        - {x: 139, y: -40.5}
+        - {x: 117, y: -59.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76242a741240bcc4082421e1ed401e94
+      internalID: 1451967732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open eyes
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 93
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -25}
+        - {x: -45, y: -12}
+        - {x: -45, y: 25}
+        - {x: -15, y: 25}
+        - {x: 5, y: 17}
+        - {x: 45, y: 11}
+        - {x: 45, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da0239cab105f429f5348bd15cbbc8
+      internalID: -1972088795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -45}
+        - {x: -42, y: -14}
+        - {x: -33, y: 16}
+        - {x: -42, y: 45}
+        - {x: -12, y: 45}
+        - {x: 12, y: 0}
+        - {x: 42, y: -15}
+        - {x: 42, y: -45}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48161484dc875d4792d50c841701707
+      internalID: -616790750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird head
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3
+        width: 213
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: -84.5}
+        - {x: -77.5, y: -47.5}
+        - {x: -106.5, y: -20.5}
+        - {x: -106.5, y: -1.5}
+        - {x: -84.5, y: 1.5}
+        - {x: -27.5, y: 48.5}
+        - {x: 28.5, y: 84.5}
+        - {x: 106.5, y: 84.5}
+        - {x: 106.5, y: -84.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8408ce7f24a6cb14ba09565b8e1b2b1a
+      internalID: -1327939107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird body
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 135
+        width: 300
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -110}
+        - {x: -77, y: -110}
+        - {x: -112, y: -100}
+        - {x: -125, y: -103}
+        - {x: -134, y: -110}
+        - {x: -150, y: -110}
+        - {x: -150, y: -55}
+        - {x: -145, y: -37}
+        - {x: -150, y: -25}
+        - {x: 13, y: 52}
+        - {x: 77, y: 110}
+        - {x: 150, y: 110}
+        - {x: 150, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec76264a8e8787848ab907f0784822b5
+      internalID: -2014931631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird wing
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 291
+        width: 251
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125.5, y: -86.5}
+        - {x: -125.5, y: -69.5}
+        - {x: -109.5, y: -27.5}
+        - {x: -64.5, y: 16.5}
+        - {x: -14.5, y: 53.5}
+        - {x: 39.5, y: 76.5}
+        - {x: 83.5, y: 86.5}
+        - {x: 125.5, y: 86.5}
+        - {x: 125.5, y: 22.5}
+        - {x: 6.5, y: -86.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ea17e0fe354b42b444800ead5b91d
+      internalID: -526798828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttefly body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 213
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.5, y: -35.5}
+        - {x: -106.5, y: 35.5}
+        - {x: -26.5, y: 35.5}
+        - {x: 28.5, y: 16.5}
+        - {x: 55.5, y: 13.5}
+        - {x: 70.5, y: 16.5}
+        - {x: 93.5, y: 35.5}
+        - {x: 106.5, y: 35.5}
+        - {x: 106.5, y: -9.5}
+        - {x: 95.5, y: -35.5}
+        - {x: 70.5, y: -28.5}
+        - {x: 45.5, y: -27.5}
+        - {x: 13.5, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f795997c62a01c4997a8fc5bac9e0ed
+      internalID: -1708741344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly wings
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 241
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120.5, y: -205}
+        - {x: -120.5, y: -40}
+        - {x: -28.5, y: -31}
+        - {x: 17.5, y: -24}
+        - {x: 34.5, y: -23}
+        - {x: 60.5, y: -25}
+        - {x: 96.5, y: -73}
+        - {x: 112.5, y: -119}
+        - {x: 120.5, y: -157}
+        - {x: 85.5, y: -205}
+      - - {x: 16.5, y: 22}
+        - {x: -120.5, y: 64}
+        - {x: -120.5, y: 205}
+        - {x: -26.5, y: 205}
+        - {x: 48.5, y: 176}
+        - {x: 120.5, y: 170}
+        - {x: 120.5, y: 127}
+        - {x: 93.5, y: 54}
+        - {x: 67.5, y: 23}
+        - {x: 38.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad696a2c5d88d45b578f685f20747c
+      internalID: -19278389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bird body: -2014931631
+      bird head: -1327939107
+      bird tail: 1451967732
+      bird wing: -526798828
+      buttefly body: -1708741344
+      butterfly wings: -19278389
+      close eyes: 1810032222
+      jaw: 828721033
+      open eyes: -1972088795
+      paw: -616790750
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

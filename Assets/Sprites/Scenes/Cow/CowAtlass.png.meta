@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: b4f91ddee883ff04a9ebb30b80c271ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CowBackGround
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1921
+        height: 1037
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -960.5, y: -518.5}
+        - {x: -960.5, y: 236.5}
+        - {x: -881.5, y: 291.5}
+        - {x: -841.5, y: 386.5}
+        - {x: -306.5, y: 386.5}
+        - {x: -264.5, y: 306.5}
+        - {x: -203.5, y: 304.5}
+        - {x: -195.5, y: 291.5}
+        - {x: -181.5, y: 274.5}
+        - {x: -137.5, y: 268.5}
+        - {x: -120.5, y: 280.5}
+        - {x: -93.5, y: 284.5}
+        - {x: -87.5, y: 294.5}
+        - {x: -102.5, y: 321.5}
+        - {x: -71.5, y: 367.5}
+        - {x: -32.5, y: 375.5}
+        - {x: -8.5, y: 374.5}
+        - {x: -1.5, y: 385.5}
+        - {x: 1.5, y: 455.5}
+        - {x: 60.5, y: 468.5}
+        - {x: 114.5, y: 459.5}
+        - {x: 183.5, y: 426.5}
+        - {x: 219.9143, y: 390.937}
+        - {x: 287.5, y: 472.5}
+        - {x: 655.5, y: 463.5}
+        - {x: 701.5, y: 511.5}
+        - {x: 709.5, y: 518.5}
+        - {x: 960.5, y: 518.5}
+        - {x: 960.5, y: -518.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe53590873dfa145b54312d066845f4
+      internalID: -2007384167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowMilkBottle
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 746
+        width: 125
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: -159}
+        - {x: -62.5, y: 140}
+        - {x: -13.5, y: 159}
+        - {x: 62.5, y: 159}
+        - {x: 62.5, y: -159}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aa7cd0ddff9b74bb0ea6ecc01a9d62
+      internalID: 1226784000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLeg
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 395
+        width: 127
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2edde9f20a58541ba9ab328495a601
+      internalID: 1032097481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLeg2
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 11
+        width: 127
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eaa90ad05806e44beab4dbf391b0df
+      internalID: 1797300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowAtlass_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 797
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3eaa572e65f5c49ad2b518884cc349
+      internalID: -951758999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowBottleCap
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 844
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540b3c30ed295e04c9d5a120bcd33e34
+      internalID: 384437320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowBell
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 792
+        width: 106
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -60.5}
+        - {x: -53, y: -42.5}
+        - {x: -53, y: 60.5}
+        - {x: 53, y: 60.5}
+        - {x: 47, y: -28.5}
+        - {x: 53, y: -34.5}
+        - {x: 53, y: -43.5}
+        - {x: 34, y: -60.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05278a4909da2e94ba5a3555b6270949
+      internalID: 1084416196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowBucket
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1053
+        width: 293
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: -146.5}
+        - {x: -142.5, y: 71.5}
+        - {x: -146.5, y: 146.5}
+        - {x: -124.5, y: 146.5}
+        - {x: -16.5, y: 115.5}
+        - {x: 114.5, y: 146.5}
+        - {x: 146.5, y: 146.5}
+        - {x: 146.5, y: -146.5}
+        - {x: 82.5, y: -132.5}
+        - {x: 40.5, y: -146.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cbb7bd77f4dfd4fa4be92b3f71e9a0
+      internalID: 839181715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowAtlass_1
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 923
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83425b4a1e461144fbf42536e27ef039
+      internalID: -622446532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowRightEar
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 981
+        width: 134
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.753296, y: -57.5}
+        - {x: -67, y: -28.5}
+        - {x: -67, y: 57.5}
+        - {x: -20, y: 57.5}
+        - {x: -5, y: 47.5}
+        - {x: 67, y: -8.5}
+        - {x: 67, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02394898d4147804190877a96301d41f
+      internalID: 1270679822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowTradePost
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 962
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 381, y: 320.5}
+        - {x: 481, y: 239.5}
+        - {x: 477, y: -162.5}
+        - {x: 481, y: -186.5}
+        - {x: 478, y: -309.5}
+        - {x: 476, y: -320.5}
+        - {x: 410, y: -320.5}
+        - {x: 349, y: -302.5}
+        - {x: 334, y: -302.5}
+        - {x: 328, y: -303.5}
+        - {x: -356.36975, y: -305.99908}
+        - {x: -381, y: -320.5}
+        - {x: -481, y: -320.5}
+        - {x: -481, y: 320.5}
+        - {x: -25, y: 315.5}
+        - {x: -8, y: 320.5}
+        - {x: 261, y: 317.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d67233376c51449c34054c20a37dd
+      internalID: -1096443823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowMouse
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 163
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04028f35a514a74c9a399b8a5d71381
+      internalID: 1557902298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowBucketMilk
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1581
+        width: 168
+        height: 260
+      alignment: 9
+      pivot: {x: 0.49289086, y: 0.022180645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -130}
+        - {x: -82, y: 123}
+        - {x: -59, y: 130}
+        - {x: 84, y: 130}
+        - {x: 84, y: -130}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9269934ea187e2440964347c33b043a3
+      internalID: 1128338308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLeftEar
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1563
+        width: 144
+        height: 101
+      alignment: 9
+      pivot: {x: 0.9498122, y: 0.8978211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -50.5}
+        - {x: -72, y: -50.5}
+        - {x: -72, y: -28.5}
+        - {x: -61, y: -13.5}
+        - {x: -10, y: 50.5}
+        - {x: 72, y: 50.5}
+        - {x: 72, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd23ae208bdcdce40ac27afa9b19de07
+      internalID: -1343770771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowBody
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 987
+        width: 792
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 304, y: -248.5}
+        - {x: 246, y: -297.5}
+        - {x: -150, y: -297.5}
+        - {x: -193, y: -272.5}
+        - {x: -299, y: -234.5}
+        - {x: -323, y: -214.5}
+        - {x: -357, y: -188.5}
+        - {x: -396, y: -152.5}
+        - {x: -396, y: 156.5}
+        - {x: -321, y: 219.5}
+        - {x: -221, y: 257.5}
+        - {x: -158, y: 276.5}
+        - {x: -130, y: 279.5}
+        - {x: -88, y: 287.5}
+        - {x: -52, y: 297.5}
+        - {x: 267, y: 297.5}
+        - {x: 279.20105, y: 248.7904}
+        - {x: 368, y: 168.5}
+        - {x: 394, y: 75.5}
+        - {x: 396, y: -217.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd24a44cefdf08546808144d157901db
+      internalID: -80351534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowEyeIn
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1461
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6151964ab26706048a1b6523c6dbc73b
+      internalID: -1864345047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowVaseDown
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1423
+        width: 556
+        height: 625
+      alignment: 9
+      pivot: {x: 0.63185745, y: 0.4932326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -312.5}
+        - {x: -159, y: -157.5}
+        - {x: -278, y: -10.5}
+        - {x: -278, y: 229.5}
+        - {x: -110, y: 227.5}
+        - {x: -71, y: 198.5}
+        - {x: -58, y: 211.5}
+        - {x: -106, y: 312.5}
+        - {x: 278, y: 312.5}
+        - {x: 278, y: -312.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f646aee000d4c04ab998e3bee840cc5
+      internalID: -1158428872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowVaseUp
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1942
+        width: 326
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5010417, y: 0.83462524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 139, y: -34}
+        - {x: 109, y: -12}
+        - {x: -122, y: -18}
+        - {x: -144, y: -34}
+        - {x: -163, y: -34}
+        - {x: -163, y: 34}
+        - {x: 136, y: 34}
+        - {x: 163, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e180d6be2794845b937fa6ea77489c
+      internalID: -1965571615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowTale
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1532
+        width: 92
+        height: 185
+      alignment: 9
+      pivot: {x: 0.03745239, y: 0.9031894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -16.5}
+        - {x: 46, y: -91.5}
+        - {x: -7, y: -90.5}
+        - {x: -5, y: -41.5}
+        - {x: -46, y: -23.5}
+        - {x: -46, y: 92.5}
+        - {x: 4, y: 92.5}
+        - {x: 30, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f27e7c7f2f8fe842ac1cb14f2f31086
+      internalID: 203523464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowEar
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1797
+        width: 167
+        height: 251
+      alignment: 9
+      pivot: {x: 0.81463075, y: 0.9157233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -83.5}
+        - {x: -21.5, y: -125.5}
+        - {x: -72.5, y: -125.5}
+        - {x: -83.5, y: -67.5}
+        - {x: -42.5, y: 125.5}
+        - {x: 83.5, y: 125.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 83.5, y: -70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb382976ded609e47ad2fdc7bc0fc7d9
+      internalID: -555031390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowHead
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1501
+        width: 434
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 205, y: 73.5}
+        - {x: 217, y: 1.5}
+        - {x: 217, y: -122.5}
+        - {x: 174, y: -178.5}
+        - {x: 143, y: -221.5}
+        - {x: 28, y: -273.5}
+        - {x: -108, y: -273.5}
+        - {x: -217, y: -196.5}
+        - {x: -216, y: -78.5}
+        - {x: -214, y: -74.5}
+        - {x: -212, y: -47.5}
+        - {x: -162, y: 57.5}
+        - {x: -116.42395, y: 73.48413}
+        - {x: -66, y: 146.5}
+        - {x: -104, y: 273.5}
+        - {x: 217, y: 273.5}
+        - {x: 217, y: 112.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e992f56116464ebe5452338056790
+      internalID: -615947403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowMousePart2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1971
+        width: 187
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: -38.5}
+        - {x: -93.5, y: 38.5}
+        - {x: 93.5, y: 38.5}
+        - {x: 93.5, y: -16.5}
+        - {x: 27.5, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a9574b896a034d9f92763fc4e934a
+      internalID: -1870662987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowStack
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1569
+        width: 827
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 358.5, y: -68.5}
+        - {x: 118.5, y: -70.5}
+        - {x: 55.5, y: -88.5}
+        - {x: -60.5, y: -169.5}
+        - {x: -131.5, y: -199.5}
+        - {x: -176.5, y: -239.5}
+        - {x: -232.5, y: -239.5}
+        - {x: -274.5, y: -198.5}
+        - {x: -413.5, y: -117.5}
+        - {x: -413.5, y: 136.5}
+        - {x: -181.5423, y: 166.9353}
+        - {x: -88.5, y: 239.5}
+        - {x: 371.5, y: 239.5}
+        - {x: 369.5, y: 101.5}
+        - {x: 382.5, y: 74.5}
+        - {x: 413.5, y: 18.5}
+        - {x: 406.5, y: -53.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ee9aca7151ed429f6c4e35e9b4053
+      internalID: 890591924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowVaseMilk
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1855
+        width: 154
+        height: 193
+      alignment: 9
+      pivot: {x: 0.52181727, y: 0.0473753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -96.5}
+        - {x: -45, y: -96.5}
+        - {x: -65, y: -65.5}
+        - {x: -77, y: -45.5}
+        - {x: -77, y: 96.5}
+        - {x: 77, y: 96.5}
+        - {x: 77, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac79969c940eb4c8e188683f84417c
+      internalID: 1837875028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowPart2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1527
+        width: 258
+        height: 212
+      alignment: 9
+      pivot: {x: 0.48748568, y: 0.8263452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125, y: 63}
+        - {x: 111, y: -101}
+        - {x: -115, y: -96}
+        - {x: -114, y: -8}
+        - {x: -129, y: 44}
+        - {x: -129, y: 106}
+        - {x: 129, y: 106}
+        - {x: 126, y: 73}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f71f391da5e9940b2547ad1d4044c9
+      internalID: -882840131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowMousePart
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1532
+        width: 243
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121.5, y: -38.5}
+        - {x: -121.5, y: 24.5}
+        - {x: -108.5, y: 38.5}
+        - {x: 121.5, y: 38.5}
+        - {x: 121.5, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0fa9414e1756b479a9aa8682cd3932
+      internalID: -706953262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowBucketUp
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1336
+        width: 286
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -42}
+        - {x: -97, y: -42}
+        - {x: -143, y: -10.5}
+        - {x: -143, y: 42}
+        - {x: 143, y: 42}
+        - {x: 143, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193ba5cba2b55a2429adf95d596ceb20
+      internalID: -806708016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CowAtlass_0: -951758999
+      CowAtlass_1: -622446532
+      CowBackGround: -2007384167
+      CowBell: 1084416196
+      CowBody: -80351534
+      CowBottleCap: 384437320
+      CowBucket: 839181715
+      CowBucketMilk: 1128338308
+      CowBucketUp: -806708016
+      CowEar: -555031390
+      CowEyeIn: -1864345047
+      CowHead: -615947403
+      CowLeftEar: -1343770771
+      CowLeg: 1032097481
+      CowLeg2: 1797300444
+      CowMilkBottle: 1226784000
+      CowMouse: 1557902298
+      CowMousePart: -706953262
+      CowMousePart2: -1870662987
+      CowMouth: -267347089
+      CowPart2: -882840131
+      CowRightEar: 1270679822
+      CowStack: 890591924
+      CowTale: 203523464
+      CowTradePost: -1096443823
+      CowVaseDown: -1158428872
+      CowVaseMilk: 1837875028
+      CowVaseUp: -1965571615
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

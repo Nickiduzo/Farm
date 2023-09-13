@@ -1,0 +1,3685 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 9
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 3
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 12
+  m_GIWorkflowMode: 1
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 0
+    m_EnableRealtimeLightmaps: 0
+  m_LightmapEditorSettings:
+    serializedVersion: 12
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_ExtractAmbientOcclusion: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_FinalGather: 0
+    m_FinalGatherFiltering: 1
+    m_FinalGatherRayCount: 256
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 2
+    m_BakeBackend: 1
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 512
+    m_PVRBounces: 2
+    m_PVREnvironmentSampleCount: 256
+    m_PVREnvironmentReferencePointCount: 2048
+    m_PVRFilteringMode: 1
+    m_PVRDenoiserTypeDirect: 1
+    m_PVRDenoiserTypeIndirect: 1
+    m_PVRDenoiserTypeAO: 1
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVREnvironmentMIS: 1
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 5
+    m_PVRFilteringGaussRadiusAO: 2
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ExportTrainingData: 0
+    m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
+  m_LightingDataAsset: {fileID: 0}
+  m_LightingSettings: {fileID: 0}
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 2
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    maxJobWorkers: 0
+    preserveTilesOutsideBounds: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1 &22008890
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 22008891}
+  - component: {fileID: 22008892}
+  m_Layer: 0
+  m_Name: Green
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &22008891
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 22008890}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2.088, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1757959862}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &22008892
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 22008890}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -1956474551, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1001 &68191532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 338963602278937722, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _sceneLoader
+      value: 
+      objectReference: {fileID: 1870544252}
+    - target: {fileID: 338963602278937722, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 460359834}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 809282443}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 181056696}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: ActivateCoroutine
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: ScrollBarToUpScript, com.testtool.awesome-tools
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805899, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963602496805902, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 460359834}
+    - target: {fileID: 338963602722213256, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 460359834}
+    - target: {fileID: 338963602747736777, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _sceneLoader
+      value: 
+      objectReference: {fileID: 1870544252}
+    - target: {fileID: 338963602747736777, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 460359834}
+    - target: {fileID: 338963602850068069, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _sceneLoader
+      value: 
+      objectReference: {fileID: 1870544252}
+    - target: {fileID: 338963602850068069, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 460359834}
+    - target: {fileID: 338963602850068089, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 460359834}
+    - target: {fileID: 338963602923791307, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_text
+      value: "PRIVACY POLICY\r\n\r\nEffective: June 5, 2023\r\n\r\nColorGems Studio
+        is a company registered and acting under the laws of Seychelles Need to replace
+        , together with its Affiliates, employees, officers and directors as applicable
+        (collectively the \u201CCompany\u201D or \u201Cwe,\u201D \u201Cus,\u201D
+        or \u201Cour\u201D) provides family-friendly designated products and mobile
+        technology and other child-friendly mobile applications (collectively the
+        \u201CServices\u201D). Whenever you use the Services, you agree to be bound
+        by all of the terms stipulated in this Privacy Policy, which is an integral
+        part of the Terms of Use (hereinafter the \u201CTerms\u201D) available by
+        the following link: https://policy.ColorGems.com/terms_of_use_appstore_clear_invest.html.
+        Need to replace If you do not agree to all the terms and conditions stipulated
+        in Terms and Privacy Policy, you shall not use our Services.\r\n\r\n    INTRODUCTION\r\n\r\n   
+        All terms used in this Privacy Policy shall have the same meaning as defined
+        in our Terms, unless specifically indicated herein.\r\n\r\nWe use the broad
+        interpretation of a term \u201CPersonal Information,\u201D which includes
+        combined definitions pf personal information from CCPA, COPPA, and GDPR.
+        We treat any information relating to an identified or identifiable data subject
+        as personal to the broadest extent. It includes but not limited to the information
+        that identifies, relates to, describes, is capable of being associated with,
+        or may reasonably be linked, directly or indirectly, with a particular consumer
+        or household. We also treat pseudonymous data and depersonalized identifiers
+        as Personal Information if they allow in combination to establish a link
+        between such information and a patricidal consumer, or household, or if they
+        can be used to recognize a user over time and across different websites or
+        online services. The complete list of the Personal Information that the Company
+        processes is included in Schedule A below. Please note that the Schedule
+        A is not applicable to children\u2019s Personal Information.\r\n\r\n    This
+        Privacy Policy applies to the Companies\u2019 policies on collection, use
+        and disclosure of personal and non-personal information by the Company and
+        its affiliates through the sites and the mobile apps distributed by the Company
+        (collectively the \u201CServices\u201D). This Privacy Policy does not apply
+        to the collection, use or disclosure of personal and non-personal information
+        through any apps for which the Company does not act as the publisher.\r\n   
+        By using the Services, you signify your assent to our Privacy Policy. If
+        you do not agree to this Privacy Policy, please do not use any of our Services.\r\n   
+        We reserve the right to make changes to this Privacy Policy at any time.
+        Please check the Privacy Policy each time you use our Services to ensure
+        you are aware of any changes in our privacy practices. Our Privacy Policy
+        will indicate the date it was last updated. Your continued use of our Services
+        will signify your acceptance of the changes to our Privacy Policy. If there
+        is a substantive or material change in the way that we use your Personal
+        Information, we will notify you via email of the relevant changes or provide
+        other prominent notice. If you choose to opt-out of or not opt-in to our
+        changed practice, our email communication (if applicable) will contain instructions
+        on how to do so. If such change affects children users, we will first notify
+        and obtain the prior verifiable consent of a parent or legal guardian.\r\n\r\n   
+        LEGISLATION\r\n\r\n    This Privacy Policy is drafted with adherence to the
+        applicable privacy protection laws, including following legislation:\r\n\r\n   
+        California Consumer Privacy Act (\u201CCCPA\u201D):\r\n\r\nhttp://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=\r\n\r\n   
+        Children's Online Privacy Protection Rule (\"COPPA\")\r\n\r\nhttps://uscode.house.gov/view.xhtml?path=/prelim@title15/chapter91&edition=prelim\r\n\r\n   
+        Regulation (EU) 2016/679 of the European Parliament and of the Council of
+        27 April 2016 on the protection of natural persons with regard to the processing
+        of personal data and on the free movement of such data, and repealing Directive
+        95/46/EC (General Data Protection Regulation or \u201CGDPR\u201D)\r\n\r\nhttps://eur-lex.europa.eu/eli/reg/2016/679/oj\r\n\r\n   
+        ONLINE PRIVACY OF CHILDREN\r\n\r\n    The Company adheres to the principles
+        of the COPPA, a U.S. law designed to protect the online privacy of children,
+        in our Services that are directed to children. If you would like to learn
+        more about COPPA, you can refer to the \u201CChildren\u2019s Privacy\u201D
+        section of the Federal Trade Commission\u2019s website.\r\n    The Company
+        adheres to the principles of the GDPR, an EU law designed to protect and
+        empower the owners of personal data (\u201Cdata subjects\u201D), in terms
+        that regulated the privacy of children.\r\n    The Company takes many precautions
+        to protect the online privacy of children. Whenever we refer to \u201Cchildren\u201D
+        in this Privacy Policy, we mean children under the age of 13 (thirteen) for
+        the United States and all other jurisdictions, except that it can be under
+        the age of 16 (sixteen) for the EU member states unless member state established
+        a different age limit, which cannot be lower than 13 (thirteen). Please help
+        us in protecting children\u2019s privacy by instructing them to never provide
+        any Personal Information (full name, email address, home address, phone number,
+        etc.) without your permission.\r\n    Currently, THE COMPANY DOES NOT KNOWINGLY
+        COLLECT ANY PERSONAL INFORMATION FROM CHILDREN OR WITHIN THE CHILD-ORIENTED
+        PORTIONS OF OUR SERVICES except as otherwise outlined in this Privacy Policy.
+        If we were to collect and store Personal Information from children, we would
+        obtain a prior verifiable consent of a parent or legal guardian before such
+        collection, unless the collection of information falls within a COPPA-permitted
+        exception.\r\n    In our Services directed to children users, we collect
+        information which includes persistent identifiers such as a device identifier
+        (\u201Cdevice ID\u201D) or an Internet Protocol address (\u201CIP address\u201D).
+        This information is collected solely for the purpose of providing functionality
+        and support for our internal operations and optimizing our users\u2019 game
+        experience. We never collect precise geo-location data from children and
+        do not allow practices and/or mechanisms that mislead them into sharing such
+        information.\r\n    The Company does not permit behaviorally-targeted advertising
+        to children in the Services where we do not have the substantial confirmation
+        that the user is over the age of 13 (thirteen).\r\n    If we decide to change
+        our policy regarding collection of Personal Information of children, we will
+        receive your prior verifiable consent in all cases before such the collection.\r\n   
+        In case we detect the unintended collection of Personal Information from
+        children, including cases when children voluntarily share their information,
+        we may use this information only to respond directly to a child\u2019s specific
+        one-time request. COPPA permits not to make a direct notification is this
+        case. We will not use the information to contact the child again and we will
+        delete it after we respond to the request. In all other cases we will:\r\n\r\n   
+        notify parents we collected their online contact information;\r\n    notify
+        parents we collected their child\u2019s online contact information;\r\n   
+        notify parents the online contact information will not be used for any other
+        purpose other than the one as determined in notification and will not be
+        disclosed or combined with other information;\r\n    notify parents that
+        if they do not opt out, we may use the child\u2019s online contact information
+        for that purpose; and\r\n    hyperlink to this Privacy Policy.\r\n\r\n   
+        If you believe that we may have unintentionally collected your child\u2019s
+        Personal Information without your prior consent, you may contact the Company\u2019s
+        Privacy Officer by contacts stipulated in Section 10..\r\n\r\n    INFORMATION
+        COLLECTED\r\n\r\n    THE COMPANY\u2019S POLICY IS NOT TO COLLECT PERSONAL
+        INFORMATION FROM CHILDREN UNDER THE AGE OF 13 (THIRTEEN) YEARS OLD FOR THE
+        UNITED STATES AND OTHER COUNTRIES, OR 16 (SIXTEEN) FOR THE EURIPEAN UNION,
+        UNLESS OTHERWISE ESTABLISHED BY NATIONAL LAW.\r\n    There are two types
+        of information that may be collected by the Company:\r\n\r\n    the first
+        is called Personal Information which is information that can be used to identify
+        a specific individual. As stated in the previous section, the Company does
+        not knowingly collect any Personal Information from children outside of the
+        information and required for the support of internal operations. In this
+        case we use the \u201Cemail plus\u201D method, when we send an email to the
+        parent or legal guardian and have them respond with their consent. Then we
+        send a confirmation to the parent via email, letter, or phone call. In this
+        case we also let the parent know they can revoke their consent anytime. The
+        Company may collect Personal Information that parents, legal guardians or
+        persons 13 (thirteen) years old or over voluntarily provide via the Services.\r\n   
+        the second type of information is non-personal information which does not
+        directly identify an individual. The Company may collect non-personal information
+        about your use of the Services to help us improve our Services or for other
+        purposes as described in this Privacy Policy.\r\n\r\n    We may combine the
+        non-personal information and Personal Information of people above 13 (thirteen)
+        years old for the United States and other countries, or 16 (sixteen) for
+        the European Union, unless otherwise established by national law that we
+        receive through our Services. Information collected will vary depending upon
+        the activity and may include your name, email address, phone number, mobile
+        number, device type, operating system, home address, birth date, statistical
+        and usage data (as further explained below), proof of identify (such as the
+        Social Security, Social Identification Number or Social Insurance Number)
+        of contest prize winners and, to the extent required to process any payment,
+        your credit card information. In addition, we may collect demographic information
+        such as gender, zip code or postal code and other data that you may provide
+        in surveys or online profiles, for instance. We may combine demographic information
+        with Personal Information.\r\n    For EU only: per requirements under GDPR,
+        we log your consent state for compliance purposes. This information is stored
+        on servers hosted in the EU and is used solely for GDPR compliance. The device
+        identifier is stored along with the consent status. If you consent to personalized
+        advertising, your device advertising identifier also is stored in case we
+        need to be able to access it to assist you with data portability or erasure
+        requests. Your device advertising identifier is not stored in our consent
+        logging database if you do not consent to personalized advertising.\r\n   
+        Please note that this data is collected automatically by third parties (controllers
+        or processors under GDPR) due to your use of our products if you accept this
+        Privacy Policy:\r\n\r\n    data about your game progress;\r\n    your IP
+        address and mobile device identifiers (such as your device ID, advertising
+        ID, MAC address, IMEI);\r\n    data about your device, such as device name
+        and operating system, browser type and language;\r\n    general location
+        data;\r\n    precise geo-location data (GPS, only for users above 13 (thirteen)
+        years old for the United States and other countries, or 16 (sixteen) for
+        the European Union, unless otherwise established by national law and with
+        their direct consent);\r\n    data about your use of our application, such
+        as gameplay data and interactions with other players (if applicable and only
+        for users above 13 (thirteen) years old for the United States and other countries,
+        or 16 (sixteen) for the European Union, unless otherwise established by national
+        law).\r\n\r\n    When required by law, the Company reserves the right to
+        disclose your Personal Information to third parties or regulatory, law enforcement
+        or other government authorities.\r\n    We may also disclose your information
+        to credit reporting or collection agencies, or when necessary to protect
+        our rights or property. If at any time you choose to purchase a product or
+        service offered by another company, for example by clicking on an advertisement
+        on a website owned or controlled by the Company, any Personal Information
+        you share with that company will no longer be controlled under our Privacy
+        Policy.\r\n    Our software products include features from our partners,
+        such as social media interaction tools and in-game advertising. A list of
+        these partners is available below. These partners may access your data and
+        operate under their own privacy policies. We are not responsible for the
+        privacy policies or the content of sites we link to and we have no control
+        over the use or protection of information provided by you to, or collected
+        by, those websites. Whenever you click the link to a co-branded website or
+        to a linked website, you may be asked to provide registration or other information.
+        Please note that the information you are providing is going to a third party
+        and you should familiarize yourself with the privacy policy published by
+        that third party. We encourage you to check their privacy policies to learn
+        more about their data processing practices:\r\n\r\n    Google AdMob https://policies.google.com/technologies/ads\r\n   
+        Unity and Unity Analytics https://unity3d.com/ru/legal/gdpr and https://unity3d.com/ru/legal/privacy-policy\r\n   
+        Unity Ads https://unity3d.com/legal/privacy-policy\r\n    Clever Ads Solutions 
+        (ClearInvestHouseAds) https://cleveradssolutions.com/privacy-policy\r\n   
+        Firebase Analytics https://firebase.google.com/support/privacy and https://policies.google.com/privacy\r\n   
+        AppLovin https://www.applovin.com/privacy/\r\n    ChartBoost https://answers.chartboost.com/en-us/articles/200780269\r\n   
+        Vungle https://vungle.com/privacy/\r\n    StartApp https://www.startapp.com/policy/privacy-policy/\r\n   
+        Kidoz https://kidoz.net/privacy-policy/\r\n    AppBrain https://www.appbrain.com/info/help/privacy/index.html\r\n   
+        SuperAwesome https://www.superawesome.com/privacy-hub/privacy-policy/\r\n   
+        InMobi Ads https://www.inmobi.com/privacy-policy/\r\n    My.com https://legal.my.com/us/mytarget/privacy/\r\n   
+        Mobfox https://www.mobfox.com/privacy-policy/\r\n    Facebook Ads https://developers.facebook.com/docs/audience-network/policy/\r\n   
+        AdColony https://www.adcolony.com/privacy-policy/\r\n    ironSource https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/\r\n   
+        Verizon Media https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/
+        \r\n    Amazon Advertising https://advertising.amazon.com/legal/privacy-notice
+        \r\n    Yandex Ads https://yandex.com/legal/mobileads_sdk_agreement/\r\n\r\n   
+        PURPOSES FOR WHICH WE USE THE INFORMATION COLLECTED\r\n\r\n    We do not
+        collect your children\u2019s Personal Information. Therefore, this section
+        foes not apply to children\u2019s Personal Information. If such collection
+        occurs in future, we will notify you and obtain your prior verifiable consent.
+        We will endeavor to prevent collection of such information and timely notify
+        you in case of accidental collection.\r\n    The Company may use the Personal
+        Information you provide us for the purposes of: \r\n\r\n    administering
+        contests and awarding prizes which are only directed to parents and adult
+        users;\r\n    warranty registration and/or providing customer support or
+        responding to technical service requests;\r\n    providing online services
+        for parents and users over 13 (thirteen) years old for the United States
+        and other countries, or 16 (sixteen) for the European Union, unless otherwise
+        established by national law;\r\n    registration for games or special game-specific
+        event participation for parents and users over 13 (thirteen) years old for
+        the United States and other countries, or 16 (sixteen) for the European Union,
+        unless otherwise established by national law;\r\n    registration for membership
+        and participation on our site;\r\n    processing your order(s) of products
+        or subscriptions from us online;\r\n    enabling your use of our software
+        or online services and access to certain areas of our site, features or programs;\r\n   
+        beta-testing;\r\n    newsletter sign-up; or\r\n    improving our products
+        and services.\r\n\r\n    You are not required to provide Personal Information
+        to us to obtain access to any of our Services; however, the collection, use
+        and disclosure of your Personal Information may be required for registration
+        to access certain areas or features of our Services and, if you do not provide
+        the required information, you will not have access to these areas or features.\r\n   
+        Statistical and Usage Data: when you use our Services on your device, we
+        may retrieve information about your hardware system and how your game is
+        played, including your IP address or device ID. We may also collect information
+        about your computer, hardware, software, platform, media, connection, information
+        about online activity such as feature usage, game play statistics and scores,
+        user rankings, click paths, and in-app purchases. We use this information
+        to enable you to play our game over the Internet. We also use this information
+        to better understand preferences of our customers, so that we can improve
+        our products and services.\r\n    Other Uses: we may also use your information
+        for other legitimate business purposes. We will only collect information
+        to the extent reasonably necessary to fulfill the purposes for which it was
+        collected and our legitimate business objectives or as permitted or required
+        by law.\r\n    Internet Protocol Address: we collect an IP address from every
+        visitor to our Services. An IP address is a number that is automatically
+        assigned to your computer or device when you use the Internet. We use IP
+        addresses to help diagnose problems with our servers, administer our Services,
+        analyze trends, track users' movement on our Services, gather broad demographic
+        information for aggregate use in order for us to improve the Services, and
+        deliver customized, personalized content. We do not link IP addresses with
+        any personally identifiable information.\r\n    In-Game Advertising: our
+        Services may incorporate dynamic advertisement serving technology offered
+        by our ad provider (Adwords), which enables advertising to be temporarily
+        uploaded into the game and replaced while you play. The data collected for
+        this purpose may include IP address or players\u2019 user name, downloaded
+        or purchased Services, in game location, length of time an advertisement
+        was visible, size of the advertisements, and angle of view. The Services
+        you are using may be assigned an ID number, which is stored on your device,
+        and used by our Ad Provider to calculate the number of unique and repeat
+        views of dynamic in-game advertising. THE ID NUMBER IS NOT ASSOCIATED WITH
+        ANY PERSONAL DATA AND FOR CHILDREN-DIRECTED SERVICES IS NOT USED FOR BEHAVIORAL
+        ADVERTISING PURPOSES. NONE OF THE INFORMATION COLLECTED AND USED FOR ADVERTISING
+        PURPOSES IS USED TO PERSONALLY IDENTIFY YOU OR YOUR CHILD. WE DO NOT EMPLOY
+        BEHAVIORAL ADVERTISEMENT FOR CHILDREN. The servers used by the ad provider
+        may be located outside your country of residence. This ad serving technology
+        is integrated into the Services; if you do not want to use this technology,
+        do not use our mobile applications while connected to the Internet.\r\n   
+        In accordance with the General Data Protection Regulation (GDPR), the Company\u2019s
+        advertising partners in the European Economic Area all function as independent
+        data controllers. Prior to showing a personalized advertisement, you will
+        be asked whether you consent to sharing your information with the advertising
+        company. If you are a resident of an European Union member state and indicate
+        that your child is below the age of 16 (sixteen) or a lower age established
+        in your member state but not lower than 13 (thirteen) years old, your child
+        will be served non-personalized ads and the advertising companies will not
+        collect Personal Information from your child.\r\n\r\n    HOW WE SHARE OR
+        DISCLOSE INFORMATION\r\n\r\n    The Company may share your information with
+        third parties for the limited purposes described below. This Section does
+        not concern any child\u2019s Personal Information, to which provision of
+        Section 3. is applicable.\r\n    Third Parties: you may register for other
+        services from our Services which are offered by third parties. If you opt
+        in to any of these third-party services, we may collect additional information
+        requested by this third party and pass this information, together with all
+        other registration information (including Personal Information), to that
+        third party. Use of your information by a third party will be governed by
+        that third party\u2019s terms of service and privacy policy. Participation
+        in these other related services is optional and is not required to play or
+        participate in any of our Services.\r\n    Partners: the Company may also
+        share non-personal information with our brand partners, which may include
+        without limitation game session information, retention, purchases, gameplay
+        events and user behavior. The Company does not share any Personal Information
+        with these partners.\r\n    Marketing: The Personal Information you provide
+        will allow us to alert you to new products, features and enhancements; special
+        offers; upgrade opportunities; and contests and events of interest. From
+        time to time, we may also inform you on other companies and organizations
+        that provide products or services that we believe may be of interest to you.
+        We see this as a value-added service helping you to find useful products
+        or services. We strive to limit use of the information you provide to those
+        offers that we think you would appreciate receiving. You may opt out of this
+        service by contacting us as set out in the opt-out provision below.\r\n   
+        Legal Rights and Obligations: Finally, we may use and/or disclose your Personal
+        Information to enforce legal rights and comply with the law, or to comply
+        with an order from a government entity or other competent authority, or when
+        we have reason to believe that a disclosure is necessary to address potential
+        or actual injury or interference with our rights, property, operations, users
+        or others who may be harmed or may suffer loss or damage. When necessary,
+        we may also disclose Personal Information to law enforcement, or to the appropriate
+        civil authorities.\r\n    The Company does not knowingly share or disclose
+        personal information other than as set forth in this Privacy Policy.\r\n\r\n   
+        YOUR RIGHTS\r\n\r\n    You are not required by law to provide us with certain
+        Personal Information. You can always refuse to provide certain Personal Information;
+        however, you acknowledge that such refusal may prevent you from engaging
+        in certain activities within Services or from engaging with Services completely.\r\n   
+        Under the GDPR, you have various rights in relation to your Personal Information.
+        All of these rights can be exercised by contacting us via email designated
+        in Section 10.. In certain circumstances, you have the following rights in
+        relation to your Personal Information:\r\n\r\n    Right of access\r\n\r\nYou
+        have the right to obtain from us information as to whether your Personal
+        Information is being processed, and, where that is the case, access to such
+        personal information. You may access and amend your Personal Information,
+        request the details about purposes of processing of your Personal Information
+        and prevent undesirable marketing by opting-out. If you wish to opt out of
+        marketing, use \u2018unsubscribe\u2019 option available at our emails.\r\n\r\n   
+        Right to withdraw consent\r\n\r\nWhen we rely on your consent for the processing
+        of your personal information, you have the right to withdraw your consent
+        at any time. However, the withdrawal of your consent will not affect the
+        lawfulness of the Company\u2019s processing based on consent before your
+        withdrawal.\r\n\r\n    Right to rectification\r\n\r\nWe will use reasonable
+        endeavors to ensure that your Personal Information is accurate. In order
+        to assist us with this, you should notify us of any changes to the Personal
+        Information that you have provided to us by sending us a request to rectify
+        your Personal Information where you believe the Personal Information that
+        we have is inaccurate or incomplete.\r\n\r\n    Right to restriction of processing\r\n\r\nYou
+        have the right to ask us to stop processing your Personal Information at
+        any time.\r\n\r\n    Right to erasure\r\n\r\nAsking us to delete all of your
+        Personal Information will result in the Company deleting your Personal Information
+        without undue delay (unless there is a legitimate and legal reason why we
+        are unable to delete certain of your personal information, in which case
+        we will inform you of this). Asking us to stop processing your Personal Information
+        or deleting your Personal Information on may mean that you will no longer
+        be able to use our site.\r\n\r\n    Right to information portability\r\n\r\nYou
+        have the right to request that the Company provides you with a copy of all
+        of your Personal Information and to transmit your Personal Information to
+        another data controller in a structured, commonly used and machine-readable
+        format, where it is technically feasible for us to do so and the processing
+        is based on consent or contractual performance.\r\n\r\n    Right to complain\r\n\r\nAlthough
+        we encourage our customers to engage with us in the event, they have any
+        concerns or complaints, you have the right to lodge a complaint to a supervisory
+        authority.\r\n\r\n    Right to object automated processing\r\n\r\nYou have
+        the right not to be subject to a decision based solely on automated processing
+        of your personal information, including profiling, which produces legal or
+        similarly significant effects on you. There may be exceptions or limitations
+        to this right as defined under relevant data protection laws. We will not
+        ordinarily charge you in respect of any requests we receive to exercise any
+        of your rights detailed above, however, if you make excessive, repetitive
+        or manifestly unfounded requests, we may charge you an administration fee
+        in order to process such requests or refuse to act on such requests. When
+        you request us to rectify or erase your Personal Information or restrict
+        any processing of such information, we may notify third parties to whom such
+        Personal Information has been disclosed of such request. However, such a
+        third party may have the right to retain and continue to process such Personal
+        Information in its own right, for example, to enable it to comply with its
+        own legal obligations.\r\n\r\n    Right to make a request\r\n\r\nYou may
+        also send a request to receive the information which is being processed,
+        amended, deleted or locked and information about any parties to which we
+        transmit your personal information.\r\n\r\n    In some cases, we may charge
+        a fee (based on our reasonable costs) if the requests are excessive considering
+        the nature of the request itself or nature and functionality of our services.\r\n   
+        The Company does not discriminate against a consumer who exercises any of
+        the consumer's rights under the CCPA. However, the Company may charge different
+        prices or provide a different quality of goods or services if the difference
+        is reasonably related to the value provided to the consumer by the consumer's
+        data and may offer financial incentives to a consumer for the collection,
+        sale, or deletion of personal information on a prior opt-in consent basis.\r\n\r\n   
+        COOKIE AND SIMILAR TECHNOLOGIES\r\n\r\n    Our site may use cookies to enhance
+        your experience while using them. Cookies are pieces of information that
+        some websites transfer to the device that is browsing that website and are
+        used for record-keeping purposes at many websites. Use of cookies makes web-surfing
+        easier by performing certain functions such as saving language preferences
+        and maintaining your sessions while you are on our site. The cookies used
+        on our sites contain generic information used for page navigation.\r\n   
+        If you would prefer not to receive cookies, you can alter the configuration
+        of your browser to refuse cookies. If you choose to have your browser refuse
+        cookies, some areas of our site may not function properly.\r\n    We may
+        use cookies and web beacons (also known as action tags or single-pixel gifs),
+        and other technologies (collectively, \"cookies\") to provide us with data
+        we can use to improve your experience and to know you better.\r\n    Cookies
+        enable us to capture how you arrived at our site, when you return, which
+        pages on our site you visit, and to recognize that you are already logged
+        on when we receive a page request from your browser.\r\n    In any case we
+        do not link the information we store in cookies to any personally identifiable
+        information and use cookies only for analytical purpose and to improve the
+        user experience.\r\n    We will never share this information with any third
+        party. Cookies are readable only by us and do not contain any Personal Information
+        nor do they contain account or password information. We cannot and will not
+        gather information about other sites you may have visited.\r\n    We may
+        use third-party software to track and analyze usage and volume of statistical
+        information, including page requests, form requests and click paths. The
+        third party may use cookies to track behavior and may set cookies on behalf
+        of the Company.\r\n    We also use cookies related to the use of Google Analytics
+        on our sites. Google Analytics uses first-party cookies to report on visitor
+        interactions. These cookies are used to collect information about how visitors
+        use our sites. We use the information to compile reports and to help us improve
+        the site. You can opt out of tracking by Google Analytics by visiting: http://tools.google.com/dlpage/gaoptout?hl=en-GB.
+        In any event, we do not link information collected through cookies with any
+        personally identifiable information.\r\n\r\n    OTHER IMPORTANT INFORMATION\r\n\r\n   
+        Opt-In Provision: pursuant the GDPR requirement, we are entitled to process
+        any personal information only upon receiving your direct consent and only
+        for the purposes that you provided your consent for. Therefore, you are always
+        entitled to decide if you wish to share any information with us. We do not
+        enable opt-in blockers that prevent you from using the Services without giving
+        your consent. We also do not embed opt-in possibilities in child-oriented
+        elements of our Services so they would be unable to give their consent for
+        collection of personal information. Such consent can be obtained by us only
+        from you.\r\n    Opt-Out Provision: currently, the Company does not share
+        personal information with third parties for marketing purposes. In the event
+        this was to happen, the Company would obtain your consent prior to any such
+        disclosure. If you do not want the Company to send you postal mail about
+        our products and services, you can opt out at any time and choose to have
+        your name removed from our mailing list. Under the GDPR you have a right
+        to have the Company and our third-party partners erase the personal information
+        we have collected from you without undue delay. You can do so by contacting
+        Clear Service\u2019 Privacy Officer as envisaged in Section 10..\r\n    By
+        accepting this Privacy Policy us your email, you accept to receive emails
+        from the Company with respect to our products and services. Additionally,
+        by providing the Company with your email on Facebook, such as through a sweepstakes
+        or a newsletter sign-up, you accept to receive emails from the Company with
+        respect to our products and Services. If you opt to receive such communications,
+        you may opt out of this consent at any time by contacting us as described
+        above or by using the unsubscribe mechanism included in the email communications
+        you will receive. You may also modify your user settings to edit the email
+        address related to your account or opt-out of receiving emails, at any time.\r\n   
+        Safeguarding Your Personal Information: We will only collect and use personal
+        information in accordance with this Privacy Policy to the extent deemed reasonably
+        necessary to serve our legitimate business purposes, and we will maintain
+        appropriate safeguards to ensure the security, integrity, accuracy and privacy
+        of the information you have provided. In addition, we will take reasonable
+        steps to assure that third parties to whom we transfer any personal information
+        will provide sufficient protection of that information.\r\n    Under the
+        GDPR you have a right to request a copy of the personal data the Company
+        and our third-party partners have collected from you.\r\n    Business Transactions:
+        we reserve the right to transfer any personal information we have about you
+        in connection with the sale or transfer of all or a portion of our business
+        or assets or rights relating thereto.\r\n    Third Party Sites: if you click
+        on a link to a third-party site, including on an advertisement, an Ad Provider
+        link, or other third-party service, you will leave the Company site you are
+        visiting and go to the site you selected. Because we cannot control the activities
+        of third parties, we cannot accept responsibility for any use of your personal
+        information by such third parties, and we cannot guarantee that they will
+        adhere to the same privacy and security practices as the Company. We encourage
+        you to review the privacy policies of these third-party sites from whom you
+        request services. If you visit a third-party website that is linked to on
+        the Company\u2019s site or Services, you should consult that site\u2019s
+        privacy policy before providing any personal information on that site.\r\n   
+        If we have unintentionally collected and stored any personal information
+        from children, parents can request access to review such information, have
+        it deleted, or stop our further collection or use of such information. To
+        make any of these requests, please use the contact information below.\r\n   
+        Consent: by providing us with your Personal Information, we assume that you
+        consent to our collection, use and disclosure of such information for the
+        purposes identified at the time that we collect the information from you
+        or as otherwise described in this Privacy Policy. In the case of children
+        under 13 (thirteen) for the US or 16 (sixteen) for the EU unless otherwise
+        established by member state law, as applicable, we will obtain a parent or
+        legal guardian\u2019s verifiable consent prior to the collection of Personal
+        Information from such users, unless the collection of such information falls
+        within an exception that is permitted under COPPA, CCPA, and GDPR.\r\n\r\n   
+        CONTACT INFORMATION\r\n\r\n    For any questions on this Privacy Policy,
+        or in order to contact the Privacy Officer please do not hesitate to contact
+        us:\r\n\r\n    by e-mail: farm@llill.xyz\r\n\r\nSCHEDULE A\r\n\r\nPERSONAL
+        INFORMATION PROCESSING PURPOSES AND DETAILS\r\n\r\nTHIS SCHEDULE A DOES NOT
+        APPLY TO PERSONAL INFORMATION OF CHILDREN AS DETERMINED IN THE PRIVACY POLICY.
+        WE DO NOT INTENTIONALLY COLLECT AND PROCESS CHILDREN\u2019S PERSONAL INFORMATION.
+        THIS SCHEDULE ONLY APPLIES WHEN WE HAVE A SUBSTANTIAL AGE CONFIRMATION AND
+        CONSENT OF THE CONSUMER.\r\n\r\nContracted Business Purposes: Advertising,
+        marketing, CRM, payment processing and other business managements services\r\n\r\nPersonal
+        Information Categories: This Policy involves the following types of Personal
+        Information, as defined and classified in CCPA Cal. Civ. Code \xA7 1798.140(o).\r\n\r\nCategory\r\n\t\r\n\r\nExamples\r\n\t\r\n\r\nProcessed
+        under this Policy\r\n\r\nA. Identifiers\r\n\t\r\n\r\nA real name, alias,
+        postal address, unique personal identifier, online identifier, Internet Protocol
+        address, email address, account name, Social Security number, driver\u2019s
+        license number, passport number, or other similar identifiers\r\n\t\r\n\r\nYES\r\n\r\nB.
+        Personal Information categories listed in the California Customer Records
+        statute (Cal. Civ. Code \xA7 1798.80(e))\r\n\t\r\n\r\nA name, signature,
+        Social Security number, physical characteristics or description, address,
+        telephone number, passport number, driver\u2019s license or state identification
+        card number, insurance policy number, education, employment, employment history,
+        bank account number, credit card number, debit card number, or any other
+        financial information, medical information, or health insurance information.\r\n\r\nSome
+        Personal Information included in this category may overlap with other categories\r\n\t\r\n\r\nYES\r\n\r\nC.
+        Protected classification characteristics under California or federal law\r\n\t\r\n\r\nAge
+        (40 years or older), race, color, ancestry, national origin, citizenship,
+        religion or creed, marital status, medical condition, physical or mental
+        disability, sex (including gender, gender identity, gender expression, pregnancy
+        or childbirth and related medical conditions), sexual orientation, veteran
+        or military status, genetic information (including familial genetic information)\r\n\t\r\n\r\nYES\r\n\r\nD.
+        Commercial information\r\n\t\r\n\r\nRecords of personal property, products
+        or services purchased, obtained, or considered, or other purchasing or consuming
+        histories or tendencies\r\n\t\r\n\r\nYES\r\n\r\nE. Biometric information\r\n\t\r\n\r\nGenetic,
+        physiological, behavioral, and biological characteristics, or activity patterns
+        used to extract a template or other identifier or identifying information,
+        such as fingerprints, faceprints, and voiceprints, iris or retina scans,
+        keystroke, gait, or other physical patterns, and sleep, health, or exercise
+        data\r\n\t\r\n\r\nNO\r\n\r\nF. Internet or another similar network activity\r\n\t\r\n\r\nBrowsing
+        history, search history, information on a consumer\u2019s interaction with
+        a website, application, or advertisement\r\n\t\r\n\r\nYES\r\n\r\nG. Geolocation
+        data\r\n\t\r\n\r\nPhysical location or movements\r\n\t\r\n\r\nNO (can be
+        YES only with your direct consent)\r\n\r\nH. Sensory data\r\n\t\r\n\r\nAudio,
+        electronic, visual, thermal, olfactory, or similar information\r\n\t\r\n\r\nNO\r\n\r\nI.
+        Professional or employment-related information\r\n\t\r\n\r\nCurrent or past
+        job history or performance evaluations\r\n\t\r\n\r\nNO\r\n\r\nJ. Non-public
+        education information (per the Family Educational Rights and Privacy Act
+        (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).\r\n\t\r\n\r\nEducation records
+        directly related to a student maintained by an educational institution or
+        party acting on its behalf, such as grades, transcripts, class lists, student
+        schedules, student identification codes, student financial information, or
+        student disciplinary records.\r\n\t\r\n\r\nNO\r\n\r\nK. Inferences drawn
+        from other personal information.\r\n\t\r\n\r\nProfile reflecting a person\u2019s
+        preferences, characteristics, psychological trends, predispositions, behavior,
+        attitudes, intelligence, abilities, and aptitudes.\r\n\t\r\n\r\nNO\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603011208937, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_text
+      value: "TERMS OF USE\r\n\r\nEffective: June 5, 2023\r\n\r\n\r\n\r\nColorGems
+        Studio, a company registered and acting under the laws of Seychelles Need
+        to replace , together with its Affiliates, employees, officers and directors
+        as applicable (collectively the \u201CCompany\u201D or \u201Cwe,\u201D \u201Cus,\u201D
+        or \u201Cour\u201D) provides family-friendly designated products and mobile
+        technology and other child-friendly mobile applications (collectively the
+        \u201CServices\u201D). Whenever you use the Services, you agree to be bound
+        by all of the terms and conditions stipulated in the Terms of Use (hereinafter
+        the \u201CTerms\u201D) and in our Privacy Policy available by the following
+        link: https://policy.colorgemes.com/privacy_policy_appstore_clear_invest.html
+        Need to replace . If you do not agree to all the terms and conditions stipulated
+        in Terms and Privacy Policy, you shall not use our Services.\r\n\r\n\r\n\r\n   
+        DEFINITIONS\r\n\r\n        The \u201CServices\u201D refers to our sites and
+        mobile applications developed, owned and operated by the Company which are
+        primarily targeted at children.\r\n\r\n        The \u201CVirtual Items\u201D
+        refers to:\r\n\r\n            virtual currency, including but not limited
+        to virtual coins, cash, tokens, or points, all for use solely within the
+        Services, and\r\n\r\n            virtual in-game items.\r\n\r\n        The
+        \u201CAffiliates\u201D refers to the Company\u2019s subsidiaries, parent
+        companies, joint ventures and other corporate entities under common ownership
+        and/or any of their agents, consultants, employees, officers and directors.\r\n\r\n\r\n\r\n   
+        USING THE SERVICES\r\n\r\n        In the context of our Services we may provide
+        the access to the site, mobile applications, or any other content as available.
+        You provide the equipment (phone, tablet, etc.) and pay any fees to connect
+        to the Internet and app stores, or for data or cellular usage to access and
+        use the Services.\r\n\r\n        The Company reserves the right to stop offering
+        and/or supporting the Services or their particular part anytime either permanently
+        or temporarily, at which point your license to use the Service or any part
+        of it will be automatically terminated or suspended. If that happens, the
+        Company is not required to provide refunds, remedies, benefits, or other
+        compensations to you in connection with discontinued elements of the Services
+        or for Virtual Items previously earned or purchased.\r\n\r\n        The Company
+        may, in its sole discretion limit, suspend, terminate access to the Services
+        or any their portion and prohibit access to our games and sites, their content,
+        services and tools, to delay or remove hosted content and the Company is
+        under no obligation to compensate you for any such losses or results.\r\n\r\n       
+        We undertake all efforts envisaged by the applicable law to protect children
+        and their privacy during provision of our Services. By accepting these Terms,
+        you acknowledge that you represent your minors using our Services in relations
+        with us, that you control such use, and agree that you are responsible for
+        such use of the Services.\r\n\r\n\r\n\r\n    OWNERSHIP; LIMITED LICENSE\r\n\r\n       
+        The Services are owned and operated by the Company.\r\n\r\n        Unless
+        otherwise indicated, all content, information, and other materials on the
+        Services, including, without limitation, trademarks and logos, the visual
+        interfaces, graphics, design, compilation, information, software, computer
+        code (including source code or object code), services, text, pictures, information,
+        data, sound files, other files and the selection and arrangement thereof
+        (collectively, the \u201CMaterials\u201D) are protected by relevant intellectual
+        property and proprietary rights and laws.\r\n\r\n        All Materials contained
+        on the Services are the property of the Company, its Affiliates or and/or
+        third-party licensors. Unless otherwise expressly stated in writing by the
+        Company, by agreeing to these Terms you are granted a limited, non-sublicensable
+        license (i.e. a personal and limited right) to access and use the Services
+        for your personal use only.\r\n\r\n        The Company reserves all rights
+        not expressly granted in these Terms. This license is subject to these Terms
+        and does not permit you to engage in any of the following:\r\n\r\n           
+        resale or commercial use of the Services or the Materials;\r\n\r\n           
+        distribution, public performance or public display of any Materials;\r\n\r\n           
+        modifying or otherwise making any derivative uses of the Services or the
+        Materials, or any portion of them;\r\n\r\n            use of any data mining,
+        robots or similar data gathering or extraction methods;\r\n\r\n           
+        downloading (except page caching) of any portion of the Services, the Materials,
+        or any information contained in them, except as expressly permitted on the
+        Twitch Services; or\r\n\r\n            any use of the Services or the Materials
+        except for their intended purposes. Any use of the Twitch Services or the
+        Materials except as specifically authorized in these Terms of Service, without
+        the prior written permission of the Company, is strictly prohibited and may
+        violate intellectual property rights or other laws.\r\n\r\n        Unless
+        explicitly stated in these Terms, nothing in them shall be interpreted as
+        conferring any license to intellectual property rights, whether by estoppel,
+        implication or other legal principles.\r\n\r\n        The Company can terminate
+        this license at any time, without notice, including where we reasonably consider
+        that:\r\n\r\n            your use of the Services violates these Terms or
+        applicable law;\r\n\r\n            you fraudulently use or misuse the Twitch
+        Services; or\r\n\r\n            we are unable to continue providing the Services
+        to you for any reason.\r\n\r\n        The Company owns, has licensed, or
+        otherwise has rights to use all of the content that appears in the Service.
+        These Terms do not grant you or any other party any right, title or interest
+        in the Service or any content in the Service.\r\n\r\n        So long as you
+        abide by these Terms the Company grants you a non-exclusive, non-transferable,
+        revocable limited license subject to the limitations in these Terms, to access
+        and use the Service using mobile device solely for your own non-commercial
+        entertainment purposes. You agree not to use the Service for any other purpose.\r\n\r\n       
+        If you violate these Terms, or any of our other terms that apply to you,
+        we may take action against you. In addition, you may be breaking the law,
+        including violations of the Company\u2019s intellectual property rights.
+        Any attempt by you to disrupt or interfere with the Services including without
+        limitation undermining or manipulating the legitimate operation of any the
+        Company\u2019s Services is a violation of the Terms and may be a violation
+        of criminal and/or civil laws.\r\n\r\n        Notwithstanding other provisions
+        of these Terms, or any other terms that may apply to features you may choose
+        to use, you do not own in-game currency or items, regardless of whether you
+        \u201Cearned\u201D those items in a game or \u201Cpurchased\u201D them. The
+        Company gives you a limited license to use Virtual items during your use
+        of the Services.\r\n\r\n        You are not allowed to use Virtual Items
+        outside of the scope allowed by the Service (i.e., in the \u201Creal world\u201D),
+        for example by selling, gifting, or trading them. We will not recognize those
+        transfers as legitimate. You are not allowed to sublicense, trade, sell or
+        attempt to sell in-game Virtual Items for \u201Creal\u201D money, or exchange
+        Virtual Items for value of any kind outside of a game. Any such transfer
+        or attempted transfer is prohibited and may result in suspension or restriction
+        of your access to the Services along with an obligation to reimburse the
+        damages to us.\r\n\r\n\r\n\r\n    PAYMENT TERMS\r\n\r\n        We provide
+        the Services in the form of access to games and Virtual Items. You can use
+        \u201Creal world\u201D money to obtain subscription to games or a limited
+        license to use Virtual Items.\r\n\r\n        Virtual Items and subscriptions
+        to our games purchased on AppStore and Google Play Market will be subject
+        to those platforms\u2019 payment terms and conditions. The Company does not
+        control how you can pay on those platforms. Please review those platforms\u2019
+        terms of use for additional information.\r\n\r\n        For subscription
+        to a game or Virtual Items, your order will represent an offer to us to obtain
+        a subscription or a limited license for the relevant Services or Virtual
+        Items which will be accepted by us when we accept your payment.\r\n\r\n       
+        For orders to obtain a subscription or a limited license to use Virtual Items,
+        by clicking the button on the purchase window or page you:\r\n\r\n           
+        agree that we may start to supply your purchased subscription/Virtual Items
+        immediately after you have clicked that button;\r\n\r\n            if you
+        reside in the European Union, you acknowledge that you will therefore no
+        longer have the right to cancel under the EU\u2019s Consumer Rights Directive
+        (as implemented by the law of the country where you are located) once we
+        start to supply the subscription/Virtual Item.\r\n\r\n        All sales are
+        final. You acknowledge that the Company is not required to provide a refund
+        for any reason, and that you will not receive money or other compensation
+        for unused Virtual Items or subscription to a game unless otherwise is not
+        determined by the rules of platforms of applicable law.\r\n\r\n        You
+        agree to pay all fees and applicable taxes incurred by you. The Company may
+        revise the pricing for subscriptions to its games or Virtual Items it licenses
+        to you through the Service at any time.\r\n\r\n\r\n\r\n    PRIVACY\r\n\r\n       
+        The Company\u2019s Privacy Policy is drafted in mind with respective regulations
+        such as the California Consumer Privacy Act (\u201CCCPA\u201D), Children's
+        Online Privacy Protection Rule (\"COPPA\"), General Data Protection Regulation
+        (\u201CGDPR\u201D) and other applicable laws and regulations. The Privacy
+        Policy informs you on how we collect and use information about you and your
+        computer or mobile device, and how you can use the Services to share such
+        information with others and about our information collection, disclosure,
+        and parental consent practices with respect to information provided by children.\r\n\r\n       
+        You understand that through your use of our Services you acknowledge the
+        collection, use and sharing of this information as described in the Company\u2019s
+        Privacy Policy. If you don\u2019t agree with the Privacy Policy, then you
+        must stop using our Services.\r\n\r\n        We encourage you to read the
+        Privacy Policy carefully and use it to make informed decisions.\r\n\r\n\r\n\r\n   
+        THIRD PARTY ADVERTISING\r\n\r\n        Our Service and our games may feature
+        advertisements from Us or other companies. Our Privacy Policy explains what
+        information we share with advertisers.\r\n\r\n        Sometimes we provide
+        links in our games or on the Services to other companies\u2019 websites or
+        to companies who invite you to participate in a promotional offer and offer
+        you some feature of the Service or upgrade (such as in-game currency) in
+        exchange. Any charges or obligations you take on in dealing with these other
+        companies are your responsibility.\r\n\r\n        We make no representation
+        or promises about any content, goods or services these other companies provide,
+        even if linked to or from our Service or games. Also, just because we allow
+        a link to be included in our games or Service does not mean we endorse that
+        linked site. We are not liable for any claim relating to any content, goods
+        and/or services of third parties.\r\n\r\n        Please also note that the
+        linked sites are not under our control and may collect data or ask you to
+        provide them with your personal or other information, or they may automatically
+        collect information from you. When you use other companies\u2019 services
+        like these, the other company\u2019s service may (or may not) ask you for
+        permission to access your information and content. We are not responsible
+        for these other companies\u2019 content, business practices or privacy policies,
+        or for how they collect, use or share the information they get from you.
+        Your relationship with that other company will control how it can use, store,
+        and share your information.\r\n\r\n\r\n\r\n    WARRANTY DISCLAIMER\r\n\r\n       
+        THE SERVICES ARE AVAILABLE ON AN \u201CAS IS\u201D AND \u201CAS AVAILABLE\u201D
+        BASIS. NEITHER THE COMPANY NOR ANY AFFILIATE PROMISES OR WARRANTS THAT THE
+        SERVICE WILL BE UNINTERRUPTED, ERROR-FREE, OR VIRUS-FREE.\r\n\r\n       
+        USE OF THE SERVICE IS AT YOUR SOLE RISK. TO THE EXTENT PERMITTED BY THE APPLICABLE
+        LAW, THE COMPANY AND AFFILIATE MAKE NO WARRANTIES, CONDITIONS OR OTHER TERMS
+        OF ANY KIND, EITHER EXPRESS OR IMPLIED, ABOUT THE SERVICES. THE COMPANY AND
+        ITS AFFILIATES DISCLAIM ANY WARRANTIES OF TITLE OR IMPLIED WARRANTIES, CONDITIONS
+        OR OTHER TERMS OF NON-INFRINGEMENT, MERCHANTABILITY, QUIET ENJOYMENT, OR
+        FITNESS FOR A PARTICULAR PURPOSE.\r\n\r\n        If your state or country
+        does not allow these disclaimers, they do not apply to you. If your state
+        or country requires a certain period for which a warranty applies, it will
+        be either the shorter of 30 (thirty) days from your first use of the Service
+        or the shortest period required by law.\r\n\r\n\r\n\r\n    LIMITATIONS; WAIVERS
+        OF LIABILITY\r\n\r\n        You acknowledge that the Company and the Affiliates
+        are not liable:\r\n\r\n            for any indirect, incidental, special,
+        exemplary or consequential damages, including for loss of profits, goodwill
+        or data, in any way whatsoever arising out of the use of, or inability to
+        use, the Services; or\r\n\r\n            for the conduct of third parties,
+        including other users of the Services and operators of external sites.\r\n\r\n       
+        The risk of using the Services and external sites rests entirely upon you
+        as does the risk of injury from the service and external sites.\r\n\r\n       
+        To the fullest extent allowed by any law that applies, the disclaimers of
+        liability in these Terms apply to all damages or injury caused by the Services,
+        or related to use of, or inability to use, the service, under any cause of
+        action in any jurisdiction, including, without limitation, actions for breach
+        of warranty, breach of contract or tort (including negligence).\r\n\r\n       
+        TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW:\r\n\r\n            IN
+        NO EVENT SHALL TWITCH OR THE COMPANY BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT
+        OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING BUT
+        NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS OR LOSS OF DATA, WHETHER IN AN
+        ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) OR OTHERWISE,
+        ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE
+        THE SERVICES, THE CONTENT OR THE MATERIALS, INCLUDING WITHOUT LIMITATION
+        ANY DAMAGES CAUSED BY OR RESULTING FROM RELIANCE BY YOU ON ANY INFORMATION
+        OBTAINED FROM US, OR THAT RESULTS FROM MISTAKES, OMISSIONS, INTERRUPTIONS,
+        DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION
+        OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM,
+        COMMUNICATIONS FAILURE, THEFT, DESTRUCTION OR UNAUTHORIZED ACCESS TO TWITCH\u2019S
+        RECORDS, PROGRAMS OR SERVICES; AND\r\n\r\n            IN NO EVENT SHALL THE
+        AGGREGATE LIABILITY OF THE COMPANY AND/OR AFFILIATES, WHETHER IN CONTRACT,
+        WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED),
+        PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY, ARISING OUT OF OR RELATING
+        TO THE USE OF OR INABILITY TO USE THE SERVICES EXCEED THE $10.00 (TEN UNITED
+        STATES DOLLARS ZERO CENTS).\r\n\r\n        If some states or countries do
+        not allow the exclusion of certain warranties or the limitations/exclusions
+        of liability described above, these limitations/exclusions may not apply
+        to you if you reside in one of those states or countries.\r\n\r\n\r\n\r\n   
+        INDEMNITY\r\n\r\n        If you use or misuse the Service, or if you violate
+        these Terms or any other applicable rules, and that results in loss or damage
+        or in a claim or liability against the Company or its Affiliates, you agree
+        to indemnify, defend and hold harmless the Company and its Affiliates. It
+        means that you agree to compensate the Company and/or Affiliates in full
+        all losses, damages, claims or liabilities, including compensating the Company
+        and Affiliates all legal fees or expenses.\r\n\r\n        The Company and/or
+        Affiliates are allowed to take exclusive charge of the defense of any case
+        on which you are required to compensate or reimburse them, and it will be
+        at your expense. You also have to cooperate with the Company and Affiliates
+        in these cases.\r\n\r\n        This Section 9 shall survive if you stop using
+        the Services or their termination.\r\n\r\n\r\n\r\n    APPLICABLE LAW\r\n\r\n       
+        These Terms and our relationship will be governed by laws of British Virgin
+        Islands, except for its conflicts of laws principles.\r\n\r\n\r\n\r\n   
+        DISPUTE RESOLUTION\r\n\r\n        The disputes arising pursuant these Terms,
+        Privacy Policy, and any other documents regulating relations between you
+        and the Company shall be resolved by the way of amicable negotiations and
+        in good faith.\r\n\r\n        Shall the negotiations fail, all disputes shall
+        be resolved to the courts of the British Virgin Islands, unless we both agree
+        on some other location, and you and the Company both consent to venue and
+        personal jurisdiction in British Virgin Islands.\r\n\r\n\r\n\r\n    SEVERABILITY\r\n\r\n       
+        If any part of these Terms or the Privacy Policy is not enforceable for any
+        reason, the rest of these Terms and the Privacy Policy still applies and
+        is binding and any unenforceable term will be substituted reflecting our
+        intent as closely as possible.\r\n\r\n\r\n\r\n    SUBMISSIONS\r\n\r\n       
+        By submitting ideas, suggestions, documents, and/or proposals (\u201CSubmissions\u201D)
+        to the Company, Affiliates or their employees, you acknowledge and agree
+        that the Company shall be entitled to use or disclose such Submissions for
+        any purpose in any way without providing compensation or credit to you.\r\n\r\n\r\n\r\n   
+        ASSIGNMENT\r\n\r\n        We may give our rights, or our obligations, under
+        these Terms or our Privacy Policy to any person or entity at any time with
+        or without your consent. You may not give your rights or your obligations
+        under these Terms, Policy or our Privacy Policy without first getting the
+        Company\u2019s written consent, and any attempt to do so without our consent
+        is void.\r\n\r\n\r\n\r\n    ENTIRE AGREEMENT\r\n\r\n        These Terms,
+        and any other policies or rules we reference via these Terms, make up the
+        entire agreement between you and us relating to the subject matter of these
+        Terms, and (except in the case of fraud or made a fraudulent misstatement)
+        supersede all prior understandings of the parties relating to the subject
+        matter of these Terms, whether those prior understandings were electronic,
+        oral or written, or whether established by custom, practice, policy or precedent,
+        between you and us.\r\n\r\n\r\n\r\n    LANGUAGE OF THE TERMS\r\n\r\n       
+        If we provide a translated version of these Terms or Privacy Policy, or any
+        other legal documents, it is for informational purposes only.\r\n\r\n       
+        If discrepancies arise between the translated version and the English version,
+        then the English version shall prevail.\r\n\r\n\r\n\r\n    NO WAIVER\r\n\r\n       
+        If we do not enforce any our right under these Terms or the Privacy Policy,
+        that shall not mean that we waive our right to do so later.\r\n\r\n       
+        If we do expressly waive a provision of these Terms or our Privacy Policy
+        that does not mean it is waived for all time in the future.\r\n\r\n       
+        Any waiver must be in writing and signed by both you and us to be legally
+        binding.\r\n\r\n\r\n\r\n    NOTICES\r\n\r\n        You acknowledge and agree
+        that we can send notifications to you by posting in the Company\u2019 relevant
+        Services that you use (e.g. sites, mobile applications).\r\n\r\n\r\n\r\n   
+        CHANGES TO THESE TERMS\r\n\r\n        We reserve the right, at our discretion,
+        to change, modify, add or remove portions of the Terms, Privacy Policy, anytime
+        by posting the amended Terms or Privacy Policy on our site or within the
+        Service (such as through in-game notices). Unless we state otherwise, changes
+        are effective when posted. If you continue to use the Services after the
+        changes are posted you agree to the changes. New versions of the Terms and
+        the Privacy Policy and any other policies, codes or rules will be accessible
+        within the Services.\r\n\r\n        If you have a dispute with the Company,
+        the version of the Terms and the Privacy Policy in effect at the time the
+        Company received actual notice of the dispute will apply to such dispute.
+        However, if you keep using the Service after the changes are posted, you
+        are agreeing that the changes apply to your continued use of the Services.\r\n\r\n       
+        You can\u2019t make changes to the Terms or Privacy Policy unless both you
+        and the Company sign a written amendment.\r\n\r\n        If the Terms or
+        the Privacy Policy or Children\u2019s Online Privacy Policy have provisions
+        that contradict other The Company terms or policies, the provisions in these
+        Terms and the Privacy Policy shall prevail.\r\n\r\n\r\n\r\n    EQUITABLE
+        REMEDIES\r\n\r\n        You agree that given the unique and irreplaceable
+        nature of the rights granted and obligations made under these Terms if you
+        breach these Terms and/or our Privacy Policy, or intend to breach these Terms,
+        and/or Privacy Policy, money damages alone will not be enough to repair the
+        harm to the Company. Therefore, the Company may seek injunctive or other
+        equitable relief (e.g. get a court order to make you stop doing whatever
+        you\u2019re doing that is causing harm).\r\n\r\n        The Company does
+        not have to post any bond or surety or submit proof of damages.\r\n\r\n       
+        You agree to limit your claims to claims for money damages, as limited by
+        Section 8 (Limitations; Waivers of Liability). You also agree not to seek
+        injunctive or equitable relief or otherwise seek to stop us from operating
+        any aspect of the Services.\r\n\r\n\r\n\r\n    FORCE MAJEURE\r\n\r\n       
+        We are not liable for inability to fulfill our obligation under these Terms
+        and/or Privacy Policy, for inability to provide Services, for any changes
+        or problems occurring as a result of events out of our control, for example
+        changes or problems caused by natural disasters, war, terrorism, riots, embargoes,
+        acts of civil or military authorities, fire, floods, accidents, network infrastructure
+        failures, strikes, or shortages of transportation facilities, fuel, energy,
+        labor or materials.\r\n\r\n\r\n\r\n    CONTACT INFORMATION\r\n\r\n       
+        You may contact the Company by the following email: farm@llill.xyz\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705043, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 460359834}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1643737343}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 220899292}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: ActivateCoroutine
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: ScrollBarToUpScript, com.testtool.awesome-tools
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603163705052, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603275605921, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 87465541}
+    - target: {fileID: 338963603560729304, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_Name
+      value: UI MainScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.2923098
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.661442
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 89.1095
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338963603560729305, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 799762691839814383, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 799762691839814383, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 799762691839814383, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -83.9076
+      objectReference: {fileID: 0}
+    - target: {fileID: 799762691839814383, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -2.0664062
+      objectReference: {fileID: 0}
+    - target: {fileID: 3568483943449161225, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4583274086875072618, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4583274086875072618, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4583274086875072618, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -83.9076
+      objectReference: {fileID: 0}
+    - target: {fileID: 4583274086875072618, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -2.0012207
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762322626647140150, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5236568441780634334, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5236568441780634334, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5236568441780634334, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -83.7576
+      objectReference: {fileID: 0}
+    - target: {fileID: 5236568441780634334, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -2.0283203
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813324744726693046, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 460359834}
+    - target: {fileID: 7480507136206683739, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7480507136206683739, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7480507136206683739, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509532553599385825, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -80.00049
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+--- !u!114 &68191533 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6496414890966842922, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+  m_PrefabInstance: {fileID: 68191532}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1e945235306a7e4496397b403f11a9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &87465540
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1366838708958268522, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_Name
+      value: Main Camera
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1366838708958268527, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3280572436991762792, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+--- !u!20 &87465541 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 1366838708958268520, guid: 6edebc0a14b32c44e9dc549019571b73, type: 3}
+  m_PrefabInstance: {fileID: 87465540}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &159920448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 159920449}
+  - component: {fileID: 159920450}
+  m_Layer: 0
+  m_Name: leave1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &159920449
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159920448}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: -0.059, y: 1.432, z: 0}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 1757959862}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!212 &159920450
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159920448}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: -332601971, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &181056696 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2645583313663442044, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+  m_PrefabInstance: {fileID: 68191532}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e52a326025c3043861031a8668c397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &220899292 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4870238563544536671, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+  m_PrefabInstance: {fileID: 68191532}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e52a326025c3043861031a8668c397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &293089914
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 293089915}
+  - component: {fileID: 293089916}
+  m_Layer: 0
+  m_Name: leave2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &293089915
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 293089914}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.047, y: 1.751, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 709740417}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &293089916
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 293089914}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: -332601971, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &437411657
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 437411658}
+  - component: {fileID: 437411659}
+  m_Layer: 0
+  m_Name: leave2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &437411658
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 437411657}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.047, y: 1.751, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 842973691}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &437411659
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 437411657}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: -332601971, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &460359830 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5235750232837813258, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+  m_PrefabInstance: {fileID: 1752325510}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &460359832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460359830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ea7671ec6b680498d92360ca115d78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _musicToggle: {fileID: 978309856}
+  _soundToggle: {fileID: 1175598647}
+--- !u!114 &460359834 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+  m_PrefabInstance: {fileID: 1752325510}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460359830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9595044edcf76ed489e3c7c16e09e66f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &573385828
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 573385829}
+  - component: {fileID: 573385830}
+  m_Layer: 0
+  m_Name: Green
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &573385829
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 573385828}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2.088, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 842973691}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &573385830
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 573385828}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -1956474551, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1001 &595853178
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1934958458792448, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1934959531984243, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651593398285881539, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6247095585655773747, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_Name
+      value: 'Sky '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552454807243347, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552455053512782, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552455119862630, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552455182501526, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552455225407031, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552455316685437, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552455620481917, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552456257636841, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552456324513033, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8821552456532776810, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028009584301959, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028010254563631, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028010292982453, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028010373300170, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028010502854138, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028010664054838, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028010767765234, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028010778255746, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028010960001998, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028011050537964, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028011429584093, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081028011587012832, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+      propertyPath: m_SortingOrder
+      value: -11
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0f97df3e804ad214cb1518f4b9a28d37, type: 3}
+--- !u!1 &681174914
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 681174916}
+  - component: {fileID: 681174915}
+  m_Layer: 0
+  m_Name: AdsService
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &681174915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681174914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6639d8d6af0eb294f908517555559c5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &681174916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681174914}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &709740415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 709740417}
+  - component: {fileID: 709740416}
+  m_Layer: 0
+  m_Name: Sunflower2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!95 &709740416
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709740415}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: dcf626dbc53a3c04cbd42332ece015f6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!4 &709740417
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709740415}
+  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
+  m_LocalPosition: {x: -3.651, y: -2.362, z: 0}
+  m_LocalScale: {x: 0.91, y: 0.91, z: 0.91}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 947079203}
+  - {fileID: 2084642539}
+  - {fileID: 935615099}
+  - {fileID: 293089915}
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
+--- !u!1 &731404811
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 731404812}
+  - component: {fileID: 731404813}
+  m_Layer: 0
+  m_Name: Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &731404812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 731404811}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.07, y: 3.28, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1757959862}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &731404813
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 731404811}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 1814482314, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &809282443 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 338963601812906818, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+  m_PrefabInstance: {fileID: 68191532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &842973689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 842973691}
+  - component: {fileID: 842973690}
+  m_Layer: 0
+  m_Name: Sunflower3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!95 &842973690
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 842973689}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: dcf626dbc53a3c04cbd42332ece015f6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!4 &842973691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 842973689}
+  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
+  m_LocalPosition: {x: -2.534, y: -1.874, z: 0}
+  m_LocalScale: {x: 0.45999998, y: 0.45999998, z: 0.45999998}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 573385829}
+  - {fileID: 1725438032}
+  - {fileID: 1157623347}
+  - {fileID: 437411658}
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
+--- !u!1 &935615098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 935615099}
+  - component: {fileID: 935615100}
+  m_Layer: 0
+  m_Name: leave1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &935615099
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935615098}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: -0.059, y: 1.432, z: 0}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 709740417}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!212 &935615100
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935615098}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: -332601971, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &947079202
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 947079203}
+  - component: {fileID: 947079204}
+  m_Layer: 0
+  m_Name: Green
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &947079203
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947079202}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2.088, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 709740417}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &947079204
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947079202}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -1956474551, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &978309856 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 338963602050557380, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+  m_PrefabInstance: {fileID: 68191532}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &1157623346
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1157623347}
+  - component: {fileID: 1157623348}
+  m_Layer: 0
+  m_Name: leave1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1157623347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157623346}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: -0.059, y: 1.432, z: 0}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 842973691}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!212 &1157623348
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157623346}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: -332601971, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &1175598647 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 338963602209683360, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+  m_PrefabInstance: {fileID: 68191532}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &1199960812
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2029222379}
+    m_Modifications:
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739612, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7064108792431739615, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+      propertyPath: m_Name
+      value: BannerBG
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+--- !u!1001 &1274912432
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 110423884606299098, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 110423884606299098, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383135135464, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.68981534
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.21870822
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.16290754
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467338, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383275467341, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_Name
+      value: NPCs
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383320016481, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383580525783, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383580525783, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383770373101, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383770373101, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383770373103, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383864515700, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383864515700, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383917244293, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383917244293, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383991052560, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021383991052560, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384254085371, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384254085371, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384549763600, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384549763600, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384632960329, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384632960329, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384737289578, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384737289578, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _points.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384737289578, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384737289578, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _points.Array.data[5]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384737289578, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _points.Array.data[6]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384737289580, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384782089580, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 187021384782089580, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 924679311919375377, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 924679311919375377, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: patrol
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _points.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: npcs.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098381489585638866, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _points.Array.data[4]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2215467352059734727, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3099074606383636014, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 3099074606383636014, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 5682906800304704153, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 5682906800304704153, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 6249661671688906841, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6249661671688906841, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748393425257223090, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748393425257223090, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125747452855156348, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125747452855156348, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455552126742722011, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455552126742722011, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455552126742722011, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _sonudName.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455552126742722011, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _sonudName.Array.data[1]
+      value: Bird
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455552126742722011, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: _soundName.Array.data[0]
+      value: Bird
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127128465715542543, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 8127128465715542543, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.77
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 395576014f1cd9b41970e366b2aa94b2, type: 3}
+--- !u!114 &1439053840 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2334269339110908222, guid: 61234c3011e81ef4a981556b224d9897, type: 3}
+  m_PrefabInstance: {fileID: 1199960812}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3c5bc5eaff5154eaa53e351d7f80b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &1617549507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1617549509}
+  - component: {fileID: 1617549508}
+  m_Layer: 0
+  m_Name: AdsAPIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1617549508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1617549507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91d2ede5043d93148890b13f1d19824b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _service: {fileID: 681174915}
+  _soundSystem: {fileID: 460359834}
+  _bannerBG: {fileID: 1439053840}
+--- !u!4 &1617549509
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1617549507}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.3130052, y: 2.2553613, z: 0.5518344}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1643737343 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 338963603375738665, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+  m_PrefabInstance: {fileID: 68191532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1664733935
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357753, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357758, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: _sceneMediatorObj
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141115982331357759, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+      propertyPath: m_Name
+      value: QuestBannerManager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4a9048237c694f14d9d89d037f0d11a0, type: 3}
+--- !u!1 &1725438031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1725438032}
+  - component: {fileID: 1725438033}
+  m_Layer: 0
+  m_Name: Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1725438032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1725438031}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.07, y: 3.28, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 842973691}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1725438033
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1725438031}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 1814482314, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1001 &1752325510
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.89803
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.2872318
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09795738
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303446, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 216634193803303447, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: m_Name
+      value: SceneHelpers
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070744770626836850, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _fadeSccreenPanel
+      value: 
+      objectReference: {fileID: 68191533}
+    - target: {fileID: 3070744770626836850, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _scenesInfo.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070744770626836850, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _scenesInfo.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: fef27f5040f35514c8c19af105a56601, type: 2}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _music._volume
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _music._audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 22f4c570d67d69141ab57a9971e7e7d4, type: 3}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[0]._loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[0]._name
+      value: Ambient
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[1]._loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[1]._name
+      value: Ambient
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[0]._name
+      value: buttonUIClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[1]._name
+      value: PlaybuttonUIClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[2]._name
+      value: BackSounds
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[3]._name
+      value: Bird
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[0]._pitch
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[1]._pitch
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[0]._pitch
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[2]._pitch
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[3]._pitch
+      value: 1.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[0]._volume
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[1]._volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[0]._volume
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[1]._volume
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[2]._volume
+      value: 0.303
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[3]._volume
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[0]._audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 22f4c570d67d69141ab57a9971e7e7d4, type: 3}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _musics.Array.data[1]._audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 6265cdc8bd8e297459541bfe36ad79e5, type: 3}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[0]._audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: fdc4a813de985ba46bb1fda38f784eeb, type: 3}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[1]._audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: c5958f4603defe24794c62e362eb0d2e, type: 3}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[2]._audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d5a6d61652935e44aa09bbe02848671e, type: 3}
+    - target: {fileID: 5235750232837813271, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+      propertyPath: _sounds.Array.data[3]._audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: a8f7782e1a47ee94285f4332fe65f373, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+--- !u!1 &1752325511 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4109291000212947645, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+  m_PrefabInstance: {fileID: 1752325510}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1752325512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1752325511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 432e6197b2bb7d54a9f09f5fc8f0834e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _config: {fileID: 11400000, guid: 29ff04589351a4b4395e9328130fadd1, type: 2}
+--- !u!1 &1757959860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1757959862}
+  - component: {fileID: 1757959861}
+  m_Layer: 0
+  m_Name: Sunflower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!95 &1757959861
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1757959860}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: dcf626dbc53a3c04cbd42332ece015f6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!4 &1757959862
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1757959860}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.75, y: -2.421, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 22008891}
+  - {fileID: 731404812}
+  - {fileID: 159920449}
+  - {fileID: 2110445150}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1870544250 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 692361404546779487, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+  m_PrefabInstance: {fileID: 1752325510}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1870544252 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3070744770626836850, guid: 366ac503337b85441a9fc0198a3928e2, type: 3}
+  m_PrefabInstance: {fileID: 1752325510}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1870544250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59160cc487e14d46953d7a7fc9749e57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1870544253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1870544250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 432e6197b2bb7d54a9f09f5fc8f0834e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _config: {fileID: 11400000, guid: 29ff04589351a4b4395e9328130fadd1, type: 2}
+--- !u!224 &2029222379 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 338963602972116862, guid: 9cfddb4bec24ce24f95f354f8c6d17f8, type: 3}
+  m_PrefabInstance: {fileID: 68191532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2084642538
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2084642539}
+  - component: {fileID: 2084642540}
+  m_Layer: 0
+  m_Name: Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2084642539
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084642538}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.07, y: 3.28, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 709740417}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2084642540
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084642538}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 1814482314, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &2110445149
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2110445150}
+  - component: {fileID: 2110445151}
+  m_Layer: 0
+  m_Name: leave2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2110445150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2110445149}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.047, y: 1.751, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1757959862}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2110445151
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2110445149}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: -332601971, guid: 14e007d0085a304418f7b0eb00e721e8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1001 &2875031060809248398
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.84377474
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5366975
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031059325818506, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 64.918
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060327916934, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.092
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060327916934, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.277
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060327916935, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060327916937, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060639308967, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.681
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599648, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_Name
+      value: DogFarmer
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599678, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875031060816599679, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+      propertyPath: _soundSystem
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3dda868e6689ef7479788f0464abe2fc, type: 3}
+--- !u!1001 &9129151640285719305
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.030912
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0024627652
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639068, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129151639340639069, guid: b9123479ec5eb4428becaaf41806518f, type: 3}
+      propertyPath: m_Name
+      value: BeeNPCs
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b9123479ec5eb4428becaaf41806518f, type: 3}

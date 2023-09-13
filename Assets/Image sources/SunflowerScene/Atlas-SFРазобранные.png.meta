@@ -1,0 +1,1694 @@
+fileFormatVersion: 2
+guid: be66af062ded91f4594e437d45a8a3d6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_0"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1120
+        width: 728
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -359, y: -89}
+        - {x: 330, y: -89}
+        - {x: 350, y: -76}
+        - {x: 355, y: -40}
+        - {x: 356, y: 76}
+        - {x: 356, y: 106}
+        - {x: 42, y: 106}
+        - {x: -354, y: 101}
+        - {x: -364, y: 85}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73a02a564780c4493fc6d59d053b51
+      internalID: 1517466928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_1"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 965
+        width: 181
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 67.5}
+        - {x: -84.5, y: 5.5}
+        - {x: -76.5, y: -41.5}
+        - {x: -53.5, y: -64.5}
+        - {x: -22.5, y: -82.5}
+        - {x: 29, y: -81.5}
+        - {x: 76.5, y: -54.5}
+        - {x: 90.5, y: 7.5}
+        - {x: 63.5, y: 86.5}
+        - {x: -13.5, y: 86.5}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69825ea0d9c50a94ba021fca29ee3b3c
+      internalID: -1379623922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_2"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1837
+        width: 354
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -156, y: -100.5}
+        - {x: -76, y: -105.5}
+        - {x: 177, y: 34.5}
+        - {x: 177, y: 105.5}
+        - {x: -22, y: 105.5}
+        - {x: -177, y: -57.5}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b197e6d3d044f409cd19bd4098195e
+      internalID: -1634100062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_3"
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1936
+        width: 135
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 54.5}
+        - {x: 8.5, y: 39.5}
+        - {x: 56.5, y: -26.5}
+        - {x: 39.5, y: -54.5}
+        - {x: -30.5, y: -54}
+        - {x: -59.5, y: -8.5}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f7f38226ae9b4f8fbfd7f530891d5
+      internalID: 148766515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_5"
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1927
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -3.5}
+        - {x: -60.5, y: -35.5}
+        - {x: -37.5, y: -57.5}
+        - {x: -13.5, y: -57.5}
+        - {x: 43.5, y: -26.5}
+        - {x: 69.5, y: -4.5}
+        - {x: 35.5, y: 60.5}
+        - {x: 25.5, y: 60.5}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde1d2b706e10342995a33eae1305d3
+      internalID: -1723014808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_6"
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1024
+        width: 465
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: -80.5}
+        - {x: -48, y: -119.5}
+        - {x: 7, y: -127.5}
+        - {x: 54, y: -128.5}
+        - {x: 142, y: -87.5}
+        - {x: 181, y: -23.5}
+        - {x: 232.5, y: 29.5}
+        - {x: 231, y: 133.5}
+        - {x: 129, y: 133.5}
+        - {x: -53, y: 4.5}
+        - {x: -52.5, y: -24.5}
+        - {x: -68.5, y: -20.5}
+        - {x: -93.5, y: -61.5}
+        - {x: -75.5, y: -68.5}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49fa69546e17c24c835c08adf1a27c7
+      internalID: 1804073244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_7"
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1283
+        width: 345
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -157.5}
+        - {x: -150.5, y: -141.5}
+        - {x: -160.5, y: -27.5}
+        - {x: -170.5, y: -8.5}
+        - {x: -144.5, y: 72.5}
+        - {x: -111.5, y: 91.5}
+        - {x: -62.5, y: 140.5}
+        - {x: 76.5, y: 135.5}
+        - {x: 166.5, y: 65.5}
+        - {x: 172.5, y: -69.5}
+        - {x: 114.5, y: -126.5}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b50b82d2d7969749becfbaa27463474
+      internalID: -745299341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 351
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -68}
+        - {x: -103.5, y: -96}
+        - {x: -175.5, y: -100}
+        - {x: -175.5, y: -57}
+        - {x: -125.5, y: 33}
+        - {x: -65.92489, y: 91.92822}
+        - {x: 167.5, y: 94}
+        - {x: 175.5, y: 47}
+        - {x: 48.5, y: -47}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a699905b0ab945b3e4e730238439d
+      internalID: 1067876062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_15"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1569
+        width: 313
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -157}
+        - {x: -102.5, y: -136}
+        - {x: -156.5, y: -42}
+        - {x: -144.5, y: 80}
+        - {x: -96.5, y: 124}
+        - {x: 5.5, y: 157}
+        - {x: 83.5, y: 131}
+        - {x: 146.5, y: 64}
+        - {x: 153.5, y: -66}
+        - {x: 73.5, y: -151}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b29a7c93b1fccb458a1255647ef89c2
+      internalID: -1868707609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1931
+        height: 1105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -965.5, y: 330.5}
+        - {x: -965.5, y: -552.5}
+        - {x: 956.5, y: -552.5}
+        - {x: 955.5, y: 355.5}
+        - {x: 925.5, y: 365.5}
+        - {x: 907.5, y: 382.5}
+        - {x: 863.5, y: 479.5}
+        - {x: 823.5, y: 422.5}
+        - {x: 784.5, y: 385.5}
+        - {x: 744.5, y: 391.5}
+        - {x: 721.5, y: 466.5}
+        - {x: 707.5, y: 488.5}
+        - {x: 675.5, y: 486.5}
+        - {x: 637.5, y: 511.5}
+        - {x: 580.5, y: 500.5}
+        - {x: 543.5, y: 395.5}
+        - {x: 489.5, y: 380.5}
+        - {x: 439.5, y: 382.5}
+        - {x: 400.5, y: 438.5}
+        - {x: 372.5, y: 479.5}
+        - {x: 323.5, y: 359.5}
+        - {x: 248.5, y: 348.5}
+        - {x: 225.5, y: 390.5}
+        - {x: 214.5, y: 394.5}
+        - {x: 136.5, y: 404.5}
+        - {x: 109.5, y: 474.5}
+        - {x: 25.5, y: 531.5}
+        - {x: -18.5, y: 522.5}
+        - {x: -43.5, y: 484.5}
+        - {x: -53.5, y: 445.5}
+        - {x: -155.5, y: 478.5}
+        - {x: -225.5, y: 511.5}
+        - {x: -249.5, y: 506.5}
+        - {x: -303.5, y: 470.5}
+        - {x: -371.5, y: 419.5}
+        - {x: -378.5, y: 397.5}
+        - {x: -377.5, y: 365.5}
+        - {x: -386.5, y: 349.5}
+        - {x: -411.5, y: 327.5}
+        - {x: -458.5, y: 329.5}
+        - {x: -493.5, y: 354.5}
+        - {x: -509.5, y: 354.5}
+        - {x: -537.5, y: 341.5}
+        - {x: -593.5, y: 334.5}
+        - {x: -653.5, y: 351.5}
+        - {x: -762.5, y: 341.5}
+        - {x: -857.5, y: 358.5}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4aed54302f49b44ab1f633e0be2f9a
+      internalID: 2118143748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_18"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1035
+        width: 303
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -151.5, y: -45.5}
+        - {x: 151.5, y: -45.5}
+        - {x: 151.5, y: 45.5}
+        - {x: -151.5, y: 45.5}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 26, y: 0}
+        - {x: 0, y: 32}
+        - {x: -26, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33ca8ec410add5429e1b9527590a4eb
+      internalID: -748270993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_21"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1328
+        width: 706
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 328, y: -38.5}
+        - {x: -353, y: -39.5}
+        - {x: -353, y: 41.5}
+        - {x: -141, y: 41.5}
+        - {x: 65, y: 41.5}
+        - {x: 332, y: 41.5}
+        - {x: 332, y: -33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee7adb904e43045875c3fa84adec50
+      internalID: -522769314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_22"
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1754
+        width: 301
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 150.5, y: -11.5}
+        - {x: 136.5, y: -77.5}
+        - {x: 76.5, y: -142.5}
+        - {x: -110.5, y: -142.5}
+        - {x: -136.5, y: -77.5}
+        - {x: -150.5, y: -44.5}
+        - {x: -145.5, y: 13.5}
+        - {x: -111.5, y: 73.5}
+        - {x: -82.5, y: 117.5}
+        - {x: -29.5, y: 142.5}
+        - {x: 29.5, y: 142.5}
+        - {x: 128.5, y: 91.5}
+        - {x: 137.5, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afcb3b03e2a4a845b5197a5de6c287c
+      internalID: 1059103361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_23"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1814
+        width: 307
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135.5, y: -101}
+        - {x: -132.5, y: -41}
+        - {x: -5.5, y: 94}
+        - {x: 88.5, y: 115}
+        - {x: 149.5, y: 116}
+        - {x: 144.5, y: 55}
+        - {x: 76.5, y: -42}
+        - {x: -12.5, y: -101}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6396941b60b0991489a1e1d238995b8f
+      internalID: -1297934781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_24"
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1621
+        width: 239
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -107.5}
+        - {x: -98.5, y: -71.5}
+        - {x: -119.5, y: -24.5}
+        - {x: -115.5, y: 105.5}
+        - {x: 84.5, y: 107.5}
+        - {x: 108.5, y: 61.5}
+        - {x: 119.5, y: -42.5}
+        - {x: 47.5, y: -99.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3570be286dc5304bb9909ce58edeb05
+      internalID: 703949904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_46"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 887
+        width: 172
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -111.5}
+        - {x: -52, y: -101.5}
+        - {x: -68, y: -55.5}
+        - {x: -65, y: 35.5}
+        - {x: -28, y: 120.5}
+        - {x: 27, y: 120.5}
+        - {x: 45, y: 24.5}
+        - {x: 43, y: -29.5}
+        - {x: 37, y: -57.5}
+        - {x: 27, y: -96.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb831228839bfcc4687d91cd55bb90fa
+      internalID: -1841702187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_47"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1633
+        width: 287
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: -130.5}
+        - {x: -21.5, y: -135.5}
+        - {x: -104.5, y: -107.5}
+        - {x: -143.5, y: -11.5}
+        - {x: -125.5, y: 74.5}
+        - {x: -74.5, y: 117.5}
+        - {x: -26.5, y: 140.5}
+        - {x: 58.5, y: 139.5}
+        - {x: 116.5, y: 77.5}
+        - {x: 136.5, y: 19.5}
+        - {x: 136.5, y: -53.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25146a6a8cb4a384189f9655d41057f3
+      internalID: -1243200398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_48"
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1696
+        width: 351
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -170.5}
+        - {x: 32, y: -168.5}
+        - {x: -15, y: -172.5}
+        - {x: -81, y: -158.5}
+        - {x: -95.5, y: -140.5}
+        - {x: -126, y: -124.5}
+        - {x: -153.5, y: -82.5}
+        - {x: -175.5, y: -6.5}
+        - {x: -177, y: 175.5}
+        - {x: 92.5, y: 175.5}
+        - {x: 175.5, y: 64.5}
+        - {x: 175.5, y: -27.5}
+        - {x: 153.5, y: -103.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4202c5d9687c774fbd4503aa4d194e5
+      internalID: 2108246134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_49"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1413
+        width: 532
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -260, y: -111}
+        - {x: -263, y: 53}
+        - {x: -230, y: 89}
+        - {x: -173, y: 115}
+        - {x: 12, y: 109}
+        - {x: 123, y: 73}
+        - {x: 202, y: 92}
+        - {x: 259, y: 56}
+        - {x: 260, y: 47}
+        - {x: 184, y: -113}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171962c3f104acb4992390890be47f25
+      internalID: -710394121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_50"
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1432
+        width: 254
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -132}
+        - {x: -60.5, y: -116.5}
+        - {x: -114, y: -69}
+        - {x: -120, y: -1}
+        - {x: -118, y: 13}
+        - {x: -123, y: 64}
+        - {x: -111, y: 110}
+        - {x: -82, y: 130}
+        - {x: -59, y: 133}
+        - {x: -36, y: 132}
+        - {x: -14.5, y: 119.5}
+        - {x: 9.5, y: -19.5}
+        - {x: 106, y: -57}
+        - {x: 113, y: -64}
+        - {x: 125, y: -98}
+        - {x: 93, y: -126}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b21055ed103f4bb12f0ffb57a13b0
+      internalID: 469089164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_51"
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1711
+        width: 292
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -152.5}
+        - {x: -95, y: -159.5}
+        - {x: -146, y: -73.5}
+        - {x: -136, y: 35.5}
+        - {x: -146, y: 153.5}
+        - {x: -24, y: 159.5}
+        - {x: 34, y: 151.5}
+        - {x: 104, y: 76.5}
+        - {x: 135, y: 37.5}
+        - {x: 144, y: -85.5}
+        - {x: 90, y: -142.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6f00560f55218489a9b2090a87386f
+      internalID: 1831820855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_54"
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1431
+        width: 293
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -142}
+        - {x: -113.5, y: -98}
+        - {x: -123.5, y: -71}
+        - {x: -127.5, y: -67}
+        - {x: -146.5, y: -41}
+        - {x: -146.5, y: 16}
+        - {x: -128.5, y: 95}
+        - {x: -50.5, y: 138}
+        - {x: 107.83423, y: 135.11523}
+        - {x: 139.5, y: 8}
+        - {x: 126.5, y: -57}
+        - {x: 94.5, y: -108}
+        - {x: 37.5, y: -142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735f0dbf4a24c1a4397a0d04403886f8
+      internalID: 1018451060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_56"
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1107
+        width: 1016
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -209, y: -216.5}
+        - {x: -484, y: -221.5}
+        - {x: -486, y: -52.5}
+        - {x: -508, y: -2.5}
+        - {x: -485, y: 43.5}
+        - {x: -363, y: 68.5}
+        - {x: -208.5, y: 19.5}
+        - {x: -40.5, y: -11.5}
+        - {x: -24.5, y: 53.5}
+        - {x: 31.5, y: 138.5}
+        - {x: 107, y: 272.5}
+        - {x: 157, y: 233.5}
+        - {x: 372, y: 272.5}
+        - {x: 361, y: 144.5}
+        - {x: 439, y: 114.5}
+        - {x: 489, y: 72.5}
+        - {x: 491, y: 53.5}
+        - {x: 501, y: 37.5}
+        - {x: 508, y: -123.5}
+        - {x: 456, y: -174.5}
+        - {x: 402, y: -200.5}
+        - {x: 401, y: -231.5}
+        - {x: 344, y: -214.5}
+        - {x: 279, y: -206.5}
+        - {x: 204, y: -206.5}
+        - {x: 145, y: -272.5}
+        - {x: -176, y: -272.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0345915c2a5866f489449805ef4668c3
+      internalID: 2094102900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_4"
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1928
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -36.5}
+        - {x: -39.5, y: 55.5}
+        - {x: 48.5, y: 30.5}
+        - {x: 48.5, y: -45.5}
+        - {x: 20.5, y: -55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba8ed8dbaccc24da28f5899b3bb09b
+      internalID: 737584472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_8"
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 0
+        width: 66
+        height: 1021
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -510.5}
+        - {x: -18, y: 477.5}
+        - {x: -1, y: 495.5}
+        - {x: 16, y: 499.5}
+        - {x: 33, y: -510.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4897e7f26eb89d2419193b1b71c2c40e
+      internalID: -691511632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_9"
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 964
+        width: 155
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: -56.5}
+        - {x: -74.5, y: -31.5}
+        - {x: 19.5, y: 56.5}
+        - {x: 77.5, y: 16.5}
+        - {x: 63.5, y: -4.5}
+        - {x: -22.5, y: -56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b3d7f9ef3851469ad17376e23682b
+      internalID: -447900766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_10"
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 936
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -29}
+        - {x: -33, y: 34}
+        - {x: 9, y: 35}
+        - {x: 31, y: 25}
+        - {x: 34, y: -8}
+        - {x: 30, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e6fa227db01843959397d70de0aff
+      internalID: -546126934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_11"
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 998
+        width: 139
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -25}
+        - {x: -54.5, y: 9}
+        - {x: -69.5, y: 35}
+        - {x: -51.5, y: 41}
+        - {x: -3.5, y: 31}
+        - {x: 66.5, y: -17}
+        - {x: 69.5, y: -44}
+        - {x: 44.5, y: -44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c724b7d739f14398d1748473cdc0c
+      internalID: 2115137236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_12"
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1055
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac19d76e432c7fa459a58c8c12412227
+      internalID: -1864448707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_13"
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1111
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d6bdef86b43b2428b8c49b8ced9f3e
+      internalID: 751688500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_19"
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1617
+        width: 288
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -153.5}
+        - {x: -68, y: -143.5}
+        - {x: -92, y: -123.5}
+        - {x: -129, y: -90.5}
+        - {x: -144, y: -5.5}
+        - {x: -122, y: 54.5}
+        - {x: -65, y: 140.5}
+        - {x: -6, y: 162.5}
+        - {x: 60, y: 144.5}
+        - {x: 144, y: 49.5}
+        - {x: 144, y: -73.5}
+        - {x: 89, y: -139.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43cdc5b95ed644d8585197ca85da89
+      internalID: -1882619507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_20"
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1503
+        width: 229
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: -64}
+        - {x: 33.5, y: -98}
+        - {x: -36.5, y: -106}
+        - {x: -110.5, y: -94}
+        - {x: -114.5, y: 75}
+        - {x: -31.5, y: 111}
+        - {x: 48.5, y: 111}
+        - {x: 114.5, y: 38}
+        - {x: 114.5, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9941bf00c57e81f468a910206740963a
+      internalID: 166084924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_25"
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 931
+        width: 144
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -91.5}
+        - {x: -52, y: -37.5}
+        - {x: -72, y: 3.5}
+        - {x: -72, y: 73.5}
+        - {x: -27, y: 91.5}
+        - {x: 32, y: 45}
+        - {x: 49, y: -12.5}
+        - {x: 72, y: -50.5}
+        - {x: 66, y: -81}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d25a69973ef7974388759ce749a8a64
+      internalID: -1391589121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_26"
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 901
+        width: 228
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -95}
+        - {x: 4, y: -52}
+        - {x: -16, y: -47}
+        - {x: -44, y: -3}
+        - {x: -112, y: 58}
+        - {x: -102, y: 87}
+        - {x: 14, y: 95}
+        - {x: 70, y: 22}
+        - {x: 112, y: -48}
+        - {x: 97, y: -87}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2165bb03e8ad4cab0fc93facf9535
+      internalID: 30662593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_27"
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1077
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -38.5}
+        - {x: -37.5, y: 39.5}
+        - {x: 41.5, y: 40.5}
+        - {x: 43.5, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4317b91538ecf646b23ab2402e820f4
+      internalID: 578998217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_28"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1033
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -49}
+        - {x: -17, y: -45}
+        - {x: -36, y: -32}
+        - {x: -44, y: 33}
+        - {x: -17, y: 51}
+        - {x: 19, y: 42}
+        - {x: 44, y: -12}
+        - {x: 28, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c5abfaf72eee844ae3a90aaeb5b150
+      internalID: 196358697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_29"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1409
+        width: 204
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -85.5}
+        - {x: -72, y: -80.5}
+        - {x: -102, y: -54.5}
+        - {x: -102, y: 25.5}
+        - {x: -47, y: 80}
+        - {x: 16, y: 82.5}
+        - {x: 77, y: 66.5}
+        - {x: 102, y: 25.5}
+        - {x: 102, y: -42.5}
+        - {x: 38, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53bb753ce2ca77469059fb2d59676d8
+      internalID: -688425885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_30"
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1607
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -58.5}
+        - {x: -65, y: -36.5}
+        - {x: -46, y: 22.5}
+        - {x: -6, y: 64.5}
+        - {x: 8, y: 61.5}
+        - {x: 18, y: 56.5}
+        - {x: 66, y: -29.5}
+        - {x: 61, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cbd950d29c002448e919b83910c46b
+      internalID: -754482822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_31"
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1585
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915461224f1d7094eaa3ac63d89f6e98
+      internalID: 374817132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_32"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 902
+        width: 169
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: -35}
+        - {x: -71.5, y: -23}
+        - {x: -77.5, y: -9}
+        - {x: -74.5, y: 15}
+        - {x: -62.5, y: 37}
+        - {x: -19.5, y: 42}
+        - {x: 11.5, y: 19}
+        - {x: 79.5, y: 12}
+        - {x: 80.5, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2f0f66c8f2f54aa9369b9b579a959
+      internalID: 857822222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_33"
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1011
+        width: 236
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -68}
+        - {x: -36, y: -45}
+        - {x: -110, y: 0}
+        - {x: -118, y: 24}
+        - {x: -118, y: 52}
+        - {x: -84, y: 73}
+        - {x: -44, y: 73}
+        - {x: 41, y: 13}
+        - {x: 100, y: 6}
+        - {x: 117, y: -15}
+        - {x: 98, y: -71}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d77c865ea0e6874aa7741cc86228db8
+      internalID: 1690117224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_34"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1097
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c378b76fc13540544ae0ea934e542aab
+      internalID: -318841202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_35"
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1034
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888feafdd390dbe4a8db05e6f0e3e420
+      internalID: 818844263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_16"
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1070
+        width: 224
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -37}
+        - {x: -109, y: -11}
+        - {x: -112, y: 4}
+        - {x: -83, y: 30}
+        - {x: -83, y: 52}
+        - {x: -60, y: 52}
+        - {x: 88, y: 14}
+        - {x: 81, y: -4}
+        - {x: 79, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161df27122c10a0459ac31372a54a151
+      internalID: 754085088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_36"
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1556
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -42.5}
+        - {x: -36, y: 43.5}
+        - {x: 34, y: 43.5}
+        - {x: 36, y: -44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38dbcd1cc50b845b7c99d0aae198fb
+      internalID: 666817494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_37"
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1068
+        width: 196
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -43.5}
+        - {x: -92, y: -18.5}
+        - {x: -95, y: -6.5}
+        - {x: -94, y: 1.5}
+        - {x: -65, y: 37.5}
+        - {x: -62, y: 59.5}
+        - {x: 82, y: 43.5}
+        - {x: 79, y: -20.5}
+        - {x: 45, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58bc1df93ff5b4089ca610a6f36647
+      internalID: -518705513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1120
+        width: 728
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -364, y: 36.5}
+        - {x: -364, y: 105.5}
+        - {x: 364, y: 105.5}
+        - {x: 364, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e80b4068889ed14a9eda085216c6c92
+      internalID: 1000899531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front main
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1188
+        width: 534
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 194, y: -86}
+        - {x: 150, y: -92}
+        - {x: -119, y: -66}
+        - {x: -135, y: -68}
+        - {x: -177, y: -65}
+        - {x: -192, y: -62}
+        - {x: -207, y: -58}
+        - {x: -221, y: -53}
+        - {x: -230, y: -49}
+        - {x: -239, y: -44}
+        - {x: -257, y: -35}
+        - {x: -256, y: -5}
+        - {x: -257, y: 23}
+        - {x: -193, y: 118}
+        - {x: -174, y: 231}
+        - {x: -120, y: 231}
+        - {x: -99, y: 203}
+        - {x: -43, y: 188}
+        - {x: 73, y: 231}
+        - {x: 132, y: 231}
+        - {x: 120, y: 105}
+        - {x: 251, y: 68}
+        - {x: 250, y: 21}
+        - {x: 262, y: -7}
+        - {x: 263, y: -18}
+        - {x: 265, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912e33664e183643b4df744f7213c96
+      internalID: -1511496280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_0": 1517466928
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_1": -1379623922
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_10": -546126934
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_11": 2115137236
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_12": -1864448707
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_13": 751688500
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_14": 1067876062
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_15": -1868707609
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_16": 754085088
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_17": 2118143748
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_18": -748270993
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_19": -1882619507
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_2": -1634100062
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_20": 166084924
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_21": -522769314
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_22": 1059103361
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_23": -1297934781
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_24": 703949904
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_25": -1391589121
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_26": 30662593
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_27": 578998217
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_28": 196358697
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_29": -688425885
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_3": 148766515
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_30": -754482822
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_31": 374817132
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_32": 857822222
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_33": 1690117224
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_34": -318841202
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_35": 818844263
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_36": 666817494
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_37": -518705513
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_39": 60798784
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_4": 737584472
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_40": -33672430
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_41": -880559070
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_42": 1785820366
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_43": 2023756719
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_44": -1825819830
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_45": -1066301898
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_46": -1841702187
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_47": -1243200398
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_48": 2108246134
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_49": -710394121
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_5": -1723014808
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_50": 469089164
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_51": 1831820855
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_52": 1938253509
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_53": 1331918584
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_54": 1018451060
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_55": -45613244
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_56": 2094102900
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_6": 1804073244
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_7": -745299341
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_8": -691511632
+      "Atlas-SF\u0420\u0430\u0437\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435_9": -447900766
+      d: 1000899531
+      front main: -1511496280
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

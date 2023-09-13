@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033733fcc80346168e6471473ccad422, type: 3}
+  m_Name: TomatoLevel
+  m_EditorClassIdentifier: 
+  tomatoTomatoBasket: {fileID: 6432175736245623419, guid: 7c93fc8e6ce00c347942ccf214717715, type: 3}
+  _worm: {fileID: 5678335218637215949, guid: 0c29c847a93bd9d4888cec024705e35f, type: 3}
+  _waterPump: {fileID: 6073521439763857254, guid: a30fe419c2df8d44d94c31da65b0eb41, type: 3}
+  _shovel: {fileID: 8982559673006458093, guid: 2ccb9b47d282ba04ab2318a9840a8036, type: 3}
+  _tomatoSeed: {fileID: 7401368401329688296, guid: 39e0894e7af9c0e44a1b29b371f3f603, type: 3}
+  wormsBasket: {fileID: 1462533445367551731, guid: bad329c54ac1b4a43b160664b2eff1ff, type: 3}
+  _wormsToSpawn: 5
+  _tomatoToSpawn: 8
+  _maxStoredTomato: 8

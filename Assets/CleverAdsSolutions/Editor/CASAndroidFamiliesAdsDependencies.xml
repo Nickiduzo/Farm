@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="com.cleveradssolutions:cas-families:3.1.9" version="3.1.9"/>
+    <androidPackage spec="com.google.android.gms:play-services-ads:22.1.0" version="22.1.0"/>
+    <androidPackage spec="com.unity3d.ads:unity-ads:4.7.1" version="4.7.1"/>
+    <androidPackage spec="com.ironsource.sdk:mediationsdk:7.3.0.1" version="7.3.0.1">
+      <repositories>
+        <repository>https://android-sdk.is.com/</repository>
+      </repositories>
+    </androidPackage>
+    <androidPackage spec="com.adcolony:sdk:4.8.0" version="4.8.0"/>
+    <androidPackage spec="com.vungle:publisher-sdk-android:6.12.1" version="6.12.1"/>
+    <androidPackage spec="com.inmobi.monetization:inmobi-ads:10.1.4" version="10.1.4"/>
+    <androidPackage spec="tv.superawesome.sdk.publisher:superawesome:9.1.0" version="9.1.0">
+      <repositories>
+        <repository>https://aa-sdk.s3-eu-west-1.amazonaws.com/android_repo</repository>
+      </repositories>
+    </androidPackage>
+  </androidPackages>
+</dependencies>

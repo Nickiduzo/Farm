@@ -1,0 +1,982 @@
+fileFormatVersion: 2
+guid: 40eba581ea075d94fbf5b875a9a6b801
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheepEye
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 788
+        width: 91
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -53}
+        - {x: -27.5, y: -53}
+        - {x: -45.5, y: -25}
+        - {x: -45.5, y: 53}
+        - {x: 45.5, y: 53}
+        - {x: 45.5, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a44bdf38d281946b25497c1ba067fb
+      internalID: -1830330477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepTrimEffectFur
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 801
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -40.5}
+        - {x: -44.5, y: -40.5}
+        - {x: -44.5, y: 40.5}
+        - {x: 44.5, y: 40.5}
+        - {x: 44.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393adf95f1a2aa341a1425b576f40c61
+      internalID: -846241870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBackground
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1921
+        height: 1038
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -960.5, y: -519}
+        - {x: -959.5, y: 243}
+        - {x: -878.5, y: 283}
+        - {x: -853.5, y: 389}
+        - {x: -420.5, y: 390}
+        - {x: -355.5, y: 364}
+        - {x: -327.5, y: 314}
+        - {x: -317.5, y: 296}
+        - {x: -292.5, y: 267}
+        - {x: -215.5, y: 314}
+        - {x: -164.5, y: 259}
+        - {x: -107.5, y: 285}
+        - {x: -94.64465, y: 353.588}
+        - {x: 6.5, y: 442}
+        - {x: 33.233032, y: 446.95764}
+        - {x: 66.5, y: 475}
+        - {x: 204.09961, y: 424.77576}
+        - {x: 292.5, y: 480}
+        - {x: 484.5, y: 415}
+        - {x: 712.5, y: 519}
+        - {x: 960.5, y: 519}
+        - {x: 960.5, y: -519}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545879f5f8f1ab7488a4b3c485f6b4bc
+      internalID: -634592002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepInEye
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1006
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d115846fdebf4cb739235664eef74
+      internalID: -1431077394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepTongue
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 962
+        width: 172
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -94.5}
+        - {x: 11, y: -98.5}
+        - {x: -86, y: -98.5}
+        - {x: -86, y: 98.5}
+        - {x: 68, y: 98.5}
+        - {x: 86, y: 79.5}
+        - {x: 86, y: -56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13753ee3d564b9b459325c6cbee04208
+      internalID: 1622059354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackLeg
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 0
+        width: 123
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5271922, y: 0.95960605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3673ee0ee3194e34ea71a554bc0af654
+      internalID: 626822276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteLeg
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 321
+        width: 123
+        height: 310
+      alignment: 9
+      pivot: {x: 0.54247856, y: 0.9555253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0c2bc018d099f458fd7b45ca967f38
+      internalID: -2068484617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepTrimmerBtn
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 804
+        width: 93
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795121616bb0945499649cc10f327d43
+      internalID: -1905893488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepTrimmer
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1039
+        width: 290
+        height: 882
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145, y: -441}
+        - {x: -58, y: -269}
+        - {x: -67, y: -108}
+        - {x: -145, y: 11}
+        - {x: -145, y: 441}
+        - {x: 145, y: 441}
+        - {x: 145, y: -441}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be5dc96032175448a1dfbe2f6e9dc2
+      internalID: -2108222184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteSheepMouse
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1922
+        width: 325
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635fcab6c20eea445a7ca12e2ec30963
+      internalID: -1908292895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackSheepMouse
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1925
+        width: 312
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485c201829b781c479554e68a05f9067
+      internalID: 980283823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteHeadLeftPart
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1813
+        width: 146
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867c76936801abc44ad7949064a8a3a4
+      internalID: 1815747052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteHeadRightPart
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1779
+        width: 169
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b597bebf882b44a04b404de8385d2
+      internalID: -80389137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepHeadUpRightPart
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1741
+        width: 153
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -37}
+        - {x: -26.5, y: -8}
+        - {x: -76.5, y: 2}
+        - {x: -76.5, y: 37}
+        - {x: 1.5, y: 37}
+        - {x: 76.5, y: -5}
+        - {x: 76.5, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1294b0e091765242b29016ed5ada9eb
+      internalID: -1482427935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepHeadUpLeftPart
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1977
+        width: 157
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d5b184063e1e645ad0e3bf981c6243
+      internalID: 1292696132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackHeadLeftPart
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1920
+        width: 155
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: -57.5}
+        - {x: -77.5, y: -15.5}
+        - {x: -14.5, y: 57.5}
+        - {x: 77.5, y: 57.5}
+        - {x: 77.5, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f45d2578ec4c41b6b094e957a01c7
+      internalID: -173857855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackHeadRightPart
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1805
+        width: 167
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b64f434a9d6264aa7a9568e22f11ce
+      internalID: -1756682355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepSmallFur
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1549
+        width: 274
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -137, y: -99.5}
+        - {x: -137, y: 99.5}
+        - {x: 58, y: 99.5}
+        - {x: 137, y: 40.5}
+        - {x: 137, y: -99.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbb0c338e588654da570dabab24dd1a
+      internalID: 1252717835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepFur
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1528
+        width: 363
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -145.5}
+        - {x: -181.5, y: -74.5}
+        - {x: -181.5, y: 26.5}
+        - {x: -107.5, y: 120.5}
+        - {x: 0.5, y: 145.5}
+        - {x: 77.5, y: 145.5}
+        - {x: 135.5, y: 99.5}
+        - {x: 181.5, y: 84.5}
+        - {x: 181.5, y: -145.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8879c26545280cc44a68aa82dfc49c3a
+      internalID: 1525465845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBody
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 975
+        width: 976
+        height: 615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 310, y: -245.5}
+        - {x: 214, y: -300.5}
+        - {x: 137, y: -307.5}
+        - {x: -30.394897, y: -307.5}
+        - {x: -117, y: -282.5}
+        - {x: -233, y: -232.5}
+        - {x: -301, y: -156.5}
+        - {x: -326, y: -124.5}
+        - {x: -448, y: -23.5}
+        - {x: -488, y: 144.5}
+        - {x: -488, y: 227.5}
+        - {x: -369, y: 307.5}
+        - {x: -220, y: 307.5}
+        - {x: -82, y: 242.5}
+        - {x: 390, y: 261.5}
+        - {x: 402.1427, y: 199.42395}
+        - {x: 472, y: 92.5}
+        - {x: 481, y: 32.5}
+        - {x: 488, y: -239.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08d38c6f7363240947fea4bdc60e24
+      internalID: 811745505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackLeftEar
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1702
+        width: 180
+        height: 166
+      alignment: 9
+      pivot: {x: 0.0741038, y: 0.9484282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: -83}
+        - {x: -90, y: -70}
+        - {x: -90, y: 83}
+        - {x: 32, y: 83}
+        - {x: 90, y: 7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445d93d6a768b745b803771c0fd27b8
+      internalID: -2130880056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteLeftEar
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1868
+        width: 179
+        height: 169
+      alignment: 9
+      pivot: {x: 0.09212217, y: 0.89444673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: -84.5}
+        - {x: -89.5, y: -1.5}
+        - {x: -89.5, y: 84.5}
+        - {x: -6.5, y: 84.5}
+        - {x: 89.5, y: 0.5}
+        - {x: 89.5, y: -84.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c069d12b7c2f844b18505eef34ef2f
+      internalID: -1644219441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteUpHead
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1561
+        width: 469
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 232.5, y: 34.5}
+        - {x: 232.5, y: -218.5}
+        - {x: 196.5, y: -243}
+        - {x: -234.5, y: -243}
+        - {x: -234.5, y: -23.5}
+        - {x: -139.5, y: 64.5}
+        - {x: -79.5, y: 149.5}
+        - {x: -35.5, y: 257.5}
+        - {x: 149.5, y: 257.5}
+        - {x: 222.5, y: 88.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38e8966757e124cbcc73aa2a7324d9
+      internalID: -879020844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteRightEar
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1905
+        width: 200
+        height: 131
+      alignment: 9
+      pivot: {x: 0.9391193, y: 0.9119398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -20.5}
+        - {x: 60, y: -65.5}
+        - {x: -84, y: -65.5}
+        - {x: -100, y: -35.5}
+        - {x: -100, y: 65.5}
+        - {x: 100, y: 65.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cdb72d3a7683b45bb687a6a9444c14
+      internalID: 1847332546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackRightEar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1914
+        width: 200
+        height: 134
+      alignment: 9
+      pivot: {x: 0.98083603, y: 0.9320278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: -67}
+        - {x: -100, y: -67}
+        - {x: -100, y: 67}
+        - {x: 100, y: 67}
+        - {x: 100, y: 13}
+        - {x: 79, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd612f0fdceec664a86ae44a88143482
+      internalID: -2001919468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackUpHead
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1561
+        width: 467
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -233.5, y: -243.5}
+        - {x: -233.5, y: -83.5}
+        - {x: -96.5, y: 99.5}
+        - {x: -56.5, y: 156.5}
+        - {x: -21.5, y: 243.5}
+        - {x: 145.5, y: 243.5}
+        - {x: 202.5, y: 122.5}
+        - {x: 233.5, y: 51.5}
+        - {x: 232.5, y: -243.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733f7bbabef7fbe489174273dc2fabcc
+      internalID: 643273109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepTradePost
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 880
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 280, y: -286.5}
+        - {x: 248, y: -271.5}
+        - {x: 145, y: -286.5}
+        - {x: 99, y: -271.5}
+        - {x: -334, y: -272.5}
+        - {x: -350, y: -286.5}
+        - {x: -440, y: -286.5}
+        - {x: -440, y: 286.5}
+        - {x: 435, y: 286.5}
+        - {x: 427, y: 246.5}
+        - {x: 439, y: 214.5}
+        - {x: 436, y: -106.5}
+        - {x: 439.6765, y: -124.44849}
+        - {x: 440, y: -286.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04178e31f04f2408d2057c5a4e65f7
+      internalID: -1258278845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteDownHead
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1468
+        width: 461
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: -46.5}
+        - {x: -230.5, y: -46.5}
+        - {x: -230.5, y: 46.5}
+        - {x: 211.5, y: 46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7739c5785c094190cc043318519c7
+      internalID: 601090661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackDownHead
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1469
+        width: 474
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801bbff711eb9984b962dd66c3344a29
+      internalID: 1599947546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepBlackNose
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 689
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e348a3da0b7149ad0befca59e7b55
+      internalID: 2049990224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWhiteNose
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1594
+        width: 155
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baebfda453fa9f41a3ecafedd77eab1
+      internalID: -1285312444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SheepAtlass_0: 372660625
+      SheepBackground: -634592002
+      SheepBlackDownHead: 1599947546
+      SheepBlackHeadLeftPart: -173857855
+      SheepBlackHeadRightPart: -1756682355
+      SheepBlackLeftEar: -2130880056
+      SheepBlackLeg: 626822276
+      SheepBlackNose: 2049990224
+      SheepBlackRightEar: -2001919468
+      SheepBlackSheepMouse: 980283823
+      SheepBlackUpHead: 643273109
+      SheepBody: 811745505
+      SheepEye: -1830330477
+      SheepFur: 1525465845
+      SheepHeadUpLeftPart: 1292696132
+      SheepHeadUpRightPart: -1482427935
+      SheepInEye: -1431077394
+      SheepSmallFur: 1252717835
+      SheepTongue: 1622059354
+      SheepTradePost: -1258278845
+      SheepTrimEffectFur: -846241870
+      SheepTrimmer: -2108222184
+      SheepTrimmerBtn: -1905893488
+      SheepWhiteDownHead: 601090661
+      SheepWhiteHeadLeftPart: 1815747052
+      SheepWhiteHeadRightPart: -80389137
+      SheepWhiteLeftEar: -1644219441
+      SheepWhiteLeg: -2068484617
+      SheepWhiteNose: -1285312444
+      SheepWhiteRightEar: 1847332546
+      SheepWhiteSheepMouse: -1908292895
+      SheepWhiteUpHead: -879020844
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
